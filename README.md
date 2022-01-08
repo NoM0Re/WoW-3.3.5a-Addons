@@ -102,7 +102,7 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 
 ## **GearScore**
 Allows you to easily see the calculated Gearscore of yourself and other players.<br/>
-[WotlkAddons](https://wotlkaddons.com/addon/gearscore)
+[WotLKAddOns](https://wotlkaddons.com/addon/gearscore)
 ![Screenshot]()
 
 ## **PallyPower**
@@ -117,17 +117,17 @@ This addon is an in-game representation of Class Loot Lists. Kaliban's Class Loo
 
 ## **DrDamage**
 DrDamage displays the calculated damage or healing of abilities with talents, gear and buffs included on your actionbar buttons. The addon also adds various statistics to the tooltips in your spellbook and on the actionbar.<br/>
-[WotlkAddons](https://wotlkaddons.com/addon/drdamage)
+[WotLKAddOns](https://wotlkaddons.com/addon/drdamage)
 ![Screenshot]()
 
 ## **MikScrollingBattleText(MSBT)**
 MSBT is designed to be an extremely lightweight, efficient, and highly configurable mod that makes it easier to see combat information by scrolling the information on the screen in separate, dynamically creatable scroll areas. It is a replacement for Blizzard's Floating Combat Text and Damage output.<br/>
-[WotlkAddons](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)
+[WotLKAddOns](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)
 ![Screenshot]()
 
 ## **Omen**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
-[WotlkAddons](https://wotlkaddons.com/addon/omen)
+[WotLKAddOns](https://wotlkaddons.com/addon/omen)
 ![Screenshot]()
 
 ## **Plagued**
@@ -143,6 +143,31 @@ RBS reports on a configurable dashboard or to group chat on consumables, buffs, 
 ## **RaidComp**
 Raid composition is an important aspect of WoW PvE. RC also helps raid leaders by giving an overview of the different buff and debuff categories. It won't do all the thinking for you, raid optimization is complex, however it should be able to do most of the grunt work and highlight some of the categories and abilities you need to look closer at.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93)
+![Screenshot]()
+
+## **SmartTrack**
+Smart automatic tracking for hunters with Improved tracking talent. Whenever you enter combat this addon will check your target's type (if any) and automatically change your tracking accordingly. If you change the target during combat your tracking will change too (if your new target is of different type and you can track it).<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/smarttrack/files)
+![Screenshot]()
+
+## **GladiusEx**
+The famous (and imo, far superior) arena frame AddOn GladiusEx. Gladius adds enemy unit frames to arenas for easier targeting and focusing. It is highly configurable and you can disable most features of this addon.<br/>
+[Github](https://github.com/ManneN1/GladiusExBackport-WotLK)
+![Screenshot]()
+
+## **Healbot**
+A supportive addon for healers, as it can do numerous amounts of helpful little tricks.<br/>
+[WotLKDB](https://wotlkdb.com/addons/healbot-continued/)
+![Screenshot]()
+
+## **Outfitter**
+Lets you switch between equipment sets easily<br/>
+[WotLKAddOns](https://wotlkaddons.com/addon/outfitter)
+![Screenshot]()
+
+## **Postal**
+Postal offers enhanced mailbox support by providing allot of features.<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/postal/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 
