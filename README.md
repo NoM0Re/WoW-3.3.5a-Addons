@@ -106,6 +106,11 @@ Allows you to easily see the calculated Gearscore of yourself and other players.
 ![Screenshot]()
 
 ## **PallyPower**
-Allows you to easily see the calculated Gearscore of yourself and other players.
+Pally Power provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator.
 [RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)
+![Screenshot]()
+
+## **ClassLoot**
+This addon is an in-game representation of Class Loot Lists. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.
+[WoWAce](https://www.wowace.com/projects/classloot/files/439152)
 ![Screenshot]()
