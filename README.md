@@ -1,4 +1,4 @@
-# WoW Addons for Patch 3.3.5a WotLK
+# Most Useful WoW Addons for Patch 3.3.5a WotLK
 
 **This is my AddonRepository for WotLK.** I written this Repository to download the newest Addons for the WotLK Patch.
 <br/>
