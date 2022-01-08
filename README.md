@@ -50,8 +50,8 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 
 
 ## **Auctionator**
-Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
-<br/>
+Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.
+<br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.zip)
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Auctionator.png)<br/>
