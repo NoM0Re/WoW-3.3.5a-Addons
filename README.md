@@ -5,7 +5,7 @@ BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces ca
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)<br/>
 [GitHub](https://github.com/freix1/BLT_WotLK)<br/>
 
 ## **AmILockedOut**
