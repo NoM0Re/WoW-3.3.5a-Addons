@@ -36,7 +36,7 @@ Auctionator is designed for casual everyday auction house users. Auctionator mak
 ![Screenshot]()
 
 ## **SoundAlerter**
-SoundAlerter is an addon that alerts players via sound when enemies are casting or have used certain abilities as well as a tracker for when abilities have worn off (eg. divine shield down, deterrence down).<br/>
+SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses important CDs, abilities, controls, defs, trinkets. In general, all important actions of yours are used in PvP<br/>
 [GitHub](https://github.com/Cortes-Jeremy/SoundAlerter)
 ![Screenshot]()
 
@@ -74,3 +74,14 @@ RSA is an addon that can announce spell casts to various chat channels. There is
 Carbonite Maps is a google style map replacement for the world of World of Warcraft.<br/>
 [GitHub](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)
 ![Screenshot]()
+
+## **Chatter**
+Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff, including
+[GitHub](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
+![Screenshot]()
+
+## **WIM (WoW Instant Messenger)**
+WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game.
+[GitHub](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
+![Screenshot]()
+
