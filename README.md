@@ -76,41 +76,80 @@ Carbonite Maps is a google style map replacement for the world of World of Warcr
 ![Screenshot]()
 
 ## **Chatter**
-Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff, including
+Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 ## **WIM (WoW Instant Messenger)**
-WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game.
+WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 ## **Addon Control Panal**
-Stop logging out of the game just to change your addons! ACP adds the "Addons" button to the game's main menu to disable/enable Addons.
+Stop logging out of the game just to change your addons! ACP adds the "Addons" button to the game's main menu to disable/enable Addons.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 ## **LoseControl**
-LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.
+LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82)
 ![Screenshot]()
 
 ## **AtlasLoot Enhanced**
-AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.
+AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 ## **GearScore**
-Allows you to easily see the calculated Gearscore of yourself and other players.
+Allows you to easily see the calculated Gearscore of yourself and other players.<br/>
 [WotlkAddons](https://wotlkaddons.com/addon/gearscore)
 ![Screenshot]()
 
 ## **PallyPower**
-Pally Power provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator.
+Pally Power provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator.<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)
 ![Screenshot]()
 
 ## **ClassLoot**
-This addon is an in-game representation of Class Loot Lists. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.
+This addon is an in-game representation of Class Loot Lists. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.<br/>
 [WoWAce](https://www.wowace.com/projects/classloot/files/439152)
 ![Screenshot]()
+
+## **DrDamage**
+DrDamage displays the calculated damage or healing of abilities with talents, gear and buffs included on your actionbar buttons. The addon also adds various statistics to the tooltips in your spellbook and on the actionbar.<br/>
+[WotlkAddons](https://wotlkaddons.com/addon/drdamage)
+![Screenshot]()
+
+## **MikScrollingBattleText(MSBT)**
+MSBT is designed to be an extremely lightweight, efficient, and highly configurable mod that makes it easier to see combat information by scrolling the information on the screen in separate, dynamically creatable scroll areas. It is a replacement for Blizzard's Floating Combat Text and Damage output.<br/>
+[WotlkAddons](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)
+![Screenshot]()
+
+## **Omen**
+Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
+[WotlkAddons](https://wotlkaddons.com/addon/omen)
+![Screenshot]()
+
+## **Plagued**
+During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive Unbound Plague, you will begin a 10 second countdown in /yell.<br/>
+[WoWAce](https://www.wowace.com/projects/plagued/files)
+![Screenshot]()
+
+## **RaidBuffStatus**
+RBS reports on a configurable dashboard or to group chat on consumables, buffs, AFK, mana and many many others but in an intelligent automagic way. RBS is the last nail in the coffin of all slacking level max-level raiders.<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/raidbuffstatus/files/all?filter-game-version=2020709689%3A98)
+![Screenshot]()
+
+## **RaidComp**
+Raid composition is an important aspect of WoW PvE. RC also helps raid leaders by giving an overview of the different buff and debuff categories. It won't do all the thinking for you, raid optimization is complex, however it should be able to do most of the grunt work and highlight some of the categories and abilities you need to look closer at.<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93)
+![Screenshot]()
+
+
+
+
+
+
+
+
+
