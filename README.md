@@ -77,11 +77,35 @@ Carbonite Maps is a google style map replacement for the world of World of Warcr
 
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff, including
-[GitHub](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
+[Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
 ## **WIM (WoW Instant Messenger)**
 WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game.
-[GitHub](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)
+[Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98)
 ![Screenshot]()
 
+## **Addon Control Panal**
+Stop logging out of the game just to change your addons! ACP adds the "Addons" button to the game's main menu to disable/enable Addons.
+[Curseforge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98)
+![Screenshot]()
+
+## **LoseControl**
+LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.
+[Curseforge](https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82)
+![Screenshot]()
+
+## **AtlasLoot Enhanced**
+AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.
+[Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98)
+![Screenshot]()
+
+## **GearScore**
+Allows you to easily see the calculated Gearscore of yourself and other players.
+[WotlkAddons](https://wotlkaddons.com/addon/gearscore)
+![Screenshot]()
+
+## **PallyPower**
+Allows you to easily see the calculated Gearscore of yourself and other players.
+[RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)
+![Screenshot]()
