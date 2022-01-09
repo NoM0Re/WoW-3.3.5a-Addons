@@ -1,13 +1,13 @@
 # Most Useful WoW Addons for Patch 3.3.5a WotLK
 
-**This is my AddonRepository for WotLK.**<br/>I have written this Repository to download the newest Addons for the WotLK Patch.<br/>
+**This is my AddonRepository for WotLK. Created by NoM0Re**<br/>I have written this Repository to download the newest Addons for the WotLK Patch.<br/>
 Not every Addon is compatible with other Addons. (It is written in the Description)<br/><br/>
 **The Repository will be Updated every 2 Month to the newest Build of the Addons**, if something changed.<br/><br/>
 Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addons.
 <br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
 have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
-**Created by NoM0Re**<br/>
+<br/>
 <br/>
 ## **How to install WoW AddOns**
 
