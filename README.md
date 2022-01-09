@@ -1,12 +1,12 @@
 # Most Useful WoW Addons for Patch 3.3.5a WotLK
 
-**This is my AddonRepository for WotLK.** I written this Repository to download the newest Addons for the WotLK Patch.<br/>
+**This is my AddonRepository for WotLK.** I have written this Repository to download the newest Addons for the WotLK Patch.<br/>
 Not every Addon is compatible with other Addons. (It is written in the Description)<br/><br/>
 **The Repository will be Updated every 2 Month to the newest Build of the Addons**, if something changed.<br/><br/>
-Also i posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addon.
-<br/>U can be sure if its a Github Link, the Addon still has Support.<br/>
+Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addons.
+<br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
-**Created by NoM0Re**<br/>have fun and i wish u good leveling, gathering, pvp and raiding :)<br/>
+**Created by NoM0Re**<br/>have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 <br/>
 ## **How to install WoW AddOns**
 
@@ -22,7 +22,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
    Copy the whole folder (SavedVariables)<br/>
    Find the Charakter where u wanna put it in to \WTF\Account\ACCOUNTNAME\REALM\OTHERCHARNAME\ folder<br/>
    Drag and Drop the files into the OTHERCHARNAME folder and override the files<br/>
-   Start the Game (Game must be stopped at this whole process)<br/><br/>
+   Start the Game (Game must be stopped at the whole process)<br/><br/>
 
 # **Addon List:**
 
