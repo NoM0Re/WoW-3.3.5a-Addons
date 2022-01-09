@@ -14,7 +14,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
    Unzip downloaded Addon (if required)<br/>
    Find in your World of Warcraft folder, the Interface/Addon folder<br/>
    Drag and Drop the files into the Addon folder (do not rename them)<br/>
-   Restart the Game<br/>
+   Restart the Game<br/><br/>
     
 ## **How to copy Addon configs from Character to Character/Accounts**
 
@@ -22,7 +22,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
    Copy the whole folder (SavedVariables)<br/>
    Find the Charakter where u wanna put it in to \WTF\Account\ACCOUNTNAME\REALM\OTHERCHARNAME\ folder<br/>
    Drag and Drop the files into the OTHERCHARNAME folder and override the files<br/>
-   Start the Game (Game must be stopped at this whole process)<br/>
+   Start the Game (Game must be stopped at this whole process)<br/><br/>
 
 # **Addon List:**
 
