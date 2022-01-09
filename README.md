@@ -24,7 +24,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
    Drag and Drop the files into the OTHERCHARNAME folder and override the files<br/>
    Start the Game (Game must be stopped at this whole process)<br/>
 
-##**Addon List:**
+## **Addon List:**
 
 ## **BLT**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
