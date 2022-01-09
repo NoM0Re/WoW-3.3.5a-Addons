@@ -26,7 +26,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
 
 # **Addon List:**
 
-## **Addon Control Panal**
+## **Addon Control Panel**
 Stop logging out of the game just to change your addons! ACP adds the "Addons" button to the game's main menu to disable/enable Addons.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ACP.zip)<br/>
