@@ -327,7 +327,7 @@ During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive 
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Plagued.zip)<br/>
 <br/>
-![Screenshot]()<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Plagued.png)<br/>
 [WoWAce](https://www.wowace.com/projects/plagued/files)<br/>
 
 ## **GladiusEx (Needs configuration)**
