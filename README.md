@@ -58,7 +58,7 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/DBM.png)<br/>
 [GitHub](https://github.com/Zidras/DBM-Warmane)<br/>
 
-## **Details!**
+## **Details! (Needs small configuration)**
 Details! Damage Meter is a popular addon that tracks information and statistics about a combat encounter in World of Warcraft.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Details.zip)<br/>
@@ -66,7 +66,7 @@ Details! Damage Meter is a popular addon that tracks information and statistics 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Details.png)<br/>
 [GitHub](https://github.com/Bunny67/Details-WotLK)<br/>
 
-## **Omen**
+## **Omen (Needs small configuration)**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Omen.zip)<br/>
