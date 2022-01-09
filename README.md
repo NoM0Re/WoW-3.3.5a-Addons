@@ -11,9 +11,10 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
 ## **How to install WoW AddOns**<br/>
 <br/>
     Download an Addon<br/>
-    Unzip downloaded AddOn folder (if required) and place in WoW Folder<br/>
+    Unzip downloaded Addon(if required)<br/>
     Find in your World of Warcraft folder the Interface/Addon folder<br/>
     Drag and Drop it into the Addon folder<br/>
+    Restart the Game
     <br/>
     
 ## **BLT**
