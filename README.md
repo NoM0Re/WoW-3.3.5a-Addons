@@ -6,8 +6,8 @@ Not every Addon is compatible with other Addons. (It is written in the Descripti
 Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addons.
 <br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
->have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
->**Created by NoM0Re**<br/
+have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
+**Created by NoM0Re**<br/
 <br/>
 ## **How to install WoW AddOns**
 
