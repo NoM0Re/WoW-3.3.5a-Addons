@@ -9,7 +9,6 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
 **Created by NoM0Re** have fun and i wish u good raiding :)<br/>
 <br/>
 ## **How to install WoW AddOns**<br/>
-<br/>
     Download an Addon<br/>
     Unzip downloaded Addon(if required)<br/>
     Find in your World of Warcraft folder the Interface/Addon folder<br/>
