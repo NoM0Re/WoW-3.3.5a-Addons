@@ -10,11 +10,11 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
 <br/>
 ## **How to install WoW AddOns**
 
-    Download an Addon<br/>
-    Unzip downloaded Addon(if required)<br/>
-    Find in your World of Warcraft folder the Interface/Addon folder<br/>
-    Drag and Drop it into the Addon folder<br/>
-    Restart the Game<br/>
+   Download an Addon<br/>
+   Unzip downloaded Addon(if required)<br/>
+   Find in your World of Warcraft folder the Interface/Addon folder<br/>
+   Drag and Drop it into the Addon folder<br/>
+   Restart the Game<br/>
     
 ## **BLT**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
