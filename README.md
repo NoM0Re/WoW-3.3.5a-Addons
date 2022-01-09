@@ -169,7 +169,7 @@ Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and mo
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/TidyPlates.jpg)<br/>
 [GitHub](https://github.com/bkader/TidyPlates_WoTLK)<br/>
 
-## **ElvUI (Needs heavy configuration)**
+## **ElvUI (Needs heavy configuration) (not compatible with Dominos and Bartender4)**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
@@ -177,7 +177,7 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Elvui.jpg)<br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
-## **Dominos (Needs middle configuration)**
+## **Dominos (Needs middle configuration)** (not compatible with Bartender4 and ElvUI)
 Dominos is an addon that replaces your main bar with movable parts that offer additional customization. Dominos is used primarily for its action bars.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Dominos.zip)<br/>
@@ -185,7 +185,7 @@ Dominos is an addon that replaces your main bar with movable parts that offer ad
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/dominos.jpg)<br/>
 [GitHub](https://github.com/bkader/Dominos)<br/>
 
-## **Bartender4 (Needs high configuration)**
+## **Bartender4 (Needs high configuration)(not compatible with ElvUI and Dominos)**
 Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.
 <br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Bartender4.zip)<br/>
