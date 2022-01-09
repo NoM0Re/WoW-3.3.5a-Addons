@@ -75,11 +75,11 @@ Omen is a threat meter. Basically, enemies in WoW decide who to attack by decidi
 [WotLKAddOns](https://wotlkaddons.com/addon/omen)<br/>
 
 ## **Questhelper**
-NEED TO BE MADE<br/>
-[Download]()<br/>
+Questhelper tells you how to finish your quests in the easiest, fastest manner. It includes a database of quests, monsters, and items, telling you the exact location of that dang Perfect Satyr Horn you can't find. It also computes the fastest path to complete all your quests - and gain experience - as quickly as possible.<br/>
+[Download]()<br/>https://github.com/NoM0Re/Addons/raw/main/Addons/Questhelper.zip
 <br/>
-![Screenshot]()<br/>
-[Source]()<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Questhelper.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98)<br/>
 
 ## **Carbonite**
 Carbonite Maps is a google style map replacement for the world of World of Warcraft.<br/>
