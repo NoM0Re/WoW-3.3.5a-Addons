@@ -7,7 +7,15 @@ Also i posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md
 <br/>U can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
 **Created by NoM0Re** have fun and i wish u good raiding :)<br/>
-
+<br/>
+How to install WoW AddOns<br/>
+<br/>
+    Download an Addon<br/>
+    Unzip downloaded AddOn folder (if required) and place in WoW Folder<br/>
+    Find in your World of Warcraft folder the Interface/Addon folder<br/>
+    Drag and Drop it into the Addon folder<br/>
+    <br/>
+    
 ## **BLT**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
 <br/>
