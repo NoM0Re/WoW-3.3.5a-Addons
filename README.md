@@ -8,7 +8,7 @@ Also i posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md
 If it is not a Github Link it will not have Support anymore.<br/><br/>
 **Created by NoM0Re** have fun and i wish u good raiding :)<br/>
 <br/>
-How to install WoW AddOns<br/>
+### **How to install WoW AddOns**<br/>
 <br/>
     Download an Addon<br/>
     Unzip downloaded AddOn folder (if required) and place in WoW Folder<br/>
