@@ -50,7 +50,7 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Atlasloot.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **Deadly Boss Mods (DBM) (Needs high configuration)**
+## **DBM Deadly Boss Mods (Needs high configuration)**
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/DBM.zip)<br/>
