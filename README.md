@@ -54,18 +54,18 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 ## **DBM Deadly Boss Mods (Needs high configuration)**
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid.<br/>
 <br/>
+[Download GitHub Newest!](https://github.com/Zidras/DBM-Warmane)<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/DBM.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/DBM.png)<br/>
-[GitHub](https://github.com/Zidras/DBM-Warmane)<br/>
 
 ## **Details! (Needs small configuration)**
 Details! Damage Meter is a popular addon that tracks information and statistics about a combat encounter in World of Warcraft.<br/>
 <br/>
+[Download GitHub Newest!](https://github.com/Bunny67/Details-WotLK)<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Details.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Details.png)<br/>
-[GitHub](https://github.com/Bunny67/Details-WotLK)<br/>
 
 ## **Omen (Needs small configuration)**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
@@ -85,18 +85,19 @@ Questhelper tells you how to finish your quests in the easiest, fastest manner. 
 ## **Carbonite**
 Carbonite Maps is a google style map replacement for the world of World of Warcraft.<br/>
 <br/>
+[Download GitHub Newest!](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Carbonite.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Carbonite.png)<br/>
-[GitHub](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 
 ## **Auctionator**
 Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.
 <br/><br/>
+[Download GitHub Newest!](https://github.com/alchem1ster/WotLK-Auctionator)
+<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.zip)
 <br/><br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Auctionator.png)<br/>
-[GitHub](https://github.com/alchem1ster/WotLK-Auctionator)<br/>
 
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
@@ -126,9 +127,9 @@ AmILockedOut Little addon which saves me quite some time with all my twinks. Rem
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Weakaura.zip)<br/>
+[Download GitHub Newest!](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Weakaura.png)<br/>
-[GitHub](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
 ## **NeedToKnow (Needs middle configuration)** 
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
@@ -149,7 +150,7 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 ## **BLT (Needs configuration)**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
+[Download GitHub Newest!](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)<br/>
 [GitHub](https://github.com/freix1/BLT_WotLK)<br/>
@@ -173,10 +174,10 @@ Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and mo
 ## **ElvUI (Needs heavy configuration) (not compatible with Dominos and Bartender4)**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
+[Download (OUTDATED)](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Elvui.jpg)<br/>
-[GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
+[GitHub Newest ](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
 ## **Dominos (Needs middle configuration)** (not compatible with Bartender4 and ElvUI)
 Dominos is an addon that replaces your main bar with movable parts that offer additional customization. Dominos is used primarily for its action bars.<br/>
@@ -197,10 +198,11 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 ## **Grid2** (Needs configuration)
 Grid2 is a party/raid unit frame addon.<br/>
 <br/>
+[GitHub Download Newest!](https://github.com/bkader/Grid2-WoTLK)<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Grid2.jpg)<br/>
-[GitHub](https://github.com/bkader/Grid2-WoTLK)<br/>
+
 
 ## **VuhDo** (Needs middle configuration)
 VuhDo is a raid monitor built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars.<br/>
