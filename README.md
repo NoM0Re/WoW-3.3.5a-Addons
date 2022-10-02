@@ -55,7 +55,7 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid.<br/>
 <br/>
 [Download GitHub Newest!](https://github.com/Zidras/DBM-Warmane)<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/DBM.zip)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/DBM.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/DBM.png)<br/>
 
