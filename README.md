@@ -63,7 +63,7 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 Details! Damage Meter is a popular addon that tracks information and statistics about a combat encounter in World of Warcraft.<br/>
 <br/>
 [Download GitHub Newest!](https://github.com/Bunny67/Details-WotLK)<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Details.zip)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Details.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Details.png)<br/>
 
@@ -86,7 +86,7 @@ Questhelper tells you how to finish your quests in the easiest, fastest manner. 
 Carbonite Maps is a google style map replacement for the world of World of Warcraft.<br/>
 <br/>
 [Download GitHub Newest!](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Carbonite.zip)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Carbonite.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Carbonite.png)<br/>
 
@@ -95,7 +95,7 @@ Auctionator is designed for casual everyday auction house users. Auctionator mak
 <br/><br/>
 [Download GitHub Newest!](https://github.com/alchem1ster/WotLK-Auctionator)
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.zip)
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.zip)
 <br/><br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Auctionator.png)<br/>
 
@@ -126,8 +126,8 @@ AmILockedOut Little addon which saves me quite some time with all my twinks. Rem
 ## **WeakAuras (Needs heavy configuration)**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Weakaura.zip)<br/>
 [Download GitHub Newest!](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Weakaura.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Weakaura.png)<br/>
 
@@ -150,10 +150,10 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 ## **BLT (Needs configuration)**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
 <br/>
+[Download Outdated](https://github.com/freix1/BLT_WotLK)<br/>
 [Download GitHub Newest!](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)<br/>
-[GitHub](https://github.com/freix1/BLT_WotLK)<br/>
 
 ## **Raelis Spell Announcer (Needs configuration)**
 RSA is an addon that can announce spell casts to various chat channels. There is a large selection of abilities for each class that RSA can announce, such as interrupts, defensive cooldowns, and utility spells e.g Soulstone.<br/>
@@ -166,18 +166,18 @@ RSA is an addon that can announce spell casts to various chat channels. There is
 ## **Tidy Plates (Needs configuration)**
 Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and more on the Nameplates.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TidyPlates.zip)<br/>
+[Download GitHub Newest!](https://github.com/bkader/TidyPlates_WoTLK)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/TidyPlates.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/TidyPlates.jpg)<br/>
-[GitHub](https://github.com/bkader/TidyPlates_WoTLK)<br/>
 
 ## **ElvUI (Needs heavy configuration) (not compatible with Dominos and Bartender4)**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
-[Download (OUTDATED)](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
+[GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Elvui.jpg)<br/>
-[GitHub Newest ](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
 ## **Dominos (Needs middle configuration)** (not compatible with Bartender4 and ElvUI)
 Dominos is an addon that replaces your main bar with movable parts that offer additional customization. Dominos is used primarily for its action bars.<br/>
@@ -199,7 +199,7 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 Grid2 is a party/raid unit frame addon.<br/>
 <br/>
 [GitHub Download Newest!](https://github.com/bkader/Grid2-WoTLK)<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
+[Download] Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Grid2.jpg)<br/>
 
