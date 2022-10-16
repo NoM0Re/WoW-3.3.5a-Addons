@@ -337,7 +337,7 @@ Report raid player fails<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/EndsidiaFails.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/EndsidiaFails.jpg)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/EnsidiaFails.jpg)<br/>
 [RisingGods](https://www.curseforge.com/wow/addons/ensidiafails/files/437365)<br/>
 
 ## **ClassLoot**
@@ -353,7 +353,7 @@ This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban'
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RatingBuster.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RatingBuster.jpg)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RaitingBuster.jpg)<br/>
 [Github](https://github.com/Einherjarn/RatingBuster-3.3.5)<br/>
 
 ## **HalionHelper**
