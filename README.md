@@ -131,7 +131,7 @@ AmILockedOut Little addon which saves me quite some time with all my twinks. Rem
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Ailo.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/ailo/files/all?filter-game-version=2020709689%3A98)
 
-## **WeakAuras (Needs heavy configuration)**
+## **WeakAuras**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
 [Download GitHub Newest!](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
@@ -244,6 +244,14 @@ Quartz is a modular approach to a casting bar addon.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/quartz.jpg)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/quartz)<br/>
 
+## **OPie**
+OPie is a radial action-binding addon for World of Warcraft. It lets you group actions into rings, which appear when you hold down a keyboard or mouse binding.<br/>When you release the binding, OPie will perform an action based on where your mouse cursor is.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/OPie.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/OPie.png)<br/>
+[WotLKAddOns](https://wotlkaddons.com/addon/opie)<br/>
+
 ## **Cheese**
 Cheese simulates the display of procs introduced with Cataclysm.<br/>
 <br/>
@@ -316,6 +324,22 @@ Raid composition is an important aspect of WoW PvE. RC also helps raid leaders b
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RaidComp.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93)<br/>
 
+## **PhoenixStyle**
+PhoenixStyle is a famous WoW addon that tracks many fails, and other useful and interesting information on boss fights and has some interesting thing for raid leaders<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/PhoenixStyle.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/phoenixstyle.jpg)<br/>
+[RisingGods](https://addons.rising-gods.de/addons/phoenix-style)<br/>
+
+## **EndsidiaFails**
+Report raid player fails<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/EndsidiaFails.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/EndsidiaFails.jpg)<br/>
+[RisingGods](https://www.curseforge.com/wow/addons/ensidiafails/files/437365)<br/>
+
 ## **ClassLoot**
 This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.<br/>
 <br/>
@@ -323,6 +347,14 @@ This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban'
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Classloot.jpg)<br/>
 [WoWAce](https://www.wowace.com/projects/classloot/files/439152)<br/>
+
+## **RatingBuster**
+This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RatingBuster.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RatingBuster.jpg)<br/>
+[Github](https://github.com/Einherjarn/RatingBuster-3.3.5)<br/>
 
 ## **HalionHelper**
 Provides a clearer visual display of the Corporeality buff during phase 3 of the Halion encounter in Ruby Sanctum. Similar to the PVP capture frame, this lets you easily see if you should be DPSing more, less, or the same.<br/>
