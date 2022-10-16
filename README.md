@@ -324,6 +324,14 @@ Provides a clearer visual display of the Corporeality buff during phase 3 of the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/HalionHelper.jpg)<br/>
 [GitHub](https://github.com/bkader/HalionHelper-WoTLK)<br/>
 
+## **DocsCorporeality**
+Assistant for Phase 3 of Halion in the Ruby Sanctum.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/DocsCorporeality_r3.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/DocsCorporeality.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/docscorporeality)<br/>
+
 ## **Plagued**
 During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive Unbound Plague, you will begin a 10 second countdown in /yell.<br/>
 <br/>
