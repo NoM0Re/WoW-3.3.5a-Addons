@@ -211,7 +211,6 @@ Grid2 is a party/raid unit frame addon.<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Grid2.jpg)<br/>
 
-
 ## **VuhDo** (Needs middle configuration)
 VuhDo is a raid monitor built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars.<br/>
 <br/>
@@ -219,6 +218,14 @@ VuhDo is a raid monitor built-in raid frames. Basically this is about displaying
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/vuhdo.png)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/vuhdo)<br/>
+
+## **Cooldowns**
+A World of Warcraft add-on that displays numeric cooldown counters on all buttons that are 28 pixels or wider.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/cooldowns.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/cooldowns.png)<br/>
+[FELBITE](https://felbite.com/addon/4664-cooldowns/)<br/>
 
 ## **Healbot** (Needs middle configuration)
 A supportive addon for healers, as it can do numerous amounts of helpful little tricks.<br/>
@@ -308,6 +315,22 @@ MSBT is designed to be an extremely lightweight, efficient, and highly configura
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/MSBT.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)<br/>
 
+## **RaidBrowser for Warmane**
+Bringing LFR to Wotlk. This addon replaces the unused (in 3.3.5a) LFR tab in the social menu with a working raid finder. Use **/rb** to open.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RaidBrowser.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/raidbrowser.png)<br/>
+[GitHub](https://github.com/Ostoic/RaidBrowser)<br/>
+
+## **AutoFlood**
+AutoFlood periodically sends a single-line message in a chat channel. It's designed for advertisement for guild recruitment, crafting, in-game events...<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/autoflood.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/autoflood.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/autoflood)<br/>
+
 ## **RaidBuffStatus**
 RBS reports on a configurable dashboard or to group chat on consumables, buffs, AFK, mana and many many others but in an intelligent automagic way. RBS is the last nail in the coffin of all slacking level max-level raiders.<br/>
 <br/>
@@ -339,6 +362,14 @@ Report raid player fails<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/EnsidiaFails.jpg)<br/>
 [RisingGods](https://www.curseforge.com/wow/addons/ensidiafails/files/437365)<br/>
+
+## **AutoRepair**
+Automaticaly repairs all items when a merchant window is opened.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/autorepair.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/autorepair.png)<br/>
+[FELBITE](https://felbite.com/addon/4230-autorepair/)<br/>
 
 ## **ClassLoot**
 This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.<br/>
@@ -411,6 +442,22 @@ Smart automatic tracking for hunters with Improved tracking talent. Whenever you
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/SmartTrack.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/smarttrack/files)<br/>
+
+## **Spy**
+The Spy addon scans the combat log for actions performed by enemy players and announces their presence when they are detected. By warning you about nearby enemy players you can prepare for possible PvP combat. If an enemy player is detected Spy will attempt to determine their class, race and level based on the ability that was used. It will then sound an alert and add the enemy player to the Nearby List.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/spy.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/spy.png)<br/>
+[FELBITE](https://felbite.com/addon/4017-spy/)<br/>
+
+## **AddEmote**
+Ever wished World of Warcraft had more emotes? Or wanted to create your own emotes that you could use like the regular ones? Well, now you can! AddEmote lets you easily create new /command emotes for all your characters. **use /addemote** for the configuration interface.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/addemote.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/addemote.jpeg)<br/>
+[FELBITE](https://felbite.com/addon/3546-addemote/)<br/>
 
 ## **MogIt**
 MogIt is an in-game catalogue of items with the aim of helping players build their own sets for transmogrification purposes.<br/>
