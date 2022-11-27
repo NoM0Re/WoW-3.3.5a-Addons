@@ -13,7 +13,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
    Download an Addon<br/>
    Unzip downloaded Addon (if required)<br/>
-   Find in your World of Warcraft folder, the Interface/Addon folder<br/>
+   Find in your World of Warcraft folder, the wow-3.3.5a/Interface/Addons folder<br/>
    Drag and Drop the files into the Addon folder (do not rename them, because the folder has to be the same name like the .toc file in the folder)<br/>
    Restart the Game<br/><br/>
     
