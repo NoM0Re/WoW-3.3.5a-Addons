@@ -483,21 +483,18 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/mogit.png)<br/>
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
 
-
 ## **MY TO DO LIST**
-
-**Raidslackcheck
-pMinimap
-SexyMap
-KaderPack
-InspectEquip
-Roll Tracker
-Critline
-ForteXorcist
-IgnoreMore
-TradeSkillMaster
-AddEmote
-Afflicted
-Bagnon**
-
-
+<br/><br/>
+**Raidslackcheck<br/>
+pMinimap<br/>
+SexyMap<br/>
+KaderPack<br/>
+InspectEquip<br/>
+Roll Tracker<br/>
+Critline<br/>
+ForteXorcist<br/>
+IgnoreMore<br/>
+TradeSkillMaster<br/>
+AddEmote<br/>
+Afflicted<br/>
+Bagnon**<br/>
