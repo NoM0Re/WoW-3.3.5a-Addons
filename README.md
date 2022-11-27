@@ -40,7 +40,7 @@ Talented is a replacement to the default Talent UI, with a lot of added features
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Talented.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Talented.jpg)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/talented.jpg)<br/>
 [Github](https://github.com/bkader/Talented_WoTLK)<br/>
 
 ## **Critline**
@@ -223,7 +223,7 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 Grid2 is a party/raid unit frame addon.<br/>
 <br/>
 [GitHub Download Newest!](https://github.com/bkader/Grid2-WoTLK)<br/>
-[Download] Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
+[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Grid2.jpg)<br/>
 
@@ -272,7 +272,7 @@ OPie is a radial action-binding addon for World of Warcraft. It lets you group a
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/OPie.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/OPie.png)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Opie.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/opie)<br/>
 
 ## **Cheese**
@@ -344,7 +344,7 @@ AutoFlood periodically sends a single-line message in a chat channel. It's desig
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/autoflood.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/autoflood.png)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/autoflood.PNG)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/autoflood)<br/>
 
 ## **RaidBuffStatus**
