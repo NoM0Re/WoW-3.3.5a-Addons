@@ -492,11 +492,9 @@ SexyMap<br/>
 KaderPack<br/>
 InspectEquip<br/>
 Roll Tracker<br/>
-Critline<br/>
 ForteXorcist<br/>
 IgnoreMore<br/>
 TradeSkillMaster<br/>
-AddEmote<br/>
 Afflicted<br/>
 Bagnon**
 
