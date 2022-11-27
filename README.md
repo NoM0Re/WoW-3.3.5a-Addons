@@ -35,6 +35,22 @@ Stop logging out of the game just to change your addons! ACP adds the "Addons" b
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/ACP.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98)<br/>
 
+## **Talented**
+Talented is a replacement to the default Talent UI, with a lot of added features.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Talented.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Talented.jpg)<br/>
+[Github](https://github.com/bkader/Talented_WoTLK)<br/>
+
+## **Critline**
+Critline is an addon that will remember your highest hits and crits (including heals and pet attacks), and display them in a fairly simple tooltip. It sports many features by default, including advanced filtering, a standalone frame, splash on new record and more.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Critline.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Critline.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/critline)<br/>
+
 ## **GearScore**
 Allows you to easily see the calculated Gearscore of yourself and other players.<br/>
 <br/>
