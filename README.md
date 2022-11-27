@@ -485,17 +485,18 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 <br/>
 
 ## **MY TO DO LIST**
-<br/>
-**Raidslackcheck** <br/>
-**pMinimap** <br/>
-**SexyMap** <br/>
-**KaderPack** <br/>
-**InspectEquip** <br/>
-**Roll Tracker** <br/>
-**Critline** <br/>
-**ForteXorcist** <br/>
-**IgnoreMore** <br/>
-**TradeSkillMaster** <br/>
-**AddEmote** <br/>
-**Afflicted** <br/>
-**Bagnon** <br/>
+
+**Raidslackcheck<br/>
+pMinimap<br/>
+SexyMap<br/>
+KaderPack<br/>
+InspectEquip<br/>
+Roll Tracker<br/>
+Critline<br/>
+ForteXorcist<br/>
+IgnoreMore<br/>
+TradeSkillMaster<br/>
+AddEmote<br/>
+Afflicted<br/>
+Bagnon**
+
