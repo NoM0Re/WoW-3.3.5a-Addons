@@ -7,7 +7,7 @@ Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md
 <br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
-<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Bilder/Scroll-Down.gif)
 <br/>
 ## **How to install WoW AddOns**
 
