@@ -149,6 +149,23 @@ AmILockedOut Little addon which saves me quite some time with all my twinks. Rem
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Ailo.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/ailo/files/all?filter-game-version=2020709689%3A98)
 
+## **KRU - Kader's Raid Utilities**
+This addon was part of [KPack](https://github.com/bkader/KPack), it was extracted and made as a standalone addon after few requests, contains 8 very useful modules.<br/>
+[More Information](https://github.com/bkader/KRU-WoTLK)<br/>
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/KRU-WoTLK/tree/main/KRU)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/KRU.png)<br/>
+[Github](https://github.com/bkader/KRU-WoTLK)<br/>
+
+## **KPack**
+KaderPack is a single addon that contains a AddOn Collection over 71 modules in a single one, some of them are from existing addons and some are completely custom made. [AddonList here](https://github.com/bkader/KPack#modulesaddons)<br/>
+<br/>
+[Download](https://github.com/bkader/KPack/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/mogit.png)<br/>
+[GitHub](https://github.com/bkader/KPack)<br/>
+<br/>
+
 ## **WeakAuras**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
@@ -212,6 +229,14 @@ Dominos is an addon that replaces your main bar with movable parts that offer ad
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/dominos.jpg)<br/>
 [GitHub](https://github.com/bkader/Dominos)<br/>
 
+## **MoveAnything (Not compatible with other UI Addons**
+MoveAnything enables you to move, scale, hide and adjust transparency of just about any screen element in WoW, offering tools to help you customize your UI.<br/>
+<br/>
+[Download](https://github.com/sirus-addons/MoveAnything/releases/download/72b8ca3-202210132010/MoveAnything.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/MoveAnything.jpg)<br/>
+[GitHub](https://github.com/sirus-addons/MoveAnything)<br/>
+
 ## **Bartender4 (not compatible other UI Addons)****
 Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.
 <br/><br/>
@@ -219,6 +244,14 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Bartender4.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/bartender4/files/all?filter-game-version=2020709689%3A98)<br/>
+
+## **Raeli's Unit Frames (may not compatible with other UI Addons**
+RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as some unit frames<br/>
+<br/>
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/RUF-WoTLK/tree/main/RUF)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Raeli's Unit Frames.png)<br/>
+[Github](https://github.com/bkader/KRT)<br/>
 
 ## **Grid2** (Needs configuration)
 Grid2 is a party/raid unit frame addon.<br/>
@@ -302,6 +335,14 @@ The fixed version provides: after buffing a class, it collapses the tab, taking 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/pallypower.jpg)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)<br/>
 
+## **EclipseBar (may not compatible with some UI Addons**
+Backported Druid EclipseBar but instead of showing power bar, the marker moves with the eclipse's remaining time.<br/>
+<br/>
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/EclipseBar-WotLK/tree/main/EclipseBarFrame)<br/>
+<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Bilder/Eclipse.gif)<br/>
+[Github](https://github.com/bkader/EclipseBar-WotLK)<br/>
+
 ## **Outfitter**
 Lets you switch between equipment sets easily, works with DBM weaponswitch.<br/>
 <br/>
@@ -366,6 +407,14 @@ Raid composition is an important aspect of WoW PvE. RC also helps raid leaders b
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RaidComp.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93)<br/>
 
+## **KRT: Kader Raid Tools**
+It was mainly made for raid leaders and it offers a lot of useful features to really make raid leading as easy as possible.<br/>
+[More Information](https://github.com/bkader/KRT)<br/>
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/KRT/tree/main/!KRT)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/KRT.jpg)<br/>
+[Github](https://github.com/bkader/KRT)<br/>
+
 ## **PhoenixStyle**
 PhoenixStyle is a famous WoW addon that tracks many fails, and other useful and interesting information on boss fights and has some interesting thing for raid leaders<br/>
 <br/>
@@ -381,6 +430,14 @@ Report raid player fails<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/EnsidiaFails.jpg)<br/>
 [RisingGods](https://www.curseforge.com/wow/addons/ensidiafails/files/437365)<br/>
+
+## **AutoInvite by Martag**
+Used to Automatically Invite players into a group/raid based on what and where they say certain "trigger" keywords.<br/>
+To open the interface, type /ai or /autoinvite<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AutoInvite.zip)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/autoinvite.jpg)<br/>
+<br/>
+[WowAce](https://www.wowace.com/projects/autoinvite-martag/)<br/>
 
 ## **AutoRepair**
 Automaticaly repairs all items when a merchant window is opened.<br/>
@@ -485,14 +542,11 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/mogit.png)<br/>
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
-<br/>
+
 
 ## **MY TO DO LIST**
 
 <br/>
-**AutoInvite<br/>
-KPack<br/>
-MoveAnything<br/>
 TrufiGCD for Streamer<br/>
 Raidslackcheck<br/>
 pMinimap<br/>
