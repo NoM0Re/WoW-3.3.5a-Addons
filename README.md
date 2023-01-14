@@ -250,7 +250,7 @@ RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as 
 <br/>
 [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/RUF-WoTLK/tree/main/RUF)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Raeli's Unit Frames.png)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Bilder/Raeli's%20Unit%20Frames.png)<br/>
 [Github](https://github.com/bkader/KRT)<br/>
 
 ## **Grid2** (Needs configuration)
