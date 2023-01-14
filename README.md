@@ -489,7 +489,12 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 
 ## **MY TO DO LIST**
 
-**Raidslackcheck<br/>
+<br/>
+**AutoInvite<br/>
+KPack<br/>
+MoveAnything<br/>
+TrufiGCD for Streamer<br/>
+Raidslackcheck<br/>
 pMinimap<br/>
 SexyMap<br/>
 KaderPack<br/>
@@ -500,4 +505,4 @@ IgnoreMore<br/>
 TradeSkillMaster<br/>
 Afflicted<br/>
 Bagnon<br/>
-Weakura-Import-Repository**
+**
