@@ -69,7 +69,7 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Atlasloot.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **DBM Deadly Boss Mods (Needs high configuration)**
+## **DBM Deadly Boss Mods (Needs configuration)**
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid.<br/>
 <br/>
 [Download GitHub Newest!](https://github.com/Zidras/DBM-Warmane)<br/>
@@ -157,7 +157,7 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Weakaura.png)<br/>
 
-## **NeedToKnow (Needs middle configuration)** 
+## **NeedToKnow** 
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/NeedToKnow.zip)<br/>
@@ -165,7 +165,7 @@ NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as ti
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/needtoknow.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **TellMeWhen (Needs high configuration)** 
+## **TellMeWhen (Needs configuration)** 
 TellMeWhen is a WoW addon that provides visual, auditory, and textual notifications about cooldowns, buffs, and pretty much every other element of combat.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TellMeWhen.zip)<br/>
@@ -173,15 +173,15 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/TellMeWhen.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/tellmewhen/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **BLT (Needs configuration)**
-BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights.<br/>
+## **BLT Fixed Version by me**
+BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights. My version can show CDs of Trinkets like it was intendent, the Developer of the Addon isnt updating it anymore.<br/>
+[Download GitHub Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
+[Download Outdated](https://github.com/freix1/BLT_WotLK)<br/>
 <br/>
 [Download Outdated](https://github.com/freix1/BLT_WotLK)<br/>
-[Download GitHub Newest!](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
-<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)<br/>
 
-## **Raelis Spell Announcer (Needs configuration)**
+## **Raelis Spell Announcer**
 RSA is an addon that can announce spell casts to various chat channels. There is a large selection of abilities for each class that RSA can announce, such as interrupts, defensive cooldowns, and utility spells e.g Soulstone.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RSA.zip)<br/>
@@ -197,7 +197,7 @@ Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and mo
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/TidyPlates.jpg)<br/>
 
-## **ElvUI (Needs heavy configuration) (not compatible with Dominos and Bartender4)**
+## **ElvUI (not compatible with other UI Addons)**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
 [GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI)<br/>
@@ -205,7 +205,7 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Elvui.jpg)<br/>
 
-## **Dominos (Needs middle configuration)** (not compatible with Bartender4 and ElvUI)
+## **Dominos (not compatible other UI Addons)**
 Dominos is an addon that replaces your main bar with movable parts that offer additional customization. Dominos is used primarily for its action bars.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Dominos.zip)<br/>
@@ -213,7 +213,7 @@ Dominos is an addon that replaces your main bar with movable parts that offer ad
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/dominos.jpg)<br/>
 [GitHub](https://github.com/bkader/Dominos)<br/>
 
-## **Bartender4 (Needs high configuration)(not compatible with ElvUI and Dominos)**
+## **Bartender4 (not compatible other UI Addons)****
 Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.
 <br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Bartender4.zip)<br/>
@@ -285,7 +285,7 @@ Cheese simulates the display of procs introduced with Cataclysm.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Cheese.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/cheese)<br/>
 
-## **Mage Nuggets (Needs configuration)**
+## **Mage Nuggets**
 Mage Nuggets is a utility with many useful nuggets to make the lives of mages easier.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/MageNuggets.zip)<br/>
@@ -293,16 +293,18 @@ Mage Nuggets is a utility with many useful nuggets to make the lives of mages ea
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Mage%20Nuggets.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/mage-nuggets/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **PallyPower**
-Pally Power provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator.<br/>
+## **PallyPower(fixed version)**
+Pally Power the must have for a Paladin, provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. <br/>
+The fixed version provides: after buffing a class, it collapses the tab, taking up less space in the UI.<br/>
+**If you already had it installed you need to delete the Pallypower WTF files in the WTF folder using Windows search otherwise the fix will not be active**<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/PallyPower.zip)<br/>
+[Download Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/PallyPower.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/pallypower.jpg)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)<br/>
 
 ## **Outfitter**
-Lets you switch between equipment sets easily<br/>
+Lets you switch between equipment sets easily, works with DBM weaponswitch.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Outfitter.zip)<br/>
 <br/>
@@ -325,7 +327,7 @@ DrDamage displays the calculated damage or healing of abilities with talents, ge
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/DrDamage.jpg)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/drdamage)<br/>
 
-## **MikScrollingBattleText(MSBT) (Needs configuration)**
+## **MikScrollingBattleText(MSBT)**
 MSBT is designed to be an extremely lightweight, efficient, and highly configurable mod that makes it easier to see combat information by scrolling the information on the screen in separate, dynamically creatable scroll areas. It is a replacement for Blizzard's Floating Combat Text and Damage output.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Mik's%20Scrolling%20Battle%20Text.zip)<br/>
@@ -413,7 +415,7 @@ Provides a clearer visual display of the Corporeality buff during phase 3 of the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/HalionHelper.jpg)<br/>
 [GitHub](https://github.com/bkader/HalionHelper-WoTLK)<br/>
 
-## **DocsCorporeality**
+## **DocsCorporeality(IMO better than HalionHelper)**
 Assistant for Phase 3 of Halion in the Ruby Sanctum.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/DocsCorporeality_r3.zip)<br/>
@@ -429,7 +431,7 @@ During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/Plagued1.png)<br/>
 [WoWAce](https://www.wowace.com/projects/plagued/files)<br/>
 
-## **GladiusEx (Needs configuration)**
+## **GladiusEx**
 The famous (and imo, far superior) arena frame AddOn GladiusEx. Gladius adds enemy unit frames to arenas for easier targeting and focusing. It is highly configurable and you can disable most features of this addon.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/GladiusEx.zip)<br/>
