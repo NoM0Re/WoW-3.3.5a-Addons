@@ -176,10 +176,9 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 ## **BLT Fixed Version by me**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights. My version can show CDs of Trinkets like it was intendent, the Developer of the Addon isnt updating it anymore.<br/>
 [Download GitHub Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
-[Download Outdated](https://github.com/freix1/BLT_WotLK)<br/>
 <br/>
-[Download Outdated](https://github.com/freix1/BLT_WotLK)<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/blt.jpg)<br/>
+[Github](https://github.com/freix1/BLT_WotLK)<br/>
 
 ## **Raelis Spell Announcer**
 RSA is an addon that can announce spell casts to various chat channels. There is a large selection of abilities for each class that RSA can announce, such as interrupts, defensive cooldowns, and utility spells e.g Soulstone.<br/>
@@ -296,7 +295,7 @@ Mage Nuggets is a utility with many useful nuggets to make the lives of mages ea
 ## **PallyPower(fixed version)**
 Pally Power the must have for a Paladin, provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. <br/>
 The fixed version provides: after buffing a class, it collapses the tab, taking up less space in the UI.<br/>
-**If you already had it installed you need to delete the Pallypower WTF files in the WTF folder using Windows search otherwise the fix will not be active**<br/>
+**If you already had it installed you need to delete the Pallypower files in the WoW/WTF folder using Windows search in the upper right inside the folder search: Pallypower and delete that. Otherwise the fix will not be active**<br/>
 <br/>
 [Download Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/PallyPower.zip)<br/>
 <br/>
