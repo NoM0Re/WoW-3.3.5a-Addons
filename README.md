@@ -543,20 +543,25 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/mogit.png)<br/>
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
 
+## **More Addons here:**
+<br/>
+[Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A98&filter-sort=5)
+[Felbite](https://felbite.com/wow-3-3-5-addons/)
+[Legacy](https://legacy-wow.com/wotlk-addons/)
+[RG](https://addons.rising-gods.de/addons)
 
 ## **MY TO DO LIST**
 
 <br/>
-TrufiGCD for Streamer<br/>
+**TrufiGCD for Streamer<br/>
 Raidslackcheck<br/>
 pMinimap<br/>
 SexyMap<br/>
-KaderPack<br/>
 InspectEquip<br/>
 Roll Tracker<br/>
 ForteXorcist<br/>
 IgnoreMore<br/>
 TradeSkillMaster<br/>
 Afflicted<br/>
-Bagnon<br/>
-**
+Bagnon**<br/>
+
