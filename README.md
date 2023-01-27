@@ -503,6 +503,15 @@ LoseControl makes it easy to see the duration of crowd control spells by display
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/LoseControl.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82)<br/>
 
+## **TrufiGCD for PvP and Streaming**
+TrufiGCD a small addon, that shows the last used abilities of party or arena members. Can be also used for streaming to show the lastest used Spell used from you.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TrufiGCD.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/Addons/blob/main/Bilder/TrufiGCD.gif)<br/>
+[GitHub](https://github.com/robgha01/TrufiGCD)<br/>
+<br/>
+
 ## **SoundAlerter**
 SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses important CDs, abilities, controls, defs, trinkets. In general, all important actions of yours are used in PvP<br/>
 <br/>
@@ -543,6 +552,7 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/mogit.png)<br/>
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
 <br/>
+
 ## **More Addons here:**
 <br/>
 [Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A98&filter-sort=5)<br/>
@@ -550,6 +560,7 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 [Legacy](https://legacy-wow.com/wotlk-addons/)<br/>
 [RG](https://addons.rising-gods.de/addons)<br/>
 <br/>
+
 ## **MY TO DO LIST**
 <br/>
 TrufiGCD for Streamer<br/>
