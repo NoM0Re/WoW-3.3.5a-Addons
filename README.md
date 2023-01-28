@@ -423,6 +423,15 @@ PhoenixStyle is a famous WoW addon that tracks many fails, and other useful and 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/phoenixstyle.jpg)<br/>
 [RisingGods](https://addons.rising-gods.de/addons/phoenix-style)<br/>
 
+## **RaidSlackCheck**
+RSC is a separate stand-alone addon of PhoenixStyle. Shows who uses potions in a raid and who doesn't, shows who has no flask or food buff, check buffs in combat after rebirth.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RaidSlackCheck.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Bilder/RaidSlackCheck.png)<br/>
+[Felbite](https://felbite.com/addon/3444-raidslackcheck/)<br/>
+<br/>
+
 ## **EndsidiaFails**
 Report raid player fails<br/>
 <br/>
@@ -563,8 +572,6 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 
 ## **MY TO DO LIST**
 <br/>
-TrufiGCD for Streamer<br/>
-Raidslackcheck<br/>
 pMinimap<br/>
 SexyMap<br/>
 InspectEquip<br/>
@@ -574,4 +581,8 @@ IgnoreMore<br/>
 TradeSkillMaster<br/>
 Afflicted<br/>
 Bagnon<br/>
+Total RP<br/>
+Head Count<br/>
+Decursive<br/>
+SexyCooldown<br/>
 
