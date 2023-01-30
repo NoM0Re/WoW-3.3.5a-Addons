@@ -9,7 +9,7 @@ If it is not a Github Link it will not have Support anymore.<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Bilder/Scroll-Down.gif)
 <br/>
-## **How to install WoW AddOns**
+## **How to install WoW AddOns:**
 
    Download an Addon<br/>
    Unzip downloaded Addon (if required)<br/>
@@ -17,7 +17,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
    Drag and Drop the files into the Addon folder (do not rename them, because the folder has to be the same name like the .toc file in the folder)<br/>
    Restart the Game<br/><br/>
     
-## **How to copy Addon configs from Character to Character/Accounts**
+## **How to copy Addon configs from Character to Character/Accounts:**
 
    Find in your World of Warcraft folder, the \WTF\Account\ACCOUNTNAME\REALMNAME\CHARNAME\SavedVariables folder<br/>
    Copy the whole folder (SavedVariables)<br/>
