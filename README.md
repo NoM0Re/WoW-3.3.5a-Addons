@@ -572,6 +572,7 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 
 ## **MY TO DO LIST**
 <br/>
+AutomaticWeaponRemover<br/>
 pMinimap<br/>
 SexyMap<br/>
 InspectEquip<br/>
