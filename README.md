@@ -140,7 +140,7 @@ This addon allows you completely skip messages, containing words from the blackl
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ChatFilter.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatfilter.png)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatfilter.PNG)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=404523)<br/>
 
 ## **WIM (WoW Instant Messenger)**
