@@ -133,6 +133,16 @@ Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addo
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatter.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)<br/>
 
+## **ChatFilter (project abandoned may have bugs)**
+simple addon just for myself to make Icecrown's /global chat more readable. It turned out quite good and helpful for me, so i decided to share it with community.<br/>
+If you are tired of being recruited to Persian guilds, get frustrated from endless /y Il No'throma N O O O O L N Zaga maza'rotha Nogah mog NO o A spam.<br/>
+This addon allows you completely skip messages, containing words from the blacklist. You can edit this list right in the game. Filters are applyed on /y, /s and global channels.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ChatFilter.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatfilter.png)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=404523)<br/>
+
 ## **WIM (WoW Instant Messenger)**
 WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant messenger feel to communication in game.<br/>
 <br/>
