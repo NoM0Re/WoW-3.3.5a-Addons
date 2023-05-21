@@ -539,6 +539,14 @@ SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Soundalerter.jpg)<br/>
 [GitHub](https://github.com/Cortes-Jeremy/SoundAlerter)<br/>
 
+## **Clique**
+Clique is a simple addon that enables powerful click-casting and hover-casting on your unit frames and in the 3D game world. You can bind virtually any mouse or keyboard combination to a spell or macro. In it's normal configuration this enables you to use the bindings over your unit frames in order to cast spells directly on that unit. This allows you to more quickly select both the spell to cast, and the target of the spell without requiring an extra click.
+<br/><br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Clique.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Clique.jpeg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/clique/files/466944)<br/>
+
 ## **SmartTrack**
 Smart automatic tracking for hunters with Improved tracking talent. Whenever you enter combat this addon will check your target's type (if any) and automatically change your tracking accordingly. If you change the target during combat your tracking will change too (if your new target is of different type and you can track it).
 <br/><br/>
