@@ -69,23 +69,23 @@ AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Atlasloot.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **DBM Deadly Boss Mods (Needs configuration)**
+## **DBM Deadly Boss Mods**
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid.<br/>
 <br/>
-[Download GitHub Newest!](https://github.com/Zidras/DBM-Warmane)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/DBM.zip)<br/>
+[Download](https://github.com/Zidras/DBM-Warmane/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/DBM.png)<br/>
+[Github](https://github.com/Zidras/DBM-Warmane)<br/>
 
-## **Details! (Needs small configuration)**
+## **Details!**
 Details! Damage Meter is a popular addon that tracks information and statistics about a combat encounter in World of Warcraft.<br/>
 <br/>
-[Download GitHub Newest!](https://github.com/Bunny67/Details-WotLK)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Details.zip)<br/>
+[Download](https://github.com/Bunny67/Details-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Details.png)<br/>
+[Github](https://github.com/Bunny67/Details-WotLK)<br/>
 
-## **Omen (Needs small configuration)**
+## **Omen Thread Meter**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Omen.zip)<br/>
@@ -111,19 +111,17 @@ Questhelper tells you how to finish your quests in the easiest, fastest manner. 
 ## **Carbonite**
 Carbonite Maps is a google style map replacement for the world of World of Warcraft.<br/>
 <br/>
-[Download GitHub Newest!](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Carbonite.zip)<br/>
+[Download](https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png)<br/>
 
 ## **Auctionator**
 Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.
 <br/><br/>
-[Download GitHub Newest!](https://github.com/alchem1ster/WotLK-Auctionator)
+[Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip)<br/>
 <br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.zip)
-<br/><br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png)<br/>
+[Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/>
 
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
@@ -133,7 +131,7 @@ Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addo
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatter.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **ChatFilter (project abandoned may have bugs)**
+## **ChatFilter (project abandoned)**
 simple addon just for myself to make Icecrown's /global chat more readable. It turned out quite good and helpful for me, so i decided to share it with community.<br/>
 If you are tired of being recruited to Persian guilds, get frustrated from endless /y Il No'throma N O O O O L N Zaga maza'rotha Nogah mog NO o A spam.<br/>
 This addon allows you completely skip messages, containing words from the blacklist. You can edit this list right in the game. Filters are applyed on /y, /s and global channels.<br/>
@@ -179,10 +177,10 @@ KaderPack is a single addon that contains a AddOn Collection over 71 modules in 
 ## **WeakAuras**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
-[Download GitHub Newest!](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Weakaura.zip)<br/>
+[Download](https://github.com/Bunny67/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png)<br/>
+[GitHub](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
 ## **NeedToKnow** 
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
@@ -202,7 +200,7 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 
 ## **BLT Fixed Version by me**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights. My version can show CDs of Trinkets like it was intendent, the Developer of the Addon isnt updating it anymore.<br/>
-[Download GitHub Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
+[Download my Fixed Version!](https://github.com/NoM0Re/Addons/raw/main/Addons/BLT.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/blt.jpg)<br/>
 [Github](https://github.com/freix1/BLT_WotLK)<br/>
@@ -218,28 +216,28 @@ RSA is an addon that can announce spell casts to various chat channels. There is
 ## **Tidy Plates (Needs configuration)**
 Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and more on the Nameplates.<br/>
 <br/>
-[Download GitHub Newest!](https://github.com/bkader/TidyPlates_WoTLK)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/TidyPlates.zip)<br/>
+[Download](https://github.com/bkader/TidyPlates_WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/TidyPlates.jpg)<br/>
+[Download GitHub Newest!](https://github.com/bkader/TidyPlates_WoTLK)<br/>
 
-## **ElvUI (not compatible with other UI Addons)**
+## **ElvUI**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
-[GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/ElvUI.zip)<br/>
+[GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg)<br/>
+[GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
-## **Dominos (not compatible other UI Addons)**
+## **Dominos**
 Dominos is an addon that replaces your main bar with movable parts that offer additional customization. Dominos is used primarily for its action bars.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Dominos.zip)<br/>
+[Download](https://github.com/bkader/Dominos/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/dominos.jpg)<br/>
 [GitHub](https://github.com/bkader/Dominos)<br/>
 
-## **MoveAnything (Not compatible with other UI Addons**
+## **MoveAnything**
 MoveAnything enables you to move, scale, hide and adjust transparency of just about any screen element in WoW, offering tools to help you customize your UI.<br/>
 <br/>
 [Download](https://github.com/sirus-addons/MoveAnything/releases/download/72b8ca3-202210132010/MoveAnything.zip)<br/>
@@ -247,7 +245,7 @@ MoveAnything enables you to move, scale, hide and adjust transparency of just ab
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MoveAnything.jpg)<br/>
 [GitHub](https://github.com/sirus-addons/MoveAnything)<br/>
 
-## **Bartender4 (not compatible other UI Addons)****
+## **Bartender4**
 Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.
 <br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Bartender4.zip)<br/>
@@ -255,7 +253,7 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Bartender4.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/bartender4/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **Raeli's Unit Frames (may not compatible with other UI Addons**
+## **Raeli's Unit Frames**
 RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as some unit frames<br/>
 <br/>
 [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/RUF-WoTLK/tree/main/RUF)<br/>
@@ -263,15 +261,15 @@ RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as 
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Raeli's%20Unit%20Frames.png)<br/>
 [Github](https://github.com/bkader/KRT)<br/>
 
-## **Grid2** (Needs configuration)
+## **Grid2**
 Grid2 is a party/raid unit frame addon.<br/>
 <br/>
-[GitHub Download Newest!](https://github.com/bkader/Grid2-WoTLK)<br/>
-[Download Outdated](https://github.com/NoM0Re/Addons/raw/main/Addons/Grid2.zip)<br/>
+[Download](https://github.com/bkader/Grid2-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Grid2.jpg)<br/>
+[GitHub](https://github.com/bkader/Grid2-WoTLK)<br/>
 
-## **VuhDo** (Needs middle configuration)
+## **VuhDo**
 VuhDo is a raid monitor built-in raid frames. Basically this is about displaying the health of raid members in form of clearly arranged bars.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/VuhDo.zip)<br/>
@@ -287,7 +285,7 @@ A World of Warcraft add-on that displays numeric cooldown counters on all button
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/cooldowns.png)<br/>
 [FELBITE](https://felbite.com/addon/4664-cooldowns/)<br/>
 
-## **Healbot** (Needs middle configuration)
+## **Healbot**
 A supportive addon for healers, as it can do numerous amounts of helpful little tricks.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/HealBot.zip)<br/>
@@ -337,7 +335,7 @@ Mage Nuggets is a utility with many useful nuggets to make the lives of mages ea
 
 ## **PallyPower(fixed version)**
 Pally Power the must have for a Paladin, provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. <br/>
-The fixed version provides: after buffing a class, it collapses the tab, taking up less space in the UI.<br/>
+**The fixed version provides: after buffing a class, it collapses the tab, taking up less space in the UI.**<br/>
 **If you already had it installed you need to delete the Pallypower files in the WoW/WTF folder using Windows search in the upper right inside the folder search: Pallypower and delete that. Otherwise the fix will not be active**<br/>
 <br/>
 [Download Fixed Version](https://github.com/NoM0Re/Addons/raw/main/Addons/PallyPower.zip)<br/>
@@ -345,7 +343,7 @@ The fixed version provides: after buffing a class, it collapses the tab, taking 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/pallypower.jpg)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/pallypower)<br/>
 
-## **EclipseBar (may not compatible with some UI Addons**
+## **EclipseBar**
 Backported Druid EclipseBar but instead of showing power bar, the marker moves with the eclipse's remaining time.<br/>
 <br/>
 [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/EclipseBar-WotLK/tree/main/EclipseBarFrame)<br/>
@@ -485,7 +483,7 @@ This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban'
 ## **HalionHelper**
 Provides a clearer visual display of the Corporeality buff during phase 3 of the Halion encounter in Ruby Sanctum. Similar to the PVP capture frame, this lets you easily see if you should be DPSing more, less, or the same.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/HalionHelper.zip)<br/>
+[Download](https://github.com/bkader/HalionHelper-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/HalionHelper.jpg)<br/>
 [GitHub](https://github.com/bkader/HalionHelper-WoTLK)<br/>
@@ -529,7 +527,6 @@ TrufiGCD a small addon, that shows the last used abilities of party or arena mem
 <br/>
 ![](https://github.com/NoM0Re/Addons/blob/main/Pictures/TrufiGCD.gif)<br/>
 [GitHub](https://github.com/robgha01/TrufiGCD)<br/>
-<br/>
 
 ## **SoundAlerter**
 SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses important CDs, abilities, controls, defs, trinkets. In general, all important actions of yours are used in PvP<br/>
