@@ -166,15 +166,6 @@ This addon was part of [KPack](https://github.com/bkader/KPack), it was extracte
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/KRU.png)<br/>
 [Github](https://github.com/bkader/KRU-WoTLK)<br/>
 
-## **KPack**
-KaderPack is a single addon that contains a AddOn Collection over 71 modules in a single one, some of them are from existing addons and some are completely custom made. [AddonList here](https://github.com/bkader/KPack#modulesaddons)<br/>
-<br/>
-[Download](https://github.com/bkader/KPack/archive/refs/heads/main.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/KRU.png)<br/>
-[GitHub](https://github.com/bkader/KPack)<br/>
-<br/>
-
 ## **WeakAuras**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
