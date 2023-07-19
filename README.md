@@ -609,4 +609,9 @@ Total RP<br/>
 Head Count<br/>
 Decursive<br/>
 SexyCooldown<br/>
-
+Immersion-WotLK<br/>
+WotLK-Storyline<br/>
+Redeemer 3.3.5a<br/>
+BNetToast<br/>
+pretty_lootalert<br/>
+wow-wotlk_savepass<br/>
