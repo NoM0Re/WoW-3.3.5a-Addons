@@ -18,7 +18,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 <a href='https://www.twitch.tv/noom0re' target="_blank">
   <img alt='Twitch' src='https://img.shields.io/badge/Twitch-100000?style=flat-square&logo=Twitch&logoColor=white&labelColor=6441a5&color=black'/>
 </a>
-<a href='https://paypal.me/nomoreee' target="_blank">
+<a href='https://streamelements.com/noom0re/tip' target="_blank">
   <img alt='PayPal' src='https://img.shields.io/badge/Buy_me a coffee-100000?style=flat-square&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=000000'/>
 </a>
 <br/>
