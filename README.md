@@ -7,6 +7,9 @@ Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md
 <br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
 If it is not a Github Link it will not have Support anymore.<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
+
+[![HitCount](https://hits.dwyl.com/NoM0Re/WoW-335a-Addons.svg?style=flat)](http://hits.dwyl.com/NoM0Re/WoW-335a-Addons) <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" /> <br/>
+<a href='https://github.com/NoM0Re' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat-square&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>   <a href='https://www.youtube.com/@xpatrick99x' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Youtube-100000?style=flat-square&logo=Youtube&logoColor=white&labelColor=FF0000&color=black'/> <a href='https://www.twitch.tv/noom0re' target="_blank"><img alt='Twitch' src='https://img.shields.io/badge/Twitch-100000?style=flat-square&logo=Twitch&logoColor=white&labelColor=6441a5&color=black'/>   </a> </a>   <a href='https://paypal.me/nomoreee' target="_blank"><img alt='PayPal' src='https://img.shields.io/badge/Buy_me a coffee-100000?style=flat-square&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=000000'/></a> <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Scroll-Down.gif)
 <br/>
 ## **How to install WoW AddOns:**
