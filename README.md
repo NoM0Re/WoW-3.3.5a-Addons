@@ -58,7 +58,7 @@ Talented is a replacement to the default Talent UI, with a lot of added features
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Talented.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/talented.jpg" alt="Screenshot" width="500" height="600">
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/talented.jpg" alt="Screenshot">
 [Github](https://github.com/bkader/Talented_WoTLK)<br/>
 
 ## **Critline**
@@ -90,7 +90,7 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 <br/>
 [Download](https://github.com/Zidras/DBM-Warmane/archive/refs/heads/main.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/DBM.png" alt="Screenshot" width="500" height="600">
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/DBM.png" alt="Screenshot">
 [Github](https://github.com/Zidras/DBM-Warmane)<br/>
 
 ## **Details!**
@@ -121,7 +121,7 @@ To bring up the Options window, type **/ti window**.<br/>
 Questhelper tells you how to finish your quests in the easiest, fastest manner. It includes a database of quests, monsters, and items, telling you the exact location of that dang Perfect Satyr Horn you can't find. It also computes the fastest path to complete all your quests - and gain experience - as quickly as possible.<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/QuestHelper.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/QuestHelper.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/QuestHelper.jpg" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98)<br/>
 
 ## **Carbonite**
@@ -129,7 +129,7 @@ Carbonite Maps is a google style map replacement for the world of World of Warcr
 <br/>
 [Download](https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png" alt="Screenshot"><br/>
 [Github](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 
 ## **Auctionator**
@@ -137,7 +137,7 @@ Auctionator is designed for casual everyday auction house users. Auctionator mak
 <br/><br/>
 [Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png" alt="Screenshot"><br/>
 [Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/>
 
 ## **Chatter**
@@ -163,7 +163,7 @@ WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/WIM.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/WIM.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/WIM.jpg" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98)<br/>
 
 ## **AmILockedOut**
@@ -187,7 +187,7 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 <br/>
 [Download](https://github.com/Bunny67/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
 ## **NeedToKnow** 
@@ -218,7 +218,7 @@ RSA is an addon that can announce spell casts to various chat channels. There is
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RSA.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RSA.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RSA.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/alchem1ster/WotLK-RSA)<br/>
 
 ## **Tidy Plates (Needs configuration)**
@@ -226,7 +226,7 @@ Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and mo
 <br/>
 [Download](https://github.com/bkader/TidyPlates_WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/TidyPlates.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/TidyPlates.jpg" alt="Screenshot"><br/>
 [Download GitHub Newest!](https://github.com/bkader/TidyPlates_WoTLK)<br/>
 
 ## **ElvUI**
@@ -234,7 +234,7 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 <br/>
 [GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI/archive/refs/heads/master.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
 ## **Dominos**
@@ -242,7 +242,7 @@ Dominos is an addon that replaces your main bar with movable parts that offer ad
 <br/>
 [Download](https://github.com/bkader/Dominos/archive/refs/heads/main.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/dominos.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/dominos.jpg" alt="Screenshot"><br/>
 [GitHub](https://github.com/bkader/Dominos)<br/>
 
 ## **MoveAnything**
@@ -330,7 +330,7 @@ Cheese simulates the display of procs introduced with Cataclysm.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Cheese.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Cheese.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Cheese.png" alt="Screenshot"><br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/cheese)<br/>
 
 ## **Mage Nuggets**
@@ -420,7 +420,7 @@ Raid composition is an important aspect of WoW PvE. RC also helps raid leaders b
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RaidComp.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RaidComp.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RaidComp.png" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93)<br/>
 
 ## **KRT: Kader Raid Tools**
@@ -436,7 +436,7 @@ PhoenixStyle is a famous WoW addon that tracks many fails, and other useful and 
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/PhoenixStyle.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/phoenixstyle.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/phoenixstyle.jpg" alt="Screenshot"><br/>
 [RisingGods](https://addons.rising-gods.de/addons/phoenix-style)<br/>
 
 ## **RaidSlackCheck**
@@ -460,7 +460,7 @@ Report raid player fails<br/>
 Used to Automatically Invite players into a group/raid based on what and where they say certain "trigger" keywords.<br/>
 To open the interface, type /ai or /autoinvite<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AutoInvite.zip)<br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/autoinvite.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/autoinvite.jpg" alt="Screenshot"><br/>
 <br/>
 [WowAce](https://www.wowace.com/projects/autoinvite-martag/)<br/>
 
@@ -485,7 +485,7 @@ This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban'
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/RatingBuster.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RaitingBuster.jpg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/RaitingBuster.jpg" alt="Screenshot"><br/>
 [Github](https://github.com/Einherjarn/RatingBuster-3.3.5)<br/>
 
 ## **HalionHelper**
@@ -573,7 +573,7 @@ Ever wished World of Warcraft had more emotes? Or wanted to create your own emot
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/addemote.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/addemote.jpeg" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/addemote.jpeg" alt="Screenshot"><br/>
 [FELBITE](https://felbite.com/addon/3546-addemote/)<br/>
 
 ## **MogIt**
@@ -581,7 +581,7 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/MogIt.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/mogit.png" alt="Screenshot" width="500" height="600"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/mogit.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
 <br/>
 
