@@ -180,6 +180,14 @@ Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addo
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatter.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98)<br/>
 
+## **BNetToast**
+BattleNET style Online/Offline Indicator for your friend/guild mates.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BNetToast.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/BNetToast.png)<br/>
+[Github](https://github.com/crumdidlyumshis/BNetToast)<br/>
+
 ## **ChatFilter (project abandoned)**
 simple addon just for myself to make Icecrown's /global chat more readable. It turned out quite good and helpful for me, so i decided to share it with community.<br/>
 If you are tired of being recruited to Persian guilds, get frustrated from endless /y Il No'throma N O O O O L N Zaga maza'rotha Nogah mog NO o A spam.<br/>
@@ -698,16 +706,8 @@ This addon aims to enhance the readability and immersion when questing in World 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Storyline.png)<br/>
 [Github](https://github.com/shadovvs/WotLK-Storyline/tree/v1.0.1)<br/>
 
-## **BNetToast**
-BattleNET style Online/Offline Indicator for your friend/guild mates.<br/>
-<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BNetToast.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/BNetToast.png)<br/>
-[Github](https://github.com/crumdidlyumshis/BNetToast)<br/>
-
 ## **Savepass**
-Simple save password on login screen.(Security alert: ur Password will be saved as plain text in the WTF folder)<br/>
+Simple save password on login screen. (**Security alert**: ur Password will be saved as plain text in the WTF folder)<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Savepass-GlueXML.zip)<br/>
 <br/>
