@@ -615,3 +615,4 @@ Redeemer 3.3.5a<br/>
 BNetToast<br/>
 pretty_lootalert<br/>
 wow-wotlk_savepass<br/>
+altoholic<br/>
