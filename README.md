@@ -29,8 +29,8 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
    Download an Addon<br/>
    Unzip downloaded Addon (if required)<br/>
-   Find in your World of Warcraft folder, the wow-3.3.5a/Interface/Addons folder<br/>
-   Drag and drop files into the addon folder (folder name should match .toc file; remove "-master" if needed).<br/>
+   Find in your World of Warcraft folder, the /Interface/Addons folder<br/>
+   Drag and drop folder/s into the addon folder (folder name should match .toc file inside; remove "-master" if needed).<br/>
    Restart the Game<br/><br/>
     
 ## **How to copy Addon configs from Character to Character/Accounts:**
