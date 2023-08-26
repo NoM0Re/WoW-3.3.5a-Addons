@@ -101,6 +101,14 @@ Details! Damage Meter is a popular addon that tracks information and statistics 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Details.png)<br/>
 [Github](https://github.com/Bunny67/Details-WotLK)<br/>
 
+## **Skada**
+Skada is a modular damage meter with various viewing modes, segmented fights and customizable windows.<br/>
+<br/>
+[Download](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Skada.png)<br/>
+[Github](https://github.com/bkader/Skada-WoTLK)<br/>
+
 ## **Omen Thread Meter**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
 <br/>
@@ -472,6 +480,14 @@ MSBT is designed to be an extremely lightweight, efficient, and highly configura
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MSBT.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)<br/>
 
+## **xCT+**
+xCT+ is a combat text replacement (like MSBT).<bhttps://addons.rising-gods.de/addons/mikscrollingbattletext-msbtr/>Backported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT<br/>
+<br/>
+[Download](https://github.com/Barsoomx/xCT_Plus_wotlk/archive/refs/heads/master.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/xCT.PNG)<br/>
+[GitHub](https://github.com/Barsoomx/xCT_Plus_wotlk)<br/>
+
 ## **RaidBrowser for Warmane**
 Bringing LFR to Wotlk. This addon replaces the unused (in 3.3.5a) LFR tab in the social menu with a working raid finder. Use **/rb** to open.<br/>
 <br/>
@@ -650,6 +666,17 @@ SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Soundalerter.jpg)<br/>
 [GitHub](https://github.com/Cortes-Jeremy/SoundAlerter)<br/>
 
+## **BindPad**
+BindPad is an addon to make KeyBindings for spells, items, and macros.
+You no longer need actionbar slots just to make Key bindings for your macros etc.
+BindPad addon provides many icon slots in its frame.  You can drag and drop 
+anything into one of these slots, and click the slot to set KeyBindings.
+<br/><br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BindPad.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Bindpad.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/bind-pad)<br/>
+
 ## **Clique**
 Clique is a simple addon that enables powerful click-casting and hover-casting on your unit frames and in the 3D game world. You can bind virtually any mouse or keyboard combination to a spell or macro. In it's normal configuration this enables you to use the bindings over your unit frames in order to cast spells directly on that unit. This allows you to more quickly select both the spell to cast, and the target of the spell without requiring an extra click.
 <br/><br/>
@@ -721,6 +748,14 @@ Altoholic features search functionality, which allows users to search their alts
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Altoholic.png)<br/>
 [RisingGods](https://addons.rising-gods.de/addons/altoholic)<br/>
+
+## **Key Bind Profiles**
+This addon allows you to save keybind settings into different profiles, these profiles can be loaded and used again later. Each profile can be assigned to a specialization such that it automatically loads upon switching specs.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/KeyBindingsProfiler.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/KeyBindProfiles.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/keybindprofiles)<br/>
 
 ## **MogIt**
 MogIt is an in-game catalogue of items with the aim of helping players build their own sets for transmogrification purposes.<br/>
