@@ -477,7 +477,7 @@ DrDamage displays the calculated damage or healing of abilities with talents, ge
 ## **MikScrollingBattleText(MSBT)**
 MSBT is designed to be an extremely lightweight, efficient, and highly configurable mod that makes it easier to see combat information by scrolling the information on the screen in separate, dynamically creatable scroll areas. It is a replacement for Blizzard's Floating Combat Text and Damage output.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Mik's%20Scrolling%20Battle%20Text.zip)<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/MikScrollingBattleText.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MSBT.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)<br/>
