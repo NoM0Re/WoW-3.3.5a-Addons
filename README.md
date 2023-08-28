@@ -483,7 +483,7 @@ MSBT is designed to be an extremely lightweight, efficient, and highly configura
 [WotLKAddOns](https://wotlkaddons.com/addon/mik%27s-scrolling-battle-text)<br/>
 
 ## **xCT+**
-xCT+ is a combat text replacement (like MSBT).<bhttps://addons.rising-gods.de/addons/mikscrollingbattletext-msbtr/>Backported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT<br/>
+xCT+ is a combat text replacement (like MSBT).<br/>Backported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT<br/>
 <br/>
 [Download](https://github.com/Barsoomx/xCT_Plus_wotlk/archive/refs/heads/master.zip)<br/>
 <br/>
