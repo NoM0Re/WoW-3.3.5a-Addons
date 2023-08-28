@@ -288,7 +288,9 @@ Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and mo
 ## **ElvUI**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
-[GitHub Newest](https://github.com/ElvUI-WotLK/ElvUI/archive/refs/heads/master.zip)<br/>
+[Download](https://github.com/ElvUI-WotLK/ElvUI/archive/refs/heads/master.zip)<br/>
+[Plugins for ElvUI](https://github.com/ElvUI-WotLK/ElvUI#plugins)<br/>
+[MyPlugin List](https://github.com/NoM0Re/Addons/raw/main/Addons/Plugins.zip)
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
