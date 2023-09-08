@@ -137,13 +137,14 @@ Carbonite is a google style map replacement and Questhelper for the world of Wor
 <br/>
 [Download](https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png" alt="Screenshot"><br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png)<br/>
 [Github](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 
 ## **Gatherer+**
 The addon does not track like a tracking ability does, rather it "remembers" where you have found various items in the past.<br/>
 It does this whenever you gather (perform herbalism, mining or opening) on an item, and records the specific map location in its history.<br/>
-When you view your World Map, you will also see the item locations marked on the particular map you are viewing there. Usage: **/gather**<br/>
+When you view your World Map, you will also see the item locations marked on the particular map you are viewing there.<br/>
+Usage: **/gather**<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Gatherer_Wowhead335.rar)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/gatherer.png)<br/>
