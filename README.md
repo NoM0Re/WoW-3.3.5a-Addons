@@ -140,6 +140,15 @@ Carbonite is a google style map replacement and Questhelper for the world of Wor
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png" alt="Screenshot"><br/>
 [Github](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 
+## **Gatherer+**
+The addon does not track like a tracking ability does, rather it "remembers" where you have found various items in the past.<br/>
+It does this whenever you gather (perform herbalism, mining or opening) on an item, and records the specific map location in its history.<br/>
+When you view your World Map, you will also see the item locations marked on the particular map you are viewing there. Usage: **/gather**<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Gatherer_Wowhead335.rar)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/gatherer.png)<br/>
+[WarmaneForum](https://forum.warmane.com/showthread.php?t=412904)<br/>
+
 ## **pMinimap**
 pMinimap is a very lightweight and streamlined Minimap addon.<br/>
 <br/>
@@ -164,21 +173,39 @@ Lightweight Minimap addon like Dragonflight style.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/pretty_minimap.png)<br/>
 [Github](https://github.com/s0h2x/pretty_minimap/)<br/>
 
-## **Auctionator**
-Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.
-<br/><br/>
-[Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip)<br/>
+## **Auctionator+**
+Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
+MoP version of the addon, with some fixes and improvements from BlueAo.<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator+.rar)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png" alt="Screenshot"><br/>
-[Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
 
-## **TradeSkillMaster**
-TSM is an addon designed to help both casual gold makers as well as experienced goblins streamline their gold-making processes. TSM's features include everything from improving the native crafting and auctioning experiences to helping you gather needed materials and sniping that low-hanging auction house fruit!<br/>
+## **Auctionator WatchList (Plugin for Auctionator+)**
+An addition to Auctionator, that reminds you of all items with prices below set treshold when closing the AH window.<br/>
 <br/>
-[Download](https://github.com/andrew6180/TradeSkillMaster/archive/refs/heads/master.zip)<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator_WatchList.rar)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator_WatchList.png)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
+
+## **MarketWatcher+**
+Market Watcher is an addon that scans individual items or collection of items instead of the entire auction house at once.<br/>
+It also (optionally) records many snapshots of the auction house for user specified items.<br/>
+Original version of the addon with some fixes from BlueAo.<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/MarketWatcher+.rar)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MarketWatcher.png)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
+
+## **TradeSkillMaster+**
+TSM is an addon designed to help both casual gold makers as well as experienced goblins streamline their gold-making processes. TSM's features include everything from improving the native crafting and auctioning experiences to helping you gather needed materials and sniping that low-hanging auction house fruit!<br/>
+Fixed and reworked and enhanced from BlueAo<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TradeSkillMaster+.rar)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/TSM.png)<br/>
-[Github](https://github.com/andrew6180/TradeSkillMaster/)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/>
 
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
@@ -458,13 +485,14 @@ Lets you switch between equipment sets easily, works with DBM weaponswitch.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Outiftter.png)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/outfitter)<br/>
 
-## **Postal**
+## **Postal+**
 Postal offers enhanced mailbox support by providing allot of features.<br/>
+Enhanced by BlueAo adding new features.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Postal.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/postal.jpg)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/postal/files/all?filter-game-version=2020709689%3A98)<br/>
+[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
 
 ## **DrDamage**
 DrDamage displays the calculated damage or healing of abilities with talents, gear and buffs included on your actionbar buttons. The addon also adds various statistics to the tooltips in your spellbook and on the actionbar.<br/>
