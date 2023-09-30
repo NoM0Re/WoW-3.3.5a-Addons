@@ -395,6 +395,14 @@ A supportive addon for healers, as it can do numerous amounts of helpful little 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/HealBot.jpg)<br/>
 [WotLKDB](https://wotlkdb.com/addons/healbot-continued/)<br/>
 
+## **AdiBags**
+AdiBags is a addon that displays the contents of your bags in single view, distributed into several sections using smart filters.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AdiBags.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AdiBags.png)<br/>
+[Github](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5)<br/>
+
 ## **Bagnon**
 Bagnon is the most popular replacement of the bag interface, designed to help the player find items as quickly and easily as possible.<br/>
 <br/>
