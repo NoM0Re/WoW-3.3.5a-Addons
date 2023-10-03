@@ -796,6 +796,14 @@ This addon allows you to save keybind settings into different profiles, these pr
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/KeyBindProfiles.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/keybindprofiles)<br/>
 
+## **SharedMedia**
+Adds more Fonts for Addons<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SharedMedia.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SharedMedia.png)<br/>
+[Github](https://github.com/bkader/SharedMedia)<br/>
+
 ## **MogIt**
 MogIt is an in-game catalogue of items with the aim of helping players build their own sets for transmogrification purposes.<br/>
 <br/>
