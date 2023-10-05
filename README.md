@@ -363,6 +363,15 @@ RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as 
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Raeli's%20Unit%20Frames.png)<br/>
 [Github](https://github.com/bkader/KRT)<br/>
 
+## **SnowfallKeyPress**
+This addon accelerates key bindings so that they are activated by key press rather than key release.<br/>
+**Do not use it with ElvUI!**<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SnowfallKeyPress.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SnowfallKeyPress.jpg)<br/>
+[Felbite](https://felbite.com/addon/4721-snowfallkeypress/)<br/>
+
 ## **Grid2**
 Grid2 is a party/raid unit frame addon.<br/>
 <br/>
@@ -673,6 +682,14 @@ The famous (and imo, far superior) arena frame AddOn GladiusEx. Gladius adds ene
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GladiusEX.PNG)<br/>
 [Github](https://github.com/ManneN1/GladiusExBackport-WotLK)<br/>
 
+## **InterruptBar**
+A addon that tracks enemy interrupt abilities on a neat little bar.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/InterruptBar.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/InterruptBar.jpg)<br/>
+[Felbite](https://felbite.com/addon/4022-interruptbar/)<br/>
+
 ## **LoseControl**
 LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.<br/>
 <br/>
@@ -688,6 +705,15 @@ Afflicted is an enemy spell timer mod for PvP (mainly arenas). This is for peopl
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Afflicted.png)<br/>
 [RisingGods](https://addons.rising-gods.de/addons/afflicted-3)<br/>
+
+## **SpellReplay**
+SpellReplay is a AddOn that was originally made for Sbkzor in order to backport a retail addon widely used by streamers called TrufiGCD.<br/>
+The AddOn scrolls smoothly and speeds up when multiple spells are used at the same time, making it easier to highlight good plays.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SpellReplay.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/Addons/blob/main/Pictures/SpellReplay.gif)<br/>
+[Felbite](https://felbite.com/addon/3290-spellreplay/)<br/>
 
 ## **TrufiGCD for PvP and Streaming**
 TrufiGCD a small addon, that shows the last used abilities of party or arena members. Can be also used for streaming to show the lastest used Spell used from you.<br/>
