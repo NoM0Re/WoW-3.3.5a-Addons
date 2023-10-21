@@ -798,14 +798,6 @@ This addon aims to enhance the readability and immersion when questing in World 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Storyline.png)<br/>
 [Github](https://github.com/shadovvs/WotLK-Storyline/tree/v1.0.1)<br/>
 
-## **Savepass**
-Simple save password on login screen. (**Security alert**: ur Password will be saved as plain text in the WTF folder)<br/>
-<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Savepass-GlueXML.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Savepass.png)<br/>
-[Github](https://github.com/s0h2x/wow-wotlk_savepass)<br/>
-
 ## **Altoholic**
 Altoholic features search functionality, which allows users to search their alts bags or loot tables in an Auction-House-like frame.<br/>
 <br/>
