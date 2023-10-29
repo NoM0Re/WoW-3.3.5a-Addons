@@ -677,7 +677,7 @@ During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive 
 ## **GladiusEx**
 The famous (and imo, far superior) arena frame AddOn GladiusEx. Gladius adds enemy unit frames to arenas for easier targeting and focusing. It is highly configurable and you can disable most features of this addon.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/GladiusEx.zip)<br/>
+[Download](https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GladiusEX.PNG)<br/>
 [Github](https://github.com/ManneN1/GladiusExBackport-WotLK)<br/>
