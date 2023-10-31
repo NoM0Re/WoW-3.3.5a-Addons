@@ -209,6 +209,13 @@ Fixed and reworked and enhanced from BlueAo<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/TSM.png)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/>
 
+## **DalaranAH**
+**DalaranAH** is a lightweight World of Warcraft addon that simplifies interactions with the Auctionhouse NPC in Dalaran by providing a customizable button on your screen, allowing you to target, set focus and mark the AH-Bot.<br/>
+Also it opens the Auctionhouse instant, instead of clicking manually on the Gossip.<br/>
+[Download](https://github.com/NoM0Re/DalaranAH/archive/refs/heads/main.zip)<br/><br/>
+<img src="https://i.ibb.co/WzPWxH1/Dalaran-AH2.png" alt="Dalaran-AH2" border="0"> <img src="https://i.ibb.co/JKZmkjP/Dalaran-AH.png" alt="Dalaran-AH" border="0"><br/>
+[Github](https://github.com/NoM0Re/DalaranAH/)<br/>
+
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
 <br/>
