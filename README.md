@@ -758,8 +758,16 @@ Clique is a simple addon that enables powerful click-casting and hover-casting o
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Clique.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/clique/files/466944)<br/>
 
+## **TipTac**
+TipTac is a tooltip enchancement addon, it allows you to configure various aspects of the tooltip, such as moving where it's shown, the font, the scale of tips, plus a lot more.
+<br/><br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TipTac.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/tic.jpg) ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/tic2.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/tip-tac)<br/>
+
 ## **SmartTrack**
-Smart automatic tracking for hunters with Improved tracking talent. Whenever you enter combat this addon will check your target's type (if any) and automatically change your tracking accordingly. If you change the target during combat your tracking will change too (if your new target is of different type and you can track it).
+Smart automatic tracking for hunters only with Improved tracking talent. Whenever you enter combat this addon will check your target's type (if any) and automatically change your tracking accordingly. If you change the target during combat your tracking will change too (if your new target is of different type and you can track it).
 <br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SmartTrack.zip)<br/>
 <br/>
