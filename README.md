@@ -331,6 +331,14 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
+## **EventHorizon**
+EventHorizon displays all of your class/spec's rotational abilities on a common time scale.<br/>This means that instead of seeing a regular percentage-based timer bar, EH shows you exactly what is happening in relation to everything else.<br/>If that sounds complicated at all, just look at the screenshots.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/EventHorizon.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/Addons/blob/main/Pictures/eventhorizon.gif)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/eventhorizon)<br/>
+
 ## **ForteXorcist**
 ForteXorcist is a Powerful AddOn for Cross-Dotting u keep track of every Dot u applied. It has many more Features for Warlock and Priests.<br/>
 <br/>
