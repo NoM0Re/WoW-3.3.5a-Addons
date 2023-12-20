@@ -162,7 +162,7 @@ pMinimap is a very lightweight and streamlined Minimap addon.<br/>
 ## **SexyMap**
 SexyMap completely redesigns your mini-map to give it a more “sexy” look. You can choose from a couple of pre-defined styles.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/pMinimap.zip)<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SexyMap.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SexyMap.png)<br/>
 [Felbite](https://felbite.com/addon/4737-sexymap/)<br/>
@@ -469,6 +469,13 @@ This gives you a quick overview of a character's equipment.
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/InspectEquip.png)<br/>
 [WoWAce](https://www.wowace.com/projects/inspect-equip/files?filter-game-version=2020709689%3A98)<br/>
 
+## **AllStats**
+This addon moves the functionality of the stat dropdowns to a panel on the right side of the paperdoll, so that you can see all of your stats at once.<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AllStats.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AllStats.png)<br/>
+[Felbite](https://felbite.com/addon/3884-all-stats/)<br/>
+
 ## **OPie**
 OPie is a radial action-binding addon for World of Warcraft. It lets you group actions into rings, which appear when you hold down a keyboard or mouse binding.<br/>When you release the binding, OPie will perform an action based on where your mouse cursor is.<br/>
 <br/>
@@ -525,7 +532,7 @@ Enhanced by BlueAo adding new features.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Postal.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/postal.jpg)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Postal.png)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
 
 ## **DrDamage**
@@ -682,14 +689,6 @@ Configs are done via interface or slash commands like **/awr**.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AutomaticWeaponRemoval.png)<br/>
 [Github](https://github.com/SecretX33/AutomaticWeaponRemoval/)<br/>
 
-## **Plagued**
-During the Heroic Professor Putricide fight in Icecrown Citadel, if you receive Unbound Plague, you will begin a 10 second countdown in /yell.<br/>
-<br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Plagued.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Plagued1.png)<br/>
-[WoWAce](https://www.wowace.com/projects/plagued/files)<br/>
-
 ## **GladiusEx**
 The famous (and imo, far superior) arena frame AddOn GladiusEx. Gladius adds enemy unit frames to arenas for easier targeting and focusing. It is highly configurable and you can disable most features of this addon.<br/>
 <br/>
@@ -789,6 +788,51 @@ The Spy addon scans the combat log for actions performed by enemy players and an
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/spy.png)<br/>
 [FELBITE](https://felbite.com/addon/4017-spy/)<br/>
+
+## **Overachiever**
+Overachiever provides tools and tweaks to make the lives of players seeking achievements a little bit easier.
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Overachiever.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Overachiever.jpg)
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Overachiever2.jpg)
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Overachiever3.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/overachiever)<br/>
+
+## **Ackis Recipe List**
+Ackis Recipe List is an AddOn which will scan your trade skills and provide information on how to obtain recipes.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AckisRecipeList.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AckisRecipeList.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/arl)<br/>
+
+## **Collectinator**
+Collectinator is a Addon to identify missing mini-pets and mounts, along with their locations for acquisition.<br/>
+Open up your companion window (pets or mounts) and click the scan button.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Collectinator.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Collectinator.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/collectinator)<br/>
+
+## **Ludwig**
+Ludwig is an World of Warcraft item database addon that allows you to search for any item ingame.<br/>
+It presents all ingame items sorted by their proprieties, and allows you to filter them as well.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Ludwig.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Ludwig.jpeg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/ludwig)<br/>
+
+## **Profession Capper**
+Profession Capper is a addon that will show you how to level up your trade skills.<br/>
+When you open your Profession frame, the Profession Capper frame will be opened too, telling you which recipe you'd better to craft next in order to reach next level of that profession.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Profession_Capper.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Profession_Capper.jpeg)<br/>
+[Github](https://github.com/SamuelLira99/Profession-Capper)<br/>
 
 ## **Redeemer**
 This AddOn makes you say humorous messages whenever you cast a resurrection spell and serves purely to entertain you and annoy others.<br/>
