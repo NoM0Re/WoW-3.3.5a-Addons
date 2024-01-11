@@ -71,8 +71,13 @@ Critline is an addon that will remember your highest hits and crits (including h
 
 ## **GearScore**
 Allows you to easily see the calculated Gearscore of yourself and other players.<br/>
+It adds a weighted value for each item a player has equipped based on Item Level.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScore.zip)<br/>
+**GearScore Lite** doesn't have a database and offers fixes, like preventing Talents from "jumping" during inspections. Additionally, it has a minimal RAM usage of under 0.5 MB.<br/>
+[Download Gearscore Lite](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScoreLite.zip)<br/>
+<br/>
+**GearScore** maintains a database to store players' GearScore, allowing you to view other players' Gear even when they are not present. However, it occasionally utilizes between 5 to 10 MB usage of RAM.<br/>
+[Download Gearscore](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScore.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GearScore.jpg)<br/>
 [WotLKAddOns](https://wotlkaddons.com/addon/gearscore)<br/>
@@ -94,21 +99,18 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/DBM.png" alt="Screenshot">
 [Github](https://github.com/Zidras/DBM-Warmane)<br/>
 
-## **Details!**
-Details! Damage Meter is a popular addon that tracks information and statistics about a combat encounter in World of Warcraft.<br/>
+## **Skada vs. Details!**
+Skada and Details! are both popular damage meters in World of Warcraft, showcasing distinctive features.<br/>
+Skada boasts a modular design, is more efficient and has more additional modules than Details!.<br/>
+Details! Damage Meter stands out with its user-friendly interface and a comprehensive set of tracking modules and graphs, enhancing combat data analysis for players.<br/>
 <br/>
-[Download](https://github.com/Bunny67/Details-WotLK/archive/refs/heads/master.zip)<br/>
+**Please use only one damage meter.**<br/><br/>
+[Download Skada](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Details.png)<br/>
-[Github](https://github.com/Bunny67/Details-WotLK)<br/>
-
-## **Skada**
-Skada is a modular damage meter with various viewing modes, segmented fights and customizable windows.<br/>
+[Download Details!](https://github.com/Bunny67/Details-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
-[Download](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Skada.png)<br/>
-[Github](https://github.com/bkader/Skada-WoTLK)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/skadaxdetails.png)<br/>
+[Skada Github](https://github.com/bkader/Skada-WoTLK) - [Details! Github](https://github.com/Bunny67/Details-WotLK)<br/>
 
 ## **Omen Thread Meter**
 Omen is a threat meter. Basically, enemies in WoW decide who to attack by deciding who is the most threatening based on the abilities you use.<br/>
