@@ -80,7 +80,7 @@ It adds a weighted value for each item a player has equipped based on Item Level
 [Download Gearscore](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScore.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GearScore.jpg)<br/>
-[WotLKAddOns](https://wotlkaddons.com/addon/gearscore)<br/>
+[GearScore Lite Github](https://github.com/Barsoomx/GearScoreLite) - [GearScore WotLKAddOns](https://wotlkaddons.com/addon/gearscore)<br/>
 
 ## **AtlasLoot Enhanced**
 AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.<br/>
