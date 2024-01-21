@@ -136,6 +136,22 @@ Carbonite is a google style map replacement and Questhelper for the world of Wor
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Carbonite.png)<br/>
 [Github](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
 
+## **Mapster**
+Mapster is a very simple world map enhacement addon, which was designed to work in conjunction with all other map addons out there.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Mapster.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Mapster.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/mapster)<br/>
+
+## **Cartographer**
+Cartographer is a modular, lightweight, and efficient framework for manipulation of the world map.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Cartographer.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Cartographer.png)<br/>
+[WoWAce](https://www.wowace.com/projects/cartographer)<br/>
+
 ## **Gatherer+**
 The addon does not track like a tracking ability does, rather it "remembers" where you have found various items in the past.<br/>
 It does this whenever you gather (perform herbalism, mining or opening) on an item, and records the specific map location in its history.<br/>
