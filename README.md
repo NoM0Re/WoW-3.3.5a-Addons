@@ -128,6 +128,14 @@ Questhelper tells you how to finish your quests in the easiest, fastest manner. 
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/QuestHelper.jpg" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98)<br/>
 
+## **EveryQuest**
+EveryQuest is a Quest History tracker and quest list window.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/EveryQuest.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/EveryQuest.png)<br/>
+[WoWAce](https://www.wowace.com/projects/everyquest)<br/>
+
 ## **Carbonite**
 Carbonite is a google style map replacement and Questhelper for the world of World of Warcraft.<br/>
 <br/>
@@ -155,7 +163,6 @@ Cartographer is a modular, lightweight, and efficient framework for manipulation
 ## **Gatherer+**
 The addon does not track like a tracking ability does, rather it "remembers" where you have found various items in the past.<br/>
 It does this whenever you gather (perform herbalism, mining or opening) on an item, and records the specific map location in its history.<br/>
-When you view your World Map, you will also see the item locations marked on the particular map you are viewing there.<br/>
 Usage: **/gather**<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Gatherer_Wowhead335.rar)<br/>
 <br/>
@@ -169,6 +176,14 @@ pMinimap is a very lightweight and streamlined Minimap addon.<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/pMinimap.png)<br/>
 [Felbite](https://felbite.com/addon/4552-pminimap/)<br/>
+
+## **CleanMinimap**
+A clean square or round minimap that replaces the default minimap.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/CleanMinimap.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/CMM.jpg) ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/CMM2.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/cleanminimap)<br/>
 
 ## **SexyMap**
 SexyMap completely redesigns your mini-map to give it a more “sexy” look. You can choose from a couple of pre-defined styles.<br/>
@@ -186,15 +201,23 @@ Lightweight Minimap addon like Dragonflight style.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/pretty_minimap.png)<br/>
 [Github](https://github.com/s0h2x/pretty_minimap/)<br/>
 
-## **Auctionator+**
+## **Auctionator (Cata Port Version)**
 Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
-MoP version of the addon, with some fixes and improvements from BlueAo.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.rar)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png)<br/>
+[Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/><br/>
+
+## **Auctionator+ (MoP Port Version)**
+Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
+MoP version of the addon, with some fixes and improvements.<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator+.rar)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
 
-## **Auctionator WatchList (Plugin for Auctionator+)**
+## **Auctionator+ WatchList (Plugin for Auctionator+ MoP Port Version)**
 An addition to Auctionator, that reminds you of all items with prices below set treshold when closing the AH window.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator_WatchList.rar)<br/>
@@ -202,7 +225,7 @@ An addition to Auctionator, that reminds you of all items with prices below set 
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator_WatchList.png)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
 
-## **MarketWatcher+**
+## **MarketWatcher+ (Plugin for Auctionator+ MoP Port Version)**
 Market Watcher is an addon that scans individual items or collection of items instead of the entire auction house at once.<br/>
 It also (optionally) records many snapshots of the auction house for user specified items.<br/>
 Original version of the addon with some fixes from BlueAo.<br/>
@@ -253,6 +276,14 @@ This addon allows you completely skip messages, containing words from the blackl
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatfilter.PNG)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=404523)<br/>
 
+## **Friend & Ignore Share**
+Share friends and ignore list account-wide.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/FriendShare.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/FriendShare.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/friend-ignore-share)<br/>
+
 ## **IgnoreMore**
 IgnoreMore will let you ignore more than 49 players, share the same ignore list, see when someone was ignored, reason for why the person is ignored<br/>
 <br/>
@@ -268,6 +299,22 @@ WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/WIM.jpg" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98)<br/>
+
+## **AddFriend**
+AddFriend is a simple addon that adds an "Add Friend" and "Invite Guild" option to the context menu of player options.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AddFriend.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AddFriend.jpeg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/addfriend)<br/>
+
+## **SpellID**
+Adds IDs to the ingame tooltips.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SpellID.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SpellID.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/idtip)<br/>
 
 ## **AmILockedOut**
 AmILockedOut Little addon which saves me quite some time with all my twinks. Rembers which of your chars are saved to which instance.<br/>
@@ -341,6 +388,14 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
+
+## **BlizzMove**
+This addon makes the Blizzard windows movable.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BlizzMove.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/Addons/blob/main/Pictures/BlizzMove.gif)<br/><br/>
+[Curseforge](https://www.curseforge.com/wow/addons/blizzmove)<br/>
 
 ## **EventHorizon**
 EventHorizon displays all of your class/spec's rotational abilities on a common time scale.<br/>This means that instead of seeing a regular percentage-based timer bar, EH shows you exactly what is happening in relation to everything else.<br/>If that sounds complicated at all, just look at the screenshots.<br/>
@@ -784,6 +839,15 @@ TipTac is a tooltip enchancement addon, it allows you to configure various aspec
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/tic.jpg) ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/tic2.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/tip-tac)<br/>
 
+## **BugSack**
+BugSack eases the process of viewing bugs. It displays Lua errors that occurred during your play session, including the full debug stack.<br/>
+It aims to be invaluable to developers, and a useful tool for players.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BugSack.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/BugSack.jpg)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/bugsack)<br/>
+
 ## **SmartTrack**
 Smart automatic tracking for hunters only with Improved tracking talent. Whenever you enter combat this addon will check your target's type (if any) and automatically change your tracking accordingly. If you change the target during combat your tracking will change too (if your new target is of different type and you can track it).
 <br/><br/>
@@ -910,6 +974,14 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 [GitHub](https://github.com/Skrylas/MogIt-WotLK)<br/>
 <br/>
 
+## **Atlas**
+Atlas is an add-on for World of Warcraft that provides maps for each instance, along with tips for bosses and information on their loot drops in the game.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Atlas.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Atlas.png)<br/>
+[Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
+
 ## **More Addons here:**
 <br/>
 [Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A98&filter-sort=5)<br/>
@@ -918,6 +990,3 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 [RG](https://addons.rising-gods.de/addons)<br/>
 <br/>
 
-## **MY TO DO LIST**
-<br/>
-Total RP<br/>
