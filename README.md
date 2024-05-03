@@ -356,13 +356,13 @@ NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as ti
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/needtoknow.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **TellMeWhen (Needs configuration)** 
+## **TellMeWhen** 
 TellMeWhen is a WoW addon that provides visual, auditory, and textual notifications about cooldowns, buffs, and pretty much every other element of combat.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/TellMeWhen.zip)<br/>
+[Download](https://github.com/bkader/TellMeWhen_3.3.5/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/TellMeWhen.jpg)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/tellmewhen/files/all?filter-game-version=2020709689%3A98)<br/>
+[Curseforge](https://github.com/bkader/TellMeWhen_3.3.5)<br/>
 
 ## **BLT Fixed Version by me**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights. My version can show CDs of Trinkets like it was intendent, the Developer of the Addon isnt updating it anymore.<br/>
