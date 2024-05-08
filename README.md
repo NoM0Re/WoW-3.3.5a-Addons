@@ -335,7 +335,7 @@ AmILockedOut Little addon which saves me quite some time with all my twinks. Rem
 ## **KRU - Kader's Raid Utilities**
 This addon was part of [KPack](https://github.com/bkader/KPack), it was extracted and made as a standalone addon after few requests, contains 8 very useful modules.<br/>
 [More Information](https://github.com/bkader/KRU-WoTLK)<br/>
-[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/KRU-WoTLK/tree/main/KRU)<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/KRU.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/KRU.png)<br/>
 [Github](https://github.com/bkader/KRU-WoTLK)<br/>
@@ -432,7 +432,7 @@ Dominos is an addon that replaces your main bar with movable parts that offer ad
 ## **MoveAnything**
 MoveAnything enables you to move, scale, hide and adjust transparency of just about any screen element in WoW, offering tools to help you customize your UI.<br/>
 <br/>
-[Download](https://github.com/sirus-addons/MoveAnything/releases/download/72b8ca3-202210132010/MoveAnything.zip)<br/>
+[Download](https://github.com/sirus-addons/MoveAnything/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MoveAnything.jpg)<br/>
 [GitHub](https://github.com/sirus-addons/MoveAnything)<br/>
@@ -448,10 +448,10 @@ Bartender4 is a full ActionBar replacement mod. It provides you with all the fea
 ## **Raeli's Unit Frames**
 RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as some unit frames<br/>
 <br/>
-[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/RUF-WoTLK/tree/main/RUF)<br/>
+[Download](https://github.com/bkader/RUF-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Raeli's%20Unit%20Frames.png)<br/>
-[Github](https://github.com/bkader/KRT)<br/>
+[Github](https://github.com/bkader/RUF-WoTLK)<br/>
 
 ## **SnowfallKeyPress**
 This addon accelerates key bindings so that they are activated by key press rather than key release.<br/>
@@ -585,7 +585,7 @@ Pally Power the must have for a Paladin, provides an interactive and easy to use
 ## **EclipseBar**
 Backported Druid EclipseBar but instead of showing power bar, the marker moves with the eclipse's remaining time.<br/>
 <br/>
-[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/EclipseBar-WotLK/tree/main/EclipseBarFrame)<br/>
+[Download](https://github.com/bkader/EclipseBar-WotLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Eclipse.gif)<br/>
 [Github](https://github.com/bkader/EclipseBar-WotLK)<br/>
@@ -673,7 +673,7 @@ Raid composition is an important aspect of WoW PvE. RC also helps raid leaders b
 ## **KRT: Kader Raid Tools**
 It was mainly made for raid leaders and it offers a lot of useful features to really make raid leading as easy as possible.<br/>
 [More Information](https://github.com/bkader/KRT)<br/>
-[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/bkader/KRT/tree/main/!KRT)<br/>
+[Download](https://github.com/bkader/KRT/archive/refs/heads/main.zip)<br/>
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/KRT.jpg" alt="Screenshot" width="500" height="600"><br/>
 [Github](https://github.com/bkader/KRT)<br/>
@@ -965,7 +965,7 @@ This addon aims to enhance the readability and immersion when questing in World 
 ## **Altoholic**
 Altoholic features search functionality, which allows users to search their alts bags or loot tables in an Auction-House-like frame.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/GlueXML.zip)<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Altoholic.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Altoholic.png)<br/>
 [RisingGods](https://addons.rising-gods.de/addons/altoholic)<br/>
