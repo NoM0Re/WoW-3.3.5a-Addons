@@ -213,7 +213,7 @@ Lightweight Minimap addon like Dragonflight style.<br/>
 Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
 This Version is using abit less memory than the MoP version.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Auctionator.rar)<br/>
+[Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Auctionator.png)<br/>
 [Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/><br/>
@@ -836,10 +836,10 @@ anything into one of these slots, and click the slot to set KeyBindings.
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Bindpad.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/bind-pad)<br/>
 
-## **Clique**
+## **Clique WotLK Classic Backport**
 Clique is a simple addon that enables powerful click-casting and hover-casting on your unit frames and in the 3D game world. You can bind virtually any mouse or keyboard combination to a spell or macro. In it's normal configuration this enables you to use the bindings over your unit frames in order to cast spells directly on that unit. This allows you to more quickly select both the spell to cast, and the target of the spell without requiring an extra click.
 <br/><br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Clique.zip)<br/>
+[Download](https://gitlab.com/Tsoukie/clique-3.3.5/-/archive/main/clique-3.3.5-main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Clique.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/clique/files/466944)<br/>
