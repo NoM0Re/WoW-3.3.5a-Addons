@@ -311,7 +311,7 @@ WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant
 ## **AddFriend**
 AddFriend is a simple addon that adds an "Add Friend" and "Invite Guild" option to the context menu of player options.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/AddFriend.zip)<br/>
+[Download](https://github.com/NoM0Re/AddFriend-3.3.5a/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/AddFriend.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/addfriend)<br/>
