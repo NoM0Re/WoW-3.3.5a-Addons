@@ -66,6 +66,11 @@ Critline is an addon that will remember your highest hits and crits (including h
 Allows you to easily see the calculated Gearscore of yourself and other players.<br/>
 It adds a weighted value for each item a player has equipped based on Item Level.<br/>
 <br/>
+**GearScoreLite: Reborn**
+GearScoreLite: Reborn is the newest version of the Addon and is based on the final official version of GearScoreLite from CurseForge.<br/>
+It doesn't have a database has a improved GearScore algorithm, includes several bug fixes, new features, and supports all unit frame addons.<br/>
+[Download GearscoreLite: Reborn](https://github.com/Arcitec/GearScoreLite_Reborn/archive/refs/heads/main.zip)<br/>
+<br/>
 **GearScore Lite** doesn't have a database and offers fixes, like preventing Talents from "jumping" during inspections. Additionally, it has a minimal RAM usage of under 0.5 MB.<br/>
 [Download Gearscore Lite](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScoreLite.zip)<br/>
 <br/>
@@ -73,7 +78,7 @@ It adds a weighted value for each item a player has equipped based on Item Level
 [Download Gearscore](https://github.com/NoM0Re/Addons/raw/main/Addons/GearScore.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GearScore.jpg)<br/>
-[GearScore Lite Github](https://github.com/Barsoomx/GearScoreLite) - [GearScore WotLKAddOns](https://wotlkaddons.com/addon/gearscore)<br/>
+[GearscoreLite: Reborn](https://github.com/Arcitec/GearScoreLite_Reborn) - [GearScore Lite Github](https://github.com/Barsoomx/GearScoreLite) - [GearScore WotLKAddOns](https://wotlkaddons.com/addon/gearscore)<br/>
 
 ## **AtlasLoot Enhanced**
 AtlasLoot Enhanced is an UI mod allowing for loot tables of bosses to be browsed whenever needed within the game.<br/>
@@ -284,6 +289,15 @@ This addon allows you completely skip messages, containing words from the blackl
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Chatfilter.PNG)<br/>
 [Warmane Forum](https://forum.warmane.com/showthread.php?t=404523)<br/>
 
+## **STFU: Shut the fuck up, thanks.**
+Efficiently blocks all opposite-faction chat spam in neutral cities (Dalaran, Shattrath, etc) and other neutral areas.<br/>
+Still shows their messages if you are outside of neutral zones, to preserve situational awareness of nearby enemies.<br/>
+<br/>
+[Download](https://github.com/Arcitec/STFU_Chat_Filter/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/STFU.png)<br/>
+[Github](https://github.com/Arcitec/STFU_Chat_Filter)<br/>
+
 ## **Friend & Ignore Share**
 Share friends and ignore list account-wide.<br/>
 <br/>
@@ -452,6 +466,14 @@ RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as 
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Raeli's%20Unit%20Frames.png)<br/>
 [Github](https://github.com/bkader/RUF-WoTLK)<br/>
+
+## **Shadowed Unit Frames**
+SFU offers you a modified interface that can show you, for example, which players are currently out of range or which of them have negative (or positive) auras.<br/>
+Additionally, it allows you to move the individual character windows to where it works best for you.<br/><br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ShadowedUnitFrames.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/SUF1.png) ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/SUF2.png)<br/>
+[Curseforge](https://www.curseforge.com/wow/addons/shadowed-unit-frames/files/all?page=1&pageSize=20&version=3.3.5)<br/>
 
 ## **SnowfallKeyPress**
 This addon accelerates key bindings so that they are activated by key press rather than key release.<br/>
