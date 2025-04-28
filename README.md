@@ -5,11 +5,10 @@ Not every Addon is compatible with other Addons.<br/><br/>
 **The repository shut always be up-to-date and also will be updated every few Months**, if necessary.<br/><br/>
 Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addons.
 <br/>You can be sure if the source is a Github Link, the Addon still has Support.<br/>
-If it is not a Github Link it likely doesn't have Support anymore.<br/>
-Don't download from the AddOns Folder directly, instead download from the README.md<br/><br/>
+If it is not a Github Link it likely doesn't have Support anymore.<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
-### IMPORTANT: u may have to be logged in Github to download a addon.
+### IMPORTANT: u may have to be logged in Github to download a AddOn!<br/>Don't download from the repo Addons Folder, instead download from this README.md!
 
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" /> <br/>
 <a href='https://github.com/NoM0Re' target="_blank">
