@@ -2,20 +2,23 @@
 
 **This is my AddonRepository for WotLK. (Created by NoM0Re)**<br/>I have written this Repository to download the newest/latest Addons for the WotLK Patch.<br/>
 Not every Addon is compatible with other Addons.<br/><br/>
-**The Repository will be Updated every few Months to the newest Build of the Addons**, if something changed.<br/><br/>
+**The repository shut always be up-to-date and also will be updated every few Months**, if necessary.<br/><br/>
 Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md#most-useful-wow-addons-for-patch-335a-wotlk) where i got the addons.
-<br/>You can be sure if its a Github Link, the Addon still has Support.<br/>
-If it is not a Github Link it will not have Support anymore.<br/><br/>
+<br/>You can be sure if the source is a Github Link, the Addon still has Support.<br/>
+If it is not a Github Link it likely doesn't have Support anymore.<br/>
+Don't download from the AddOns Folder directly, instead download from the README.md<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
-[![HitCount](https://hits.dwyl.com/NoM0Re/WoW-335a-Addons.svg?style=flat)](http://hits.dwyl.com/NoM0Re/WoW-335a-Addons) <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" /> <br/>
+### IMPORTANT: u may have to be logged in Github to download a addon.
+
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" /> <br/>
 <a href='https://github.com/NoM0Re' target="_blank">
   <img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=flat-square&logo=GitHub&logoColor=white&labelColor=black&color=black'/>
 </a>
 <a href='https://www.youtube.com/@xpatrick99x' target="_blank">
   <img alt='youtube' src='https://img.shields.io/badge/YouTube-100000?style=flat-square&logo=youtube&logoColor=white&labelColor=FF0000&color=black'/>
 </a>
-<a href='https://www.twitch.tv/noom0re' target="_blank">
+<a href='https://www.twitch.tv/nom0ree' target="_blank">
   <img alt='Twitch' src='https://img.shields.io/badge/Twitch-100000?style=flat-square&logo=Twitch&logoColor=white&labelColor=6441a5&color=black'/>
 </a>
 <a href='https://streamelements.com/noom0re/tip' target="_blank">
@@ -101,6 +104,7 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 Skada and Details! are both popular damage meters in World of Warcraft, showcasing distinctive features.<br/>
 Skada boasts a modular design, is more efficient and has more additional modules than Details!.<br/>
 Details! Damage Meter stands out with its user-friendly interface and a comprehensive set of tracking modules and graphs, enhancing combat data analysis for players.<br/>
+**Skada** is way to go for better performance.<br/>
 <br/>
 **Please use only one damage meter.**<br/><br/>
 [Download Skada](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip)<br/>
@@ -126,9 +130,8 @@ To bring up the Options window, type **/ti window**.<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/TurnIn.PNG)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/turn-in/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **Questie Backport (Early Development, but works)**
+## **Questie**
 Questie is a popular World of Warcraft addon that enhances the questing experience for players. It provides an intuitive and user-friendly interface for tracking quests, displaying quest objectives on the map, and offering helpful tooltips for quest-related NPCs and items. Questie streamlines the questing process by reducing the need for players to constantly consult external guides or references, making it easier to navigate the expansive world of Azeroth and complete quests efficiently. Whether you're a seasoned veteran or a newcomer to WoW, Questie is a valuable tool for enhancing your gameplay experience and maximizing your questing efficiency.<br/>
-Show this guy some love on this Github!<br/>
 [Download](https://github.com/widxwer/Questie/archive/refs/heads/335.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Questie.png)<br/>
@@ -357,10 +360,12 @@ This addon was part of [KPack](https://github.com/bkader/KPack), it was extracte
 ## **WeakAuras**
 WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft's user interface to indicate buffs, debuffs, and other relevant information. This addon was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.<br/>
 <br/>
-[Download](https://github.com/Bunny67/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
+[Download latest](https://github.com/NoM0Re/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
+[Download 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/archive/refs/heads/4.1.2.zip)<br/>
+[Download 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png" alt="Screenshot"><br/>
-[GitHub](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
+[GitHub latest](https://github.com/NoM0Re/WeakAuras-WotLK) - [GitHub 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/tree/4.1.2) - [GitHub 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
 ## **NeedToKnow** 
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
@@ -408,7 +413,7 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 [Plugins for ElvUI](https://github.com/ElvUI-WotLK/ElvUI#plugins)<br/>
 [MyPlugin List](https://github.com/NoM0Re/Addons/raw/main/Addons/Plugins.zip)
 <br/>
-<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Elvui.jpg" alt="Screenshot"><br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/ElvUI.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
 
 ## **BlizzMove**
@@ -482,7 +487,7 @@ This addon accelerates key bindings so that they are activated by key press rath
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SnowfallKeyPress.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SnowfallKeyPress.jpg)<br/>
-[Felbite](https://felbite.com/addon/4721-snowfallkeypress/)<br/>
+[WoWInterface](https://web.archive.org/web/20100108081918/http://www.wowinterface.com:80/downloads/info15078-SnowfallKeyPress.html)<br/>
 
 ## **Grid2**
 Grid2 is a party/raid unit frame addon.<br/>
@@ -661,6 +666,14 @@ Bringing LFR to Wotlk. This addon replaces the unused (in 3.3.5a) LFR tab in the
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/raidbrowser.png)<br/>
 [GitHub](https://github.com/Ostoic/RaidBrowser)<br/>
 
+## **GroupBulletinBoard**
+GroupBulletinBoard (GBB) provides a clear overview of the endless requests in chat channels. It detects all instance requests, sorts them, and presents them in an organized way, with numerous filters to help you find exactly the dungeons you are interested in; sound and chat notifications alert you to new requests. `/gbb` or click the minimap icon<br/>
+<br/>
+[Download](https://github.com/fondlez/GroupBulletinBoard/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/GroupBulletinBoard.jpg)<br/>
+[GitHub](https://github.com/fondlez/GroupBulletinBoard)<br/>
+
 ## **AutoFlood**
 AutoFlood periodically sends a single-line message in a chat channel. It's designed for advertisement for guild recruitment, crafting, in-game events...<br/>
 <br/>
@@ -684,6 +697,14 @@ RaidCluster is an addon designed to display clusters of players as counters that
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/RaidCluster.gif)<br/>
 [Github](https://github.com/NoM0Re/RaidCluster)<br/>
 
+## **iTargetingFrames**
+Displays nameplate units in a clickable grid.<br/>
+Requires a patched client with AwesomeWotlk (https://github.com/FrostAtom/awesome_wotlk).<br/>
+If units are shown more than once, you need the modified DLL-file with fixed nameplate units from this repository.<br/>
+[Download](https://github.com/CH33T4/iTargetingFrames/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/iTargetingFrames.jpg)<br/>
+[Github](https://github.com/CH33T4/iTargetingFrames)<br/>
 ## **RaidComp**
 Raid composition is an important aspect of WoW PvE. RC also helps raid leaders by giving an overview of the different buff and debuff categories. It won't do all the thinking for you, raid optimization is complex, however it should be able to do most of the grunt work and highlight some of the categories and abilities you need to look closer at.<br/>
 <br/>
@@ -864,7 +885,7 @@ Clique is a simple addon that enables powerful click-casting and hover-casting o
 [Download](https://gitlab.com/Tsoukie/clique-3.3.5/-/archive/main/clique-3.3.5-main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Clique.jpeg)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/clique/files/466944)<br/>
+[Gitlab](https://gitlab.com/Tsoukie/clique-3.3.5)<br/>
 
 ## **TipTac**
 TipTac is a tooltip enchancement addon, it allows you to configure various aspects of the tooltip, such as moving where it's shown, the font, the scale of tips, plus a lot more.
@@ -1007,13 +1028,36 @@ Quick little mod, allows you to setup different profiles for your action bars. M
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/ActionButtonSaver2.gif)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/action-bar-saver/files/all?page=1&pageSize=20&version=3.2.0)<br/>
 
-## **SharedMedia + MerfinMedia**
-Adds more Fonts for Addons<br/>
+## **MacroBank**
+MacroBank is an addon that allows you to easily create, organize, and save macros for future use without needing to first create them in the game's default macro window. It offers features like categorizing macros, editing text and icons, loading and replacing macros, and even sending macros to other MacroBank users.<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/MacroBank.zip)<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/SharedMedia.zip)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/MacroBank.jpg)<br/>
+[WoWAce](https://www.wowace.com/projects/macro-bank)<br/>
+
+## **SharedMedia AddOns**
+Inserts media(fonts, bars, borders, etc) into LibSharedMedia's storage. They can then be selected by any addon that supports LibSharedMedia.
+**bKader Shared Media** for more bar, textures, fonts, sounds(popular version), with alot custom stuff added.<br/>
+**SharedMedia Retail** for more bar textures, fonts (retail version).<br/>
+**SharedMediaAdditionalFonts** for more fonts.<br/>
+**MerfinPlus** adds predefined tts, sounds, statusbar, fonts and more.<br/>
+<br/>
+[Download Shared Media bKader](https://github.com/bkader/SharedMedia/archive/refs/heads/main.zip)<br/>
+[Download Shared Media Retail](https://github.com/NoM0Re/SharedMedia/archive/refs/heads/main.zip)<br/>
+[Download SharedMediaAdditionalFonts](https://github.com/NoM0Re/SharedMediaAdditionalFonts/archive/refs/heads/main.zip)<br/>
+[Download MerfinPlus](https://github.com/NoM0Re/Addons/raw/main/Addons/MerfinPlus.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/SharedMedia.png)<br/>
-[Github](https://github.com/bkader/SharedMedia)<br/>
+[Github](https://github.com/bkader/SharedMedia) - [Github](https://github.com/NoM0Re/SharedMedia) - [Github](https://github.com/NoM0Re/SharedMediaAdditionalFonts)<br/>
+
+## **Color Picker Advanced**
+Color Picker Advanced for a better version of the WoW color picker that includes class color templates and a copy and paste function.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/ColorPickerAdvanced.zip)<br/>
+<br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/ColorPickerAdvanced.png" alt="Screenshot"><br/>
+[Google Drive](https://drive.google.com/file/d/1ymNYizWp2TxIS1a6hLg7bT9YoJ3E-8Na/view)<br/>
+<br/>
 
 ## **MogIt**
 MogIt is an in-game catalogue of items with the aim of helping players build their own sets for transmogrification purposes.<br/>
@@ -1034,11 +1078,36 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 
 ## **More Addons here:**
 <br/>
-
 [Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A98&filter-sort=5)<br/>
 [Felbite](https://felbite.com/wow-3-3-5-addons/)<br/>
+[Maddons](https://maddonsmanager.github.io/)
 [Legacy](https://legacy-wow.com/wotlk-addons/)<br/>
 [RG](https://addons.rising-gods.de/addons)<br/>
+<br/>
 
+## **AddOn Update Tool**
+Tool to update World of Warcraft AddOns hosted on GitHub or GitLab.<br/>
+I've created a config to use with Alchimister's World of Warcraft AddOns Update Tool for even faster updates of AddOns that still have support.<br/>
+**How to install:**<br/>
+- Download and extract AddOns Update Tool into your WoW folder.<br/>
+- Download and place the provided `config.yaml`  file into your WoW folder.<br/>
+- Backup your Interface folder first (just in case!).<br/>
+- Run the updater and enjoy faster updates!<br/>
+➔ In the `config.yaml`, you can also specify additional AddOns to update automatically when running the executable.<br/>
+<br/>
+[Download](https://github.com/alchem1ster/AddOns-Update-Tool/releases)<br/>
+<a href="https://github.com/NoM0Re/Addons/raw/main/Addons/config.yaml" download="config.yaml">Download my config</a><br/>
+<br/>
+![](https://github.com/NoM0Re/Addons/blob/main/Pictures/AddOnsUpdaterTool.gif)<br/>
+[Github](https://github.com/alchem1ster/AddOns-Update-Tool)<br/>
+
+## **Partners**
+## **MerfinUI**
+Custom WeakAuras, UI setups, and addon profiles.<br/>
+<br/>
+[Discord](https://discord.gg/cghBWHedtf)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MerfinUI1.png)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MerfinUI2.png)<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png)<br/>
 <br/>
 

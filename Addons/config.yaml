@@ -1,0 +1,211 @@
+### AddOns Update Tool WotLK 3.3.5a
+# AddOns are sorted alphabetically by name,
+# except for DBM, WeakAuras, ElvUI, SharedMedia, and Skada.
+# This list was created by NoM0Re.
+
+# DBM (https://discord.gg/CyVWDWS)
+# https://github.com/Zidras/DBM-Warmane : main        # Latest DBM
+# https://github.com/Vargoth86/DBM-Rising-Gods : main # DBM for Rising Gods (DBM-Warmane v7.07)
+# https://github.com/Zidras/Transcriptor-WOTLK : main # DBM Debugging Tool
+
+# WeakAuras (https://discord.gg/UXSc7nt)
+# https://github.com/NoM0Re/WeakAuras-WotLK : main      # WA v5+ (latest)
+# https://github.com/NoM0Re/WeakAuras-WotLK : 4.1.2   # WA 4.1.2
+# https://github.com/Bunny67/WeakAuras-WotLK : main   # WA 4.0.0
+
+# SharedMedia
+# https://github.com/bkader/SharedMedia : main          # bKader SharedMedia
+# https://github.com/NoM0Re/SharedMedia : main          # Retail SharedMedia
+# https://github.com/NoM0Re/SharedMediaAdditionalFonts : main
+
+# ElvUI v6.09 (https://discord.gg/UXSc7nt)
+# https://github.com/ElvUI-WotLK/ElvUI : main
+
+# ElvUI v6.09 Plugins (https://discord.gg/UXSc7nt)
+# https://github.com/ElvUI-WotLK/ElvUI_AddOnSkins : main
+# https://github.com/ElvUI-WotLK/ElvUI_AuraBarsMovers : main
+# https://github.com/ElvUI-WotLK/ElvUI_BagControl : main
+# https://github.com/ElvUI-WotLK/ElvUI_CastBarOverlay : main
+# https://github.com/ElvUI-WotLK/ElvUI_CustomTags : main
+# https://github.com/ElvUI-WotLK/ElvUI_CustomTweaks : main
+# https://github.com/ElvUI-WotLK/ElvUI_DTBars2 : main
+# https://github.com/ElvUI-WotLK/ElvUI_DataTextColors : main
+# https://github.com/ElvUI-WotLK/ElvUI_Enhanced : main
+# https://github.com/ElvUI-WotLK/ElvUI_EnhancedFriendsList : main
+# https://github.com/ElvUI-WotLK/ElvUI_ExtraActionBars : main
+# https://github.com/ElvUI-WotLK/ElvUI_LocPlus : main
+# https://github.com/ElvUI-WotLK/ElvUI_MicrobarEnhancement : main
+# https://github.com/ElvUI-WotLK/ElvUI_RaidMarkers : main
+# https://github.com/ElvUI-WotLK/ElvUI_SwingBar : main
+# https://github.com/ElvUI-WotLK/ElvUI_VisualProcs : main
+
+# ElvUI v6.09 3rd Party Plugins (https://discord.gg/UXSc7nt)
+# https://github.com/Zidras/ElvUI_ProjectZidras : main
+# https://github.com/nerestaren/ElvUI_FixRole : main
+# https://github.com/nerestaren/ElvUI_ThreatImproved : main
+# https://github.com/Zidras/ElvUI_ImprovedSpecSwitch : main
+# https://github.com/noname08662/ElvUI_Extras : main
+
+# ElvUI v7.00 (https://discord.gg/UXSc7nt)
+# https://github.com/Crumdidlyumshis/ElvUI : development
+
+# ElvUI v7.00 Plugins (https://discord.gg/UXSc7nt)
+# https://github.com/Crumdidlyumshis/ElvUI_AddOnSkins : main
+# https://github.com/Crumdidlyumshis/ElvUI_Enhanced : main
+# https://github.com/Crumdidlyumshis/ElvUI_EnhancedFriendsList : main
+# https://github.com/Crumdidlyumshis/ElvUI_LocPlus : main
+# https://github.com/Crumdidlyumshis/ElvUI_RaidMarkers : main
+# https://github.com/Crumdidlyumshis/ElvUI_SwingBar : main
+# https://github.com/Crumdidlyumshis/ElvUI_VisualProcs : main
+
+# Skada (https://discord.gg/a8z5CyS3eW)
+# https://github.com/bkader/Skada-WoTLK : main
+
+# Auctionator
+# https://github.com/alchem1ster/WotLK-Auctionator : main
+
+# BLT
+# https://github.com/freix1/BLT_WotLK : main
+# https://github.com/napnapnapnap/BLT_WotLK : main
+
+# bKader AddOns (https://discord.gg/a8z5CyS3eW)
+# https://github.com/bkader/BigWigs-WoTLK : main
+# https://github.com/bkader/BloodyMask : main
+# https://github.com/bkader/ButtonFacade : main
+# https://github.com/bkader/Comix-WotLK : main
+# https://github.com/bkader/Crosshairs-WotLK : main
+# https://github.com/bkader/Dominos : main
+# https://github.com/bkader/EclipseBar-WotLK : main
+# https://github.com/bkader/ElvinCDs : main
+# https://github.com/bkader/FixGroups-WoTLK : main
+# https://github.com/bkader/GarbageProtector : main
+# https://github.com/bkader/Grid2-WoTLK : main
+# https://github.com/bkader/HalionHelper-WoTLK : main
+# https://github.com/bkader/Hermes-WotLK : main
+# https://github.com/bkader/KPack : main
+# https://github.com/bkader/KRT : main
+# https://github.com/bkader/KRU-WoTLK : main
+# https://github.com/bkader/KTracker : main
+# https://github.com/bkader/KuiNameplates-WoTLK : main
+# https://github.com/bkader/Masque-WoTLK : main
+# https://github.com/bkader/NameplateSCT_WoTLK : main
+# https://github.com/bkader/PlateBuffs_WoTLK : main
+# https://github.com/bkader/RUF-WoTLK : main
+# https://github.com/bkader/Raven-WotLK : main
+# https://github.com/bkader/Talented_WoTLK : main
+# https://github.com/bkader/TellMeWhen_3.3.5 : main
+# https://github.com/bkader/TheClassicRace-WotLK : main
+# https://github.com/bkader/TidyPlates_WoTLK : main
+
+# Carbonite
+# https://github.com/DevScarabyte/Carbonite-3.3.5a-Remastered : main
+
+# CH33T4 AddOns
+# https://github.com/CH33T4/iTargetingFrames : main
+
+# Crum AddOns (https://discord.gg/UXSc7nt)
+# https://github.com/crumdidlyumshis/BNetToast : main
+
+# Details (https://discord.gg/UXSc7nt)
+# https://github.com/Bunny67/Details-WotLK : main
+
+# fondlez AddOns
+# https://github.com/fondlez/GroupBulletinBoard : main
+# https://github.com/fondlez/wQueue : main
+# https://github.com/fondlez/MuteChatWrongFaction : main
+# https://github.com/fondlez/FonzTracking : main
+# https://github.com/fondlez/EventTracker : main
+
+# GearScore Lite
+# https://github.com/Arcitec/GearScoreLite_Reborn : main
+# https://github.com/Barsoomx/GearScoreLite : main
+
+# GladiusEx
+# https://github.com/ManneN1/GladiusEx-WotLK : main
+
+# Homerocker AddOns
+# https://github.com/Homerocker/HomeChecker : main
+# https://github.com/Homerocker/QDKPv2 : main
+# https://github.com/Homerocker/RaidEvents : main
+# https://github.com/Homerocker/MLAutoLootBoE : main
+
+# LundmarkJ AddOns
+# https://github.com/LundmarkJ/AdiBags-WotLK-Modules : main
+
+# MogIt
+# https://github.com/Skrylas/MogIt-WotLK : main
+
+# MoveAnything
+# https://github.com/sirus-addons/MoveAnything : main
+
+# NethanosGit AddOns
+# https://github.com/NethanosGit/EveryQuest : main
+
+# NoM0Re AddOns
+# https://github.com/NoM0Re/AddFriend-3.3.5a : main
+# https://github.com/NoM0Re/DalaranAH : main
+# https://github.com/NoM0Re/PallyPower-Improved-3.3.5 : main
+# https://github.com/NoM0Re/RaidCluster : main
+
+# Questie
+# https://github.com/widxwer/Questie : 3.3.5
+
+# RaidBrowser
+# https://github.com/MassCraxx/RaidBrowser : dev
+
+# RatingBuster
+# https://github.com/Einherjarn/RatingBuster-3.3.5 : main
+
+# RomanSpector AddOns
+# https://github.com/RomanSpector/Afflicted : main
+# https://github.com/RomanSpector/ArenaSpectatorX : main
+# https://github.com/RomanSpector/LossOfControl : main
+# https://github.com/RomanSpector/AbbreviatedStatus : main
+# https://github.com/RomanSpector/UnitFrameLayers : main
+# https://github.com/RomanSpector/CompactRaidFrame : main
+
+# Sattva AddOns
+# https://github.com/Sattva-108/AdiBags : main
+# https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5-Mods : main
+# https://github.com/Sattva-108/Buffet-WoTLK-3.3.5 : main
+# https://github.com/Sattva-108/Cartographer3 : main
+# https://github.com/Sattva-108/FarmHud : main
+# https://github.com/Sattva-108/Leatrix_Plus : main
+# https://github.com/Sattva-108/Mapster : main
+# https://github.com/Sattva-108/unitscan : main
+# https://github.com/Sattva-108/WoW-Quest-Auto-Accept-Turn-In : main
+
+# s0high AddOns (https://discord.gg/xpmAYHdzAm)
+# https://github.com/s0h2x/Immersion-WotLK : main
+# https://github.com/s0h2x/NugKeyFeedback : main
+# https://github.com/s0h2x/pretty_actionbar : main
+# https://github.com/s0h2x/pretty_lootalert : main
+# https://github.com/s0h2x/pretty_minimap : main
+# https://github.com/s0h2x/pw_lossofcontrol : main
+# https://github.com/s0h2x/pw_unitframes : main
+
+# SoundAlerter
+# https://github.com/Cortes-Jeremy/SoundAlerter : main
+
+# Trimitor AddOns (https://discord.gg/Gyb9Z252vt)
+# https://github.com/Trimitor/WDM-addons : main
+
+# Tsoukie AddOns
+# https://gitlab.com/Tsoukie/bigdebuffs-3.3.5 : main
+# https://gitlab.com/Tsoukie/classicapi : main         # Most of his AddOns need this
+# https://gitlab.com/Tsoukie/clique-3.3.5 : main
+# https://gitlab.com/Tsoukie/compactraidframe-3.3.5 : main
+# https://gitlab.com/Tsoukie/compactraidframe_healex : main
+# https://gitlab.com/Tsoukie/enhancedraidframes-3.3.5 : main
+# https://gitlab.com/Tsoukie/framesort-3.3.5 : main
+# https://gitlab.com/Tsoukie/gladdy-3.3.5 : main
+# https://gitlab.com/Tsoukie/omnibar-3.3.5 : main
+# https://gitlab.com/Tsoukie/omnibar_duel : main
+# https://gitlab.com/Tsoukie/raidframesorter-3.3.5 : main
+# https://gitlab.com/Tsoukie/tsoukiepartytracker : main
+
+# xCT+
+# https://github.com/Barsoomx/xCT_Plus_wotlk : main
+
+# Zidras AddOns (https://discord.gg/CyVWDWS)
+# https://github.com/Zidras/AllCheatersMustDie : main
