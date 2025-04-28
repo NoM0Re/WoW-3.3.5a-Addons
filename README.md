@@ -1077,35 +1077,31 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
 
 ## **More Addons here:**
-<br/>
-[Curseforge](https://www.curseforge.com/wow/addons?filter-game-version=2020709689%3A98&filter-sort=5)<br/>
+[Curseforge](https://www.curseforge.com/wow/search?page=1&pageSize=20&sortBy=relevancy&class=addons&version=3.3.5)<br/>
 [Felbite](https://felbite.com/wow-3-3-5-addons/)<br/>
-[Maddons](https://maddonsmanager.github.io/)
+[Maddons](https://maddonsmanager.github.io/)<br/>
 [Legacy](https://legacy-wow.com/wotlk-addons/)<br/>
 [RG](https://addons.rising-gods.de/addons)<br/>
-<br/>
 
 ## **AddOn Update Tool**
 Tool to update World of Warcraft AddOns hosted on GitHub or GitLab.<br/>
 I've created a config to use with Alchimister's World of Warcraft AddOns Update Tool for even faster updates of AddOns that still have support.<br/>
 **How to install:**<br/>
 - Download and extract AddOns Update Tool into your WoW folder.<br/>
-- Download and place the provided `config.yaml`  file into your WoW folder.<br/>
+- Download and place the provided `config.yaml` file into your WoW folder.<br/>
 - Backup your Interface folder first (just in case!).<br/>
 - Run the updater and enjoy faster updates!<br/>
-➔ In the `config.yaml`, you can also specify additional AddOns to update automatically when running the executable.<br/>
-<br/>
+➔ In the `config.yaml`, you can also specify additional AddOns to update automatically when running the executable.<br/><br/>
 [Download](https://github.com/alchem1ster/AddOns-Update-Tool/releases)<br/>
-<a href="https://github.com/NoM0Re/Addons/raw/main/Addons/config.yaml" download="config.yaml">Download my config</a><br/>
-<br/>
-![](https://github.com/NoM0Re/Addons/blob/main/Pictures/AddOnsUpdaterTool.gif)<br/>
+[Download my config](https://drive.google.com/drive/folders/1_O6kwkYjx_AjQk9vciMS8OaXF778d6VF?usp=sharing)<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/AddOnsUpdaterTool.gif)<br/>
 [Github](https://github.com/alchem1ster/AddOns-Update-Tool)<br/>
 
 ## **Partners**
-## **MerfinUI**
+### **MerfinUI**
 Custom WeakAuras, UI setups, and addon profiles.<br/>
 <br/>
-[Discord](https://discord.gg/cghBWHedtf)<br/>
+[Discord](https://discord.gg/cghBWHedtf)<br/><br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MerfinUI1.png)<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/MerfinUI2.png)<br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png)<br/>
