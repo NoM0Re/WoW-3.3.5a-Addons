@@ -34,7 +34,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
    Find in your World of Warcraft folder, the /Interface/Addons folder<br/>
    Drag and drop folder/s into the addon folder (folder name should match .toc file inside; if named "*-master" go inside the folder and paste those folders).<br/>
    Restart the Game<br/><br/>
-    
+
 ## **How to copy Addon configs from Character to Character/Accounts:**
 [![Youtube](https://img.youtube.com/vi/2Nw8vGyN-_I/0.jpg)](https://youtu.be/2Nw8vGyN-_I)
 
@@ -136,6 +136,14 @@ Questie is a popular World of Warcraft addon that enhances the questing experien
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Questie.png)<br/>
 [Github](https://github.com/widxwer/Questie)<br/>
 
+## **Zygor Guides**
+Zygor Guides are the best and fastest way to level your characters in World of Warcraft and accomplish more in less time.<br/>
+Using our custom Guide Viewer addon our guides are displayed inside the game and use an optimized step by step format to tell you everything you need to do.<br/>
+[Download](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/ZygorGuides.png)<br/>
+[Github](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK)<br/>
+
 ## **Questhelper**
 Questhelper tells you how to finish your quests in the easiest, fastest manner. It includes a database of quests, monsters, and items, telling you the exact location of that dang Perfect Satyr Horn you can't find. It also computes the fastest path to complete all your quests - and gain experience - as quickly as possible.<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/QuestHelper.zip)<br/>
@@ -174,6 +182,14 @@ Cartographer is a modular, lightweight, and efficient framework for manipulation
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Cartographer.png)<br/>
 [WoWAce](https://www.wowace.com/projects/cartographer)<br/>
+
+## **Cromulent**
+Displays ZoneInfo on the world map in a perfectly cromulent manner, à la Cartographer.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/Addons/Cromulent.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/Cromulent.png)<br/>
+[WoWAce](https://www.wowace.com/projects/cromulent)<br/>
 
 ## **Gatherer+**
 The addon does not track like a tracking ability does, rather it "remembers" where you have found various items in the past.<br/>
@@ -259,11 +275,17 @@ TSM is an addon designed to help both casual gold makers as well as experienced 
 [Github](https://github.com/andrew6180/TradeSkillMaster)<br/>
 
 ## **DalaranAH**
-**DalaranAH** is a lightweight World of Warcraft addon that simplifies interactions with the Auctionhouse NPC in Dalaran by providing a customizable button on your screen, allowing you to target, set focus and mark the AH-Bot.<br/>
+DalaranAH is a lightweight World of Warcraft addon that simplifies interactions with the Auctionhouse NPC in Dalaran by providing a customizable button on your screen, allowing you to target, set focus and mark the AH-Bot.<br/>
 Also it opens the Auctionhouse instant, instead of clicking manually on the Gossip.<br/>
 [Download](https://github.com/NoM0Re/DalaranAH/archive/refs/heads/main.zip)<br/><br/>
 <img src="https://i.ibb.co/WzPWxH1/Dalaran-AH2.png" alt="Dalaran-AH2" border="0"> <img src="https://i.ibb.co/JKZmkjP/Dalaran-AH.png" alt="Dalaran-AH" border="0"><br/>
 [Github](https://github.com/NoM0Re/DalaranAH/)<br/>
+
+## **Emblem of Gold**
+Emblem of Gold is a simple World of Warcraft addon that shows your gold and emblem counts (Heroism, Valor, Conquest, Triumph, Frost) when you open a vendor.<br/>
+[Download](https://github.com/Stradios/Emblem-of-Gold/archive/refs/heads/main.zip)<br/><br/>
+![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/EmblemOfGold.png)<br/>
+[Github](https://github.com/Stradios/Emblem-of-Gold)<br/>
 
 ## **Chatter**
 Chatter is a comprehensive, lightweight, mega-configurable chat enhancement addon. It supports a whole bunch of stuff including.<br/>
@@ -366,7 +388,7 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 <img src="https://github.com/NoM0Re/Addons/blob/main/Pictures/Weakaura.png" alt="Screenshot"><br/>
 [GitHub latest](https://github.com/NoM0Re/WeakAuras-WotLK) - [GitHub 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/tree/4.1.2) - [GitHub 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
-## **NeedToKnow** 
+## **NeedToKnow**
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/NeedToKnow.zip)<br/>
@@ -374,7 +396,7 @@ NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as ti
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/Pictures/needtoknow.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **TellMeWhen** 
+## **TellMeWhen**
 TellMeWhen is a WoW addon that provides visual, auditory, and textual notifications about cooldowns, buffs, and pretty much every other element of combat.<br/>
 <br/>
 [Download](https://github.com/bkader/TellMeWhen_3.3.5/archive/refs/heads/main.zip)<br/>
@@ -870,7 +892,7 @@ SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses 
 ## **BindPad**
 BindPad is an addon to make KeyBindings for spells, items, and macros.
 You no longer need actionbar slots just to make Key bindings for your macros etc.
-BindPad addon provides many icon slots in its frame.  You can drag and drop 
+BindPad addon provides many icon slots in its frame.  You can drag and drop
 anything into one of these slots, and click the slot to set KeyBindings.
 <br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/Addons/BindPad.zip)<br/>
