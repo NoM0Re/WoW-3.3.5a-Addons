@@ -8,7 +8,7 @@ Also I posted the [sources](https://github.com/NoM0Re/Addons/blob/main/README.md
 If it is not a Github Link it likely doesn't have Support anymore.<br/><br/>
 Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 
-### IMPORTANT: u may have to be logged in Github to download a AddOn!<br/>Don't download from the repo Addons Folder, instead download from this README.md!
+### IMPORTANT: u may have to be logged in Github to download a AddOn!<br/>Don't download from the repo Addons Folder, instead download from here!
 
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" /> <br/>
 <a href='https://github.com/NoM0Re' target="_blank">
