@@ -25,7 +25,7 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 </a>
 <br/>
 
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Scroll-Down.gif)
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Scroll-Down.gif)
 <br/>
 ## **How to install WoW AddOns:**
 
@@ -419,13 +419,24 @@ RSA is an addon that can announce spell casts to various chat channels. There is
 <img src="https://github.com/NoM0Re/Addons/blob/main/src/Pictures/RSA.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/alchem1ster/WotLK-RSA)<br/>
 
-## **Tidy Plates (Needs configuration)**
+## **Tidy Plates**
 Tidy Plates enhances World of Warcraft's nameplates. See Aggro, Life in%, and more on the Nameplates.<br/>
 <br/>
 [Download](https://github.com/bkader/TidyPlates_WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 <img src="https://github.com/NoM0Re/Addons/blob/main/src/Pictures/TidyPlates.jpg" alt="Screenshot"><br/>
-[Download GitHub Newest!](https://github.com/bkader/TidyPlates_WoTLK)<br/>
+[Github](https://github.com/bkader/TidyPlates_WoTLK)<br/>
+
+## **NotPlater**
+Feature rich nameplate addon for that was designed based on the modern Plater addon.<br/>
+The main purpose is to provide extensive threat information on nameplates with fully configurable options.<br/>
+You can either access them over the minimap button or with the slash commands /np or /notplater.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/Addons/raw/main/src/Addons/NotPlater-3.3.5.zip)<br/>
+<br/>
+<img src="https://github.com/NoM0Re/Addons/blob/main/src/Pictures/NotPlater.png" alt="Screenshot">
+<img src="https://github.com/NoM0Re/Addons/blob/main/src/Pictures/NotPlater1.png" alt="Screenshot"><br/>
+[Github](https://github.com/RichSteini/NotPlater)<br/>
 
 ## **ElvUI**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
@@ -490,7 +501,7 @@ RUF is a configurable Unit Frame addon using oUF. It isn't as fully featured as 
 <br/>
 [Download](https://github.com/bkader/RUF-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Raeli's%20Unit%20Frames.png)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Raeli's%20Unit%20Frames.png)<br/>
 [Github](https://github.com/bkader/RUF-WoTLK)<br/>
 
 ## **Shadowed Unit Frames**
@@ -498,7 +509,7 @@ SFU offers you a modified interface that can show you, for example, which player
 Additionally, it allows you to move the individual character windows to where it works best for you.<br/><br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/src/Addons/ShadowedUnitFrames.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/SUF1.png) ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/SUF2.png)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SUF1.png) ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SUF2.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/shadowed-unit-frames/files/all?page=1&pageSize=20&version=3.3.5)<br/>
 
 ## **SnowfallKeyPress**
@@ -550,13 +561,13 @@ AdiBags is a addon that displays the contents of your bags in single view, distr
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/src/Pictures/AdiBags.png)<br/>
 [Github](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5)<br/>
 
-## **Bagnon**
+## **Bagnon Backport with Search and Sort Functionality**
 Bagnon is the most popular replacement of the bag interface, designed to help the player find items as quickly and easily as possible.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/Addons/raw/main/src/Addons/Bagnon.zip)<br/>
+[Download](https://github.com/RichSteini/Bagnon-3.3.5/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/src/Pictures/Bagnon.png)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/bagnon/files?version=3.3.5)<br/>
+[Github](https://github.com/RichSteini/Bagnon-3.3.5)<br/>
 
 ## **Decursive**
 Decursive is a cleansing mod intended to make affliction removal easy, effective and fun for all the classes having this ability.<br/>
@@ -635,7 +646,7 @@ Backported Druid EclipseBar but instead of showing power bar, the marker moves w
 <br/>
 [Download](https://github.com/bkader/EclipseBar-WotLK/archive/refs/heads/main.zip)<br/>
 <br/>
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/Eclipse.gif)<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Eclipse.gif)<br/>
 [Github](https://github.com/bkader/EclipseBar-WotLK)<br/>
 
 ## **Outfitter**
@@ -715,7 +726,7 @@ RBS reports on a configurable dashboard or to group chat on consumables, buffs, 
 RaidCluster is an addon designed to display clusters of players as counters that increment when players are close to each other. It helps healers identify the optimal targets by indicating where healing efforts can be most effective. It supports Holy Light Glyph, Chain Heal, Wild Growth, Circle of Healing, and Prayer of Healing spells. Additionally, it can trigger a glow effect on a players raid frame when one of these spells hits the player. All settings can be accessed under Interface -> Addons -> RaidCluster and include various appearance and loading options.<br/>
 [Download](https://github.com/NoM0Re/RaidCluster/archive/refs/heads/main.zip)<br/>
 <br/>
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/RaidCluster.gif)<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/RaidCluster.gif)<br/>
 [Github](https://github.com/NoM0Re/RaidCluster)<br/>
 
 ## **iTargetingFrames**
@@ -941,6 +952,13 @@ The Spy addon scans the combat log for actions performed by enemy players and an
 ![Screenshot](https://github.com/NoM0Re/Addons/blob/main/src/Pictures/spy.png)<br/>
 [FELBITE](https://felbite.com/addon/4017-spy/)<br/>
 
+## **Vd-skip**
+Vd-skip is a lightweight addon that streamlines NPC interactions by automatically skipping unnecessary dialogue with vendors and flight masters.
+[Download](https://github.com/Stradios/Vd-skip/archive/refs/heads/main.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/no-vd-skip.gif)<br/>
+[Github](https://github.com/Stradios/Vd-skip)<br/>
+
 ## **Overachiever**
 Overachiever provides tools and tweaks to make the lives of players seeking achievements a little bit easier.
 <br/>
@@ -1046,14 +1064,14 @@ This addon allows you to save keybind settings into different profiles, these pr
 Quick little mod, allows you to setup different profiles for your action bars. Mainly this is for hybrid classes that want to be able to respec without spending 10-20 minutes setting their action bars up. All you do is type /abs save name and it'll save the location of all your spells, macros and items and /abs restore name to get them.<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/src/Addons/ActionBarSaver.zip)<br/>
 <br/>
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/ActionButtonSaver2.gif)<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/ActionButtonSaver2.gif)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/action-bar-saver/files/all?page=1&pageSize=20&version=3.2.0)<br/>
 
 ## **MacroBank**
 MacroBank is an addon that allows you to easily create, organize, and save macros for future use without needing to first create them in the game's default macro window. It offers features like categorizing macros, editing text and icons, loading and replacing macros, and even sending macros to other MacroBank users.<br/>
 [Download](https://github.com/NoM0Re/Addons/raw/main/src/Addons/MacroBank.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/MacroBank.jpg)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MacroBank.jpg)<br/>
 [WoWAce](https://www.wowace.com/projects/macro-bank)<br/>
 
 ## **SharedMedia AddOns**
@@ -1115,7 +1133,7 @@ I've created a config to use with Alchimister's World of Warcraft AddOns Update 
 ➔ In the `config.yaml`, you can also specify additional AddOns to update automatically when running the executable.<br/><br/>
 [Download](https://github.com/alchem1ster/AddOns-Update-Tool/releases)<br/>
 [Download my config](https://drive.google.com/drive/folders/1_O6kwkYjx_AjQk9vciMS8OaXF778d6VF?usp=sharing)<br/>
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/Pictures/AddOnsUpdaterTool.gif)<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/AddOnsUpdaterTool.gif)<br/>
 [Github](https://github.com/alchem1ster/AddOns-Update-Tool)<br/>
 
 ## **Partners**
