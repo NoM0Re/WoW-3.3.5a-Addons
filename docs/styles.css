@@ -1,0 +1,68 @@
+:root{--bg:#0f1115;--panel:#171a21;--text:#e5e7eb;--muted:#9aa3b2;--pri:#4f8cff;--ok:#2ecc71;--bd:#262b36;--ring:#7aa8ff}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+a{color:var(--pri);text-decoration:none}
+
+.topbar{position:sticky;top:0;z-index:10;background:linear-gradient(to bottom,rgba(15,17,21,.95),rgba(15,17,21,.85));backdrop-filter:saturate(1.2) blur(6px);padding:12px 16px;border-bottom:1px solid var(--bd);display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.topbar h1{margin:0;font-size:20px}
+.logoBtn{width:40px;height:40px;border-radius:999px;border:1px solid var(--bd);background:#0c1017;display:grid;place-items:center;cursor:pointer}
+.logoBtn svg{width:28px;height:28px}
+.logoBtn:hover{filter:brightness(1.15)}
+
+.controls{display:flex;gap:10px;align-items:center;flex:1}
+.controls input[type="search"],.controls select{background:var(--panel);color:var(--text);border:1px solid var(--bd);padding:10px 12px;border-radius:10px;outline:none}
+.controls input:focus,.controls select:focus{border-color:var(--pri);box-shadow:0 0 0 3px color-mix(in srgb,var(--ring) 30%,transparent)}
+
+.summary{padding:10px 20px;color:var(--muted)}
+.grid{display:grid;gap:14px;padding:10px 20px}
+@media(min-width:640px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:900px){.grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:1200px){.grid{grid-template-columns:repeat(4,1fr)}}
+
+.card{position:relative;background:var(--panel);border:1px solid var(--bd);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;outline:none}
+.card:focus{box-shadow:0 0 0 3px color-mix(in srgb,var(--ring) 35%,transparent)}
+.card:hover{transform:translateY(-1px);transition:transform .15s ease}
+.thumbWrap{position:relative;aspect-ratio:16/9;background:#0b0d11;border-bottom:1px solid var(--bd);display:grid;place-items:center}
+.thumb{width:100%;height:100%;object-fit:cover}
+
+.title{margin:12px 12px 4px;font-size:16px}
+.desc{margin:0 12px 12px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+.actions{display:flex;gap:8px;padding:0 12px 12px;margin-top:auto}
+.btn{border:1px solid var(--bd);background:#141821;color:var(--text);padding:8px 10px;border-radius:10px;cursor:pointer}
+.btn:hover{filter:brightness(1.1)}
+.btn.primary{background:var(--pri);border-color:transparent;color:#fff}
+
+.sources.inline{display:flex;flex-wrap:wrap;gap:8px;padding:0 12px 12px}
+.badge{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--bd);background:#131720;padding:6px 10px;border-radius:999px;transition:transform .12s ease,filter .12s ease}
+.badge:hover{transform:scale(1.07);filter:brightness(1.1)}
+.badge svg{width:16px;height:16px}
+.badge .label{color:var(--text);font-size:13px}
+
+/* Modal and gallery sizing to keep buttons visible */
+.modal{position:fixed;inset:0;display:none;z-index:1000}
+.modal[aria-hidden="false"]{display:block}
+.modal__backdrop{position:absolute;inset:0;background:rgba(0,0,0,.6)}
+.modal__content{
+  position:relative;z-index:2;background:var(--panel);border:1px solid var(--bd);
+  max-width:1000px;max-height:90vh;margin:5vh auto;padding:18px;border-radius:16px;
+  overflow:auto
+}
+.modal__close{position:absolute;top:8px;right:8px;border:1px solid var(--bd);background:#131720;color:var(--text);border-radius:10px;padding:6px 10px;cursor:pointer;z-index:3}
+
+/* Side-by-side responsive gallery with strict max sizes */
+.gallery{
+  display:grid;gap:10px;margin:14px 0;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  align-items:start
+}
+.gallery img{
+  max-width:100%;height:auto;object-fit:contain;
+  max-height:70vh;border-radius:10px;border:1px solid var(--bd);
+  display:block;justify-self:center
+}
+
+.cta-row{display:flex;gap:8px;margin-top:10px}
+
+.backToTop{position:fixed;right:16px;bottom:16px;z-index:9;border:1px solid var(--bd);background:#141821;color:var(--text);border-radius:999px;padding:14px 22px;font-size:16px;cursor:pointer}
+.backToTop:hover{filter:brightness(1.15)}

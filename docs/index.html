@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>WotLK AddOns</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button id="logoBtn" class="logoBtn" aria-label="Go to top">
+      <svg viewBox="0 0 64 64" aria-hidden="true">
+        <defs>
+          <radialGradient id="frost" cx="50%" cy="40%" r="60%">
+            <stop offset="0%" stop-color="#b9dfff"/>
+            <stop offset="100%" stop-color="#1f3b6e"/>
+          </radialGradient>
+        </defs>
+        <circle cx="32" cy="32" r="30" fill="url(#frost)" stroke="#7aa8ff" stroke-width="2"/>
+        <text x="32" y="39" text-anchor="middle" font-size="28" font-weight="700" fill="#0b1222" font-family="system-ui, Segoe UI, Roboto">W</text>
+      </svg>
+    </button>
+    <h1>WotLK AddOns</h1>
+    <div class="controls" role="search">
+      <input id="search" type="search" placeholder="Search addons..." aria-label="Search addons" />
+      <select id="sort" aria-label="Sort">
+        <option value="az">Name A–Z</option>
+        <option value="za">Name Z–A</option>
+        <option value="img">With Image First</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <div id="summary" class="summary" aria-live="polite"></div>
+    <section id="grid" class="grid" aria-label="Addon List"></section>
+  </main>
+
+  <div id="modal" class="modal" aria-hidden="true" aria-labelledby="modalTitle" role="dialog">
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__content" role="document">
+      <button class="modal__close" aria-label="Close (Esc)" data-close>×</button>
+      <h2 id="modalTitle"></h2>
+      <p id="modalDesc"></p>
+      <div id="modalGallery" class="gallery" role="region" aria-label="Image Gallery"></div>
+      <div id="modalSources" class="sources inline"></div>
+      <div class="cta-row">
+        <a id="modalDownload" class="btn primary" target="_blank" rel="noopener">Download</a>
+        <button id="modalCopy" class="btn">Copy Link</button>
+      </div>
+    </div>
+  </div>
+
+  <template id="card-tpl">
+    <article class="card" tabindex="0">
+      <div class="thumbWrap">
+        <img class="thumb" loading="lazy" alt="" />
+      </div>
+      <h3 class="title"></h3>
+      <p class="desc"></p>
+      <div class="sources inline"></div>
+      <div class="actions">
+        <a class="btn primary dl" target="_blank" rel="noopener">Download</a>
+      </div>
+    </article>
+  </template>
+
+  <button id="backToTop" class="backToTop" aria-label="Go to top">↑ Go to top</button>
+
+  <script src="app.js"></script>
+</body>
+</html>
