@@ -38,6 +38,16 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 ## **How to copy Addon configs from Character to Character/Accounts:**
 [![Youtube](https://img.youtube.com/vi/2Nw8vGyN-_I/0.jpg)](https://youtu.be/2Nw8vGyN-_I)
 
+## **Partners**
+### **MerfinUI**
+Custom WeakAuras, UI setups, and addon profiles.<br/>
+<br/>
+[Discord](https://discord.gg/cghBWHedtf)<br/><br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MerfinUI1.png)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MerfinUI2.png)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Weakaura.png)<br/>
+<br/>
+
 # **Addon List:**
 
 ## **Addon Control Panel**
@@ -137,12 +147,13 @@ Questie is a popular World of Warcraft addon that enhances the questing experien
 [Github](https://github.com/widxwer/Questie)<br/>
 
 ## **Zygor Guides**
-Zygor Guides are the best and fastest way to level your characters in World of Warcraft and accomplish more in less time.<br/>
-Using our custom Guide Viewer addon our guides are displayed inside the game and use an optimized step by step format to tell you everything you need to do.<br/>
-[Download](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK/archive/refs/heads/main.zip)<br/>
+Zygor Guides Viewer Remaster is a modernized version of the classic Zygor Guides Viewer, built specifically for World of Warcraft: Wrath of the Lich King (3.3.5a / build 12340) private servers.<br/>
+It preserves the original 3.3.5a guide engine, step system, and waypoint workflow while introducing a cleaner, retail-inspired UI, an improved Guide Manager, updated arrow and objective styling, accessibility options (including colorblind presets), and ongoing compatibility support for WotLK 3.3.5a environments.<br/>
+The addon includes step-by-step leveling guidance, waypoint navigation, structured quest flow, and an integrated Talent Advisor - all packaged in a remastered, streamlined viewer designed for long play sessions.<br/>
+[Download](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/ZygorGuides.png)<br/>
-[Github](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK)<br/>
+[Github](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK)<br/>
 
 ## **Questhelper**
 Questhelper tells you how to finish your quests in the easiest, fastest manner. It includes a database of quests, monsters, and items, telling you the exact location of that dang Perfect Satyr Horn you can't find. It also computes the fastest path to complete all your quests - and gain experience - as quickly as possible.<br/>
@@ -159,7 +170,7 @@ EveryQuest is a Quest History tracker and quest list window.<br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EveryQuest.png)<br/>
 [WoWAce](https://www.wowace.com/projects/everyquest)<br/>
 
-## **Carbonite**
+## **Carbonite (Maps / QuestHelper)**
 Carbonite is a google style map replacement and Questhelper for the world of World of Warcraft.<br/>
 <br/>
 [Download](https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip)<br/>
@@ -206,7 +217,7 @@ pMinimap is a very lightweight and streamlined Minimap addon.<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/pMinimap.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/pMinimap.png)<br/>
-[Felbite](https://felbite.com/addon/4552-pminimap/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/pminimap/)<br/>
 
 ## **CleanMinimap**
 A clean square or round minimap that replaces the default minimap.<br/>
@@ -222,7 +233,7 @@ SexyMap completely redesigns your mini-map to give it a more “sexy” look. Yo
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SexyMap.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SexyMap.png)<br/>
-[Felbite](https://felbite.com/addon/4737-sexymap/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/sexymap/)<br/>
 
 ## **pretty_minimap**
 Lightweight Minimap addon like Dragonflight style.<br/>
@@ -241,31 +252,6 @@ This Version is using abit less memory than the MoP version.<br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Auctionator.png)<br/>
 [Github](https://github.com/alchem1ster/WotLK-Auctionator)<br/><br/>
 
-## **Auctionator+ (MoP Port Version)**
-Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly, and by eliminating the tedium involved in posting and managing auctions.<br/>
-MoP version of the addon, with some fixes and improvements.<br/>
-[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Auctionator+.rar)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Auctionator.png)<br/>
-[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
-
-## **Auctionator+ WatchList (Plugin for Auctionator+ MoP Port Version)**
-An addition to Auctionator, that reminds you of all items with prices below set treshold when closing the AH window.<br/>
-<br/>
-[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Auctionator_WatchList.rar)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Auctionator_WatchList.png)<br/>
-[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
-
-## **MarketWatcher+ (Plugin for Auctionator+ MoP Port Version)**
-Market Watcher is an addon that scans individual items or collection of items instead of the entire auction house at once.<br/>
-It also (optionally) records many snapshots of the auction house for user specified items.<br/>
-Original version of the addon with some fixes from BlueAo.<br/>
-[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MarketWatcher+.rar)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MarketWatcher.png)<br/>
-[Warmane Forum](https://forum.warmane.com/showthread.php?t=412904&p=3057363&viewfull=1#post3057363)<br/><br/>
-
 ## **TradeSkillMaster v2.8.3**
 TSM is an addon designed to help both casual gold makers as well as experienced goblins streamline their gold-making processes. TSM's features include everything from improving the native crafting and auctioning experiences to helping you gather needed materials and sniping that low-hanging auction house fruit!<br/>
 <br/>
@@ -277,7 +263,7 @@ TSM is an addon designed to help both casual gold makers as well as experienced 
 ## **DalaranAH**
 DalaranAH is a lightweight World of Warcraft addon that simplifies interactions with the Auctionhouse NPC in Dalaran by providing a customizable button on your screen, allowing you to target, set focus and mark the AH-Bot.<br/>
 Also it opens the Auctionhouse instant, instead of clicking manually on the Gossip.<br/>
-[Download](https://github.com/NoM0Re/DalaranAH/archive/refs/heads/main.zip)<br/><br/>
+[Download](https://github.com/NoM0Re/DalaranAH/releases/latest/download/DalaranAH.zip)<br/><br/>
 <img src="https://i.ibb.co/WzPWxH1/Dalaran-AH2.png" alt="Dalaran-AH2" border="0"> <img src="https://i.ibb.co/JKZmkjP/Dalaran-AH.png" alt="Dalaran-AH" border="0"><br/>
 [Github](https://github.com/NoM0Re/DalaranAH/)<br/>
 
@@ -346,14 +332,6 @@ WIM (WoW Instant Messenger) is a World of Warcraft addon which brings an instant
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/WIM.jpg" alt="Screenshot"><br/>
 [Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **AddFriend**
-AddFriend is a simple addon that adds an "Add Friend" and "Invite Guild" option to the context menu of player options.<br/>
-<br/>
-[Download](https://github.com/NoM0Re/AddFriend-3.3.5a/archive/refs/heads/main.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/AddFriend.jpeg)<br/>
-[Curseforge](https://www.curseforge.com/wow/addons/addfriend)<br/>
-
 ## **SpellID**
 Adds IDs to the ingame tooltips.<br/>
 <br/>
@@ -404,9 +382,9 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/TellMeWhen.jpg)<br/>
 [Curseforge](https://github.com/bkader/TellMeWhen_3.3.5)<br/>
 
-## **BLT Fixed Version by me**
+## **BLT**
 BLT Raid Cooldowns tracks raid cooldowns (offensive and defensive), announces casts and availability, and provides a report on CD usage after boss fights. My version can show CDs of Trinkets like it was intendent, the Developer of the Addon isnt updating it anymore.<br/>
-[Download my Fixed Version!](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BLT.zip)<br/>
+[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BLT.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/blt.jpg)<br/>
 [Github](https://github.com/freix1/BLT_WotLK)<br/>
@@ -537,13 +515,21 @@ VuhDo is a raid monitor built-in raid frames. Basically this is about displaying
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/vuhdo.png)<br/>
 [RisingGodsAddons](https://addons.rising-gods.de/addons/vuhdo)<br/>
 
+## **OmniCC**
+Adds numeric cooldown timers to spells, abilities, and items, turning the default analog cooldown swirl into clear digital countdown text. Works with the default UI and most addons. Use /omnicc or /occ to open the options.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/OmniCC-WotLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/OmniCC.jpg)<br/>
+[Github](https://github.com/NoM0Re/OmniCC-WotLK)<br/>
+
 ## **Cooldowns**
 A World of Warcraft add-on that displays numeric cooldown counters on all buttons that are 28 pixels or wider.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/cooldowns.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/cooldowns.png)<br/>
-[FELBITE](https://felbite.com/addon/4664-cooldowns/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/cooldowns/)<br/>
 
 ## **Healbot**
 A supportive addon for healers, as it can do numerous amounts of helpful little tricks.<br/>
@@ -607,7 +593,7 @@ This addon moves the functionality of the stat dropdowns to a panel on the right
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AllStats.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/AllStats.png)<br/>
-[Felbite](https://felbite.com/addon/3884-all-stats/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/all-stats/)<br/>
 
 ## **OPie**
 OPie is a radial action-binding addon for World of Warcraft. It lets you group actions into rings, which appear when you hold down a keyboard or mouse binding.<br/>When you release the binding, OPie will perform an action based on where your mouse cursor is.<br/>
@@ -633,10 +619,11 @@ Mage Nuggets is a utility with many useful nuggets to make the lives of mages ea
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Mage%20Nuggets.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/mage-nuggets/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **PallyPower(fixed version by me)**
+## **PallyPower Improved**
 Pally Power the must have for a Paladin, provides an interactive and easy to use interface that allows you to set your own blessings (Righteous Fury, Aura, Seal and Blessings) and automatically checks for missing buffs with an easy to read indicator. <br/>
+[Please read the Installation Steps!](https://github.com/NoM0Re/PallyPower-Improved-3.3.5?tab=readme-ov-file#installation)
 <br/>
-[Download Fixed Version](https://github.com/NoM0Re/PallyPower-Improved-3.3.5/archive/refs/heads/main.zip)<br/>
+[Download](https://github.com/NoM0Re/PallyPower-Improved-3.3.5/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/pallypower.jpg)<br/>
 [Github](https://github.com/NoM0Re/PallyPower-Improved-3.3.5)<br/>
@@ -722,17 +709,11 @@ RBS reports on a configurable dashboard or to group chat on consumables, buffs, 
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/RaidBuffStatus.PNG)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/raidbuffstatus/files/all?filter-game-version=2020709689%3A98)<br/>
 
-## **Raid Cluster**
-RaidCluster is an addon designed to display clusters of players as counters that increment when players are close to each other. It helps healers identify the optimal targets by indicating where healing efforts can be most effective. It supports Holy Light Glyph, Chain Heal, Wild Growth, Circle of Healing, and Prayer of Healing spells. Additionally, it can trigger a glow effect on a players raid frame when one of these spells hits the player. All settings can be accessed under Interface -> Addons -> RaidCluster and include various appearance and loading options.<br/>
-[Download](https://github.com/NoM0Re/RaidCluster/archive/refs/heads/main.zip)<br/>
-<br/>
-![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/RaidCluster.gif)<br/>
-[Github](https://github.com/NoM0Re/RaidCluster)<br/>
-
 ## **iTargetingFrames**
 Displays nameplate units in a clickable grid.<br/>
 Requires a patched client with AwesomeWotlk (https://github.com/FrostAtom/awesome_wotlk).<br/>
 If units are shown more than once, you need the modified DLL-file with fixed nameplate units from this repository.<br/>
+**Does not work on servers that do not support AwesomeWotLK features (e.g. Warmane).**<br/>
 [Download](https://github.com/CH33T4/iTargetingFrames/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/iTargetingFrames.jpg)<br/>
@@ -785,7 +766,7 @@ RSC is a separate stand-alone addon of PhoenixStyle. Shows who uses potions in a
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidSlackCheck.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/RaidSlackCheck.png)<br/>
-[Felbite](https://felbite.com/addon/3444-raidslackcheck/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/raidslackcheck/)<br/>
 <br/>
 
 ## **EndsidiaFails**
@@ -796,7 +777,7 @@ Report raid player fails<br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EnsidiaFails.jpg)<br/>
 [RisingGods](https://www.curseforge.com/wow/addons/ensidiafails/files/437365)<br/>
 
-## **AutoInvite by Martag**
+## **AutoInvite**
 Used to Automatically Invite players into a group/raid based on what and where they say certain "trigger" keywords.<br/>
 To open the interface, type /ai or /autoinvite<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AutoInvite.zip)<br/>
@@ -810,7 +791,7 @@ Automaticaly repairs all items when a merchant window is opened.<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/autorepair.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/autorepair.png)<br/>
-[FELBITE](https://felbite.com/addon/4230-autorepair/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/autorepair/)<br/>
 
 ## **ClassLoot**
 This addon is an in-game representation of Class Loot Lists as tooltip. Kaliban's Class Loot List provides ratings for all raid loot with respect to it's suitability for different class/spec combinations.<br/>
@@ -867,7 +848,7 @@ A addon that tracks enemy interrupt abilities on a neat little bar.<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/InterruptBar.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/InterruptBar.jpg)<br/>
-[Felbite](https://felbite.com/addon/4022-interruptbar/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/interruptbar/)<br/>
 
 ## **LoseControl**
 LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.<br/>
@@ -892,9 +873,9 @@ The AddOn scrolls smoothly and speeds up when multiple spells are used at the sa
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SpellReplay.zip)<br/>
 <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SpellReplay.gif)<br/>
-[Felbite](https://felbite.com/addon/3290-spellreplay/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/spellreplay/)<br/>
 
-## **TrufiGCD for PvP and Streaming**
+## **TrufiGCD**
 TrufiGCD a small addon, that shows the last used abilities of party or arena members. Can be also used for streaming to show the lastest used Spell used from you.<br/>
 <br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TrufiGCD.zip)<br/>
@@ -921,7 +902,7 @@ anything into one of these slots, and click the slot to set KeyBindings.
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Bindpad.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/bind-pad)<br/>
 
-## **Clique WotLK Classic Backport**
+## **Clique**
 Clique is a simple addon that enables powerful click-casting and hover-casting on your unit frames and in the 3D game world. You can bind virtually any mouse or keyboard combination to a spell or macro. In it's normal configuration this enables you to use the bindings over your unit frames in order to cast spells directly on that unit. This allows you to more quickly select both the spell to cast, and the target of the spell without requiring an extra click.
 <br/><br/>
 [Download](https://gitlab.com/Tsoukie/clique-3.3.5/-/archive/main/clique-3.3.5-main.zip)<br/>
@@ -960,7 +941,7 @@ The Spy addon scans the combat log for actions performed by enemy players and an
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/spy.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/spy.png)<br/>
-[FELBITE](https://felbite.com/addon/4017-spy/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/spy/)<br/>
 
 ## **Vd-skip**
 Vd-skip is a lightweight addon that streamlines NPC interactions by automatically skipping unnecessary dialogue with vendors and flight masters.
@@ -1044,7 +1025,7 @@ Ever wished World of Warcraft had more emotes? Or wanted to create your own emot
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/addemote.zip)<br/>
 <br/>
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/addemote.jpeg" alt="Screenshot"><br/>
-[FELBITE](https://felbite.com/addon/3546-addemote/)<br/>
+[Warperia](https://warperia.com/addon-wotlk/add-emote/)<br/>
 
 ## **Immersion**
 Immersion is a replacement for the dated quest & gossip frames.<br/>
@@ -1092,6 +1073,14 @@ MacroBank is an addon that allows you to easily create, organize, and save macro
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MacroBank.jpg)<br/>
 [WoWAce](https://www.wowace.com/projects/macro-bank)<br/>
 
+## **Unified Profile Manager**
+Manage all your AceDB-based addon profiles from one single interface.<br/>
+Open it with /profiles or /upm to view, switch, copy, and clean up profiles across addons and characters, all in one compact list.<br/>
+[Download](https://github.com/NoM0Re/UnifiedProfileManager-WotLK/archive/refs/heads/master.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/upm.png)<br/>
+[Github](https://github.com/NoM0Re/UnifiedProfileManager-WotLK)<br/>
+
 ## **SharedMedia AddOns**
 Inserts media(fonts, bars, borders, etc) into LibSharedMedia's storage. They can then be selected by any addon that supports LibSharedMedia.
 **bKader Shared Media** for more bar, textures, fonts, sounds(popular version), with alot custom stuff added.<br/>
@@ -1133,12 +1122,14 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Atlas.png)<br/>
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
 
-## **More Addons here:**
-[Curseforge](https://www.curseforge.com/wow/search?page=1&pageSize=20&sortBy=relevancy&class=addons&version=3.3.5)<br/>
-[Felbite](https://felbite.com/wow-3-3-5-addons/)<br/>
-[Maddons](https://maddonsmanager.github.io/)<br/>
-[Legacy](https://legacy-wow.com/wotlk-addons/)<br/>
-[RG](https://addons.rising-gods.de/addons)<br/>
+## More Addons:
+- [Warperia](https://warperia.com/wotlk-addons/)
+  - [Warperia Microsoft Store App](https://warperia.com/app-download/)
+- [Felbite](https://felbite.com/wow-3-3-5-addons/) (last updated 2023, careful!)
+- [CurseForge (3.3.5)](https://www.curseforge.com/wow/search?page=1&pageSize=20&sortBy=relevancy&class=addons&version=3.3.5)
+- [Maddons Manager](https://maddonsmanager.github.io/)
+- [Legacy-WoW](https://legacy-wow.com/wotlk-addons/)
+- [RG](https://addons.rising-gods.de/addons)
 
 ## **AddOn Update Tool**
 Tool to update World of Warcraft AddOns hosted on GitHub or GitLab.<br/>
@@ -1153,14 +1144,3 @@ I've created a config to use with Alchimister's World of Warcraft AddOns Update 
 [Download my config](https://drive.google.com/drive/folders/1_O6kwkYjx_AjQk9vciMS8OaXF778d6VF?usp=sharing)<br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/AddOnsUpdaterTool.gif)<br/>
 [Github](https://github.com/alchem1ster/AddOns-Update-Tool)<br/>
-
-## **Partners**
-### **MerfinUI**
-Custom WeakAuras, UI setups, and addon profiles.<br/>
-<br/>
-[Discord](https://discord.gg/cghBWHedtf)<br/><br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MerfinUI1.png)<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MerfinUI2.png)<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Weakaura.png)<br/>
-<br/>
-
