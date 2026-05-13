@@ -604,6 +604,21 @@
     ]
   },
   {
+    "name": "Method Raid Tools (MRT)",
+    "description_text": "Helpful addon for raiders, especially for raid leaders and officers. Modules: Raid Cooldowns, Notes, Reminders, Visual Notes, Battle Resurrection icon, Fight/combat log, Raid Inspect Viewer, Raid Check, Invite Tools, Timers, Raid Attendance, Encounters Statistics, Saving log (autologging), Marks Bar, Permanent Marks, Loot to chat, Who pulled, WeakAuras checker, Raid Groups Saver",
+    "primary_download": "https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MRT.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MRT.png"
+    ],
+    "source": [
+      {
+        "label": "Github",
+        "url": "https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a"
+      }
+    ]
+  },
+  {
     "name": "NeedToKnow",
     "description_text": "NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.",
     "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/NeedToKnow.zip",

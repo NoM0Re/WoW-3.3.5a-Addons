@@ -366,6 +366,15 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Weakaura.png" alt="Screenshot"><br/>
 [GitHub latest](https://github.com/NoM0Re/WeakAuras-WotLK) - [GitHub 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/tree/4.1.2) - [GitHub 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
+## **Method Raid Tools (MRT)**
+Helpful addon for raiders, especially for raid leaders and officers.<br/>
+Modules: Raid Cooldowns, Notes, Reminders, Visual Notes, Battle Resurrection icon, Fight/combat log, Raid Inspect Viewer, Raid Check, Invite Tools, Timers, Raid Attendance, Encounters Statistics, Saving log (autologging), Marks Bar, Permanent Marks, Loot to chat, Who pulled, WeakAuras checker, Raid Groups Saver<br/>
+<br/>
+[Download](https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a/archive/refs/heads/main.zip)<br/>
+<br/>
+<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MRT.png" alt="Screenshot"><br/>
+[GitHub](https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a)<br/>
+
 ## **NeedToKnow**
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.<br/>
 <br/>
