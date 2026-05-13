@@ -363,7 +363,7 @@ WeakAuras is a powerful and flexible framework that allows the display of highly
 [Download 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/archive/refs/heads/4.1.2.zip)<br/>
 [Download 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK/archive/refs/heads/master.zip)<br/>
 <br/>
-<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Weakaura.png" alt="Screenshot"><br/>
+<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/WeakAura.png" alt="Screenshot"><br/>
 [GitHub latest](https://github.com/NoM0Re/WeakAuras-WotLK) - [GitHub 4.1.2](https://github.com/NoM0Re/WeakAuras-WotLK/tree/4.1.2) - [GitHub 4.0.0](https://github.com/Bunny67/WeakAuras-WotLK)<br/>
 
 ## **Method Raid Tools (MRT)**
