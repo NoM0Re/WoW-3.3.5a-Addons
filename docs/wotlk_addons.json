@@ -1992,5 +1992,20 @@
         "url": "https://addons.rising-gods.de/addons/atlas"
       }
     ]
+  },
+  {
+    "name": "Equipence",
+    "description_text": "Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.",
+    "primary_download": "https://github.com/s0h2x/Equipence/archive/refs/heads/master.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Equipence.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Equipence.png"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/s0h2x/Equipence"
+      }
+    ]
   }
 ]

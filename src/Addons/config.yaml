@@ -9,9 +9,9 @@
 # https://github.com/Zidras/Transcriptor-WOTLK : main # DBM Debugging Tool
 
 # WeakAuras (https://discord.gg/UXSc7nt)
-# https://github.com/NoM0Re/WeakAuras-WotLK : main      # WA v5+ (latest)
+# https://github.com/NoM0Re/WeakAuras-WotLK : master  # WA v5+ (latest)
 # https://github.com/NoM0Re/WeakAuras-WotLK : 4.1.2   # WA 4.1.2
-# https://github.com/Bunny67/WeakAuras-WotLK : main   # WA 4.0.0
+# https://github.com/Bunny67/WeakAuras-WotLK : master # WA 4.0.0
 
 # SharedMedia
 # https://github.com/bkader/SharedMedia : main          # bKader SharedMedia
@@ -109,6 +109,9 @@
 # Details (https://discord.gg/UXSc7nt)
 # https://github.com/Bunny67/Details-WotLK : main
 
+# ExoJdi AddOns
+# https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a : main
+
 # fondlez AddOns
 # https://github.com/fondlez/GroupBulletinBoard : main
 # https://github.com/fondlez/wQueue : main
@@ -183,6 +186,7 @@
 # https://github.com/s0h2x/pretty_minimap : main
 # https://github.com/s0h2x/pw_lossofcontrol : main
 # https://github.com/s0h2x/pw_unitframes : main
+# https://github.com/s0h2x/Equipence : main
 
 # SoundAlerter
 # https://github.com/Cortes-Jeremy/SoundAlerter : main
