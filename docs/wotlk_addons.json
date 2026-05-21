@@ -2007,5 +2007,22 @@
         "url": "https://github.com/s0h2x/Equipence"
       }
     ]
+  },
+  {
+    "name": "MoP Item Tooltips",
+    "description_text": "MoP Item Tooltips is an add-on to modifiy item tooltips so they look like they do in later expansions.",
+    "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MoPItemTooltips.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips1.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips1.png",
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips2.png",
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips3.png"
+    ],
+    "source": [
+      {
+        "label": "EzWoW",
+        "url": "https://ezwow.org/topic/134110-mop-item-tooltips-11/"
+      }
+    ]
   }
 ]

@@ -1138,6 +1138,15 @@ Equipence is a detailed gear overview for every character you inspect. Displays 
 [GitHub](https://github.com/s0h2x/Equipence)<br/>
 <br/>
 
+## **MoP Item Tooltips**
+MoP Item Tooltips is an add-on to modifiy item tooltips so they look like they do in later expansions.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MoPItemTooltips.zip)<br/>
+<br/>
+<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips1" alt="Screenshot"><br/>
+[EzWoW](https://ezwow.org/topic/134110-mop-item-tooltips-11/)<br/>
+<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)
