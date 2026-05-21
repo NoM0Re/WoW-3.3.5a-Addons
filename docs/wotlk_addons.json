@@ -1995,7 +1995,7 @@
   },
   {
     "name": "Equipence",
-    "description_text": "Equipence is an add-on for detailed gear overview for every character you inspect",
+    "description_text": "Equipence is an add-on for detailed gear overview for every character you inspect.",
     "primary_download": "https://github.com/s0h2x/Equipence/archive/refs/heads/master.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Equipence.png",
     "image_urls": [
