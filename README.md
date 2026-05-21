@@ -139,10 +139,10 @@ To bring up the Options window, type **/ti window**.<br/>
 
 ## **Questie**
 Questie is a popular World of Warcraft addon that enhances the questing experience for players. It provides an intuitive and user-friendly interface for tracking quests, displaying quest objectives on the map, and offering helpful tooltips for quest-related NPCs and items. Questie streamlines the questing process by reducing the need for players to constantly consult external guides or references, making it easier to navigate the expansive world of Azeroth and complete quests efficiently. Whether you're a seasoned veteran or a newcomer to WoW, Questie is a valuable tool for enhancing your gameplay experience and maximizing your questing efficiency.<br/>
-[Download](https://github.com/widxwer/Questie/archive/refs/heads/335.zip)<br/>
+[Download](https://github.com/Aldori15/Questie/archive/refs/heads/335.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Questie.png)<br/>
-[Github](https://github.com/widxwer/Questie)<br/>
+[Github](https://github.com/Aldori15/Questie)<br/>
 
 ## **Zygor Guides**
 Zygor Guides Viewer Remaster is a modernized version of the classic Zygor Guides Viewer, built specifically for World of Warcraft: Wrath of the Lich King (3.3.5a / build 12340) private servers.<br/>
