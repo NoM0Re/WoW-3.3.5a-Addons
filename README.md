@@ -592,6 +592,15 @@ SexyCooldown is a single consolidated timer bar for all your spell, pet's spell,
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SexyCooldown.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/sexycooldown/files?version=3.3.3)<br/>
 
+## **MoP Item Tooltips**
+MoP Item Tooltips is an add-on to modifiy item tooltips so they look like they do in later expansions.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MoPItemTooltips.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/MoPItemTooltips1.png)<br/>
+[EzWoW](https://ezwow.org/topic/134110-mop-item-tooltips-11/)<br/>
+<br/>
+
 ## **Equipence**
 Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.<br/>
 <br/>
