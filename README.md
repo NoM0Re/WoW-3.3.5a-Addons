@@ -1130,7 +1130,7 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
 
 ## **Equipence**
-Equipence is a detailed gear overview for every character you inspect. Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.<br/>
+Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.<br/>
 <br/>
 [Download](https://github.com/s0h2x/Equipence/archive/refs/heads/master.zip)<br/>
 <br/>
