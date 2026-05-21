@@ -153,7 +153,7 @@
   {
     "name": "Questie",
     "description_text": "Questie is a popular World of Warcraft addon that enhances the questing experience for players. It provides an intuitive and user-friendly interface for tracking quests, displaying quest objectives on the map, and offering helpful tooltips for quest-related NPCs and items. Questie streamlines the questing process by reducing the need for players to constantly consult external guides or references, making it easier to navigate the expansive world of Azeroth and complete quests efficiently. Whether you're a seasoned veteran or a newcomer to WoW, Questie is a valuable tool for enhancing your gameplay experience and maximizing your questing efficiency.",
-    "primary_download": "https://github.com/widxwer/Questie/archive/refs/heads/335.zip",
+    "primary_download": "https://github.com/Aldori15/Questie/archive/refs/heads/335.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Questie.png",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Questie.png"
@@ -161,7 +161,7 @@
     "source": [
       {
         "label": "Github",
-        "url": "https://github.com/widxwer/Questie"
+        "url": "https://github.com/Aldori15/Questie"
       }
     ]
   },
