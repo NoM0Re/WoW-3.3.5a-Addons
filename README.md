@@ -586,10 +586,17 @@ SexyCooldown is a single consolidated timer bar for all your spell, pet's spell,
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/SexyCooldown.png)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/sexycooldown/files?version=3.3.3)<br/>
 
+## **Equipence**
+Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.<br/>
+<br/>
+[Download](https://github.com/s0h2x/Equipence/archive/refs/heads/master.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Equipence.png)<br/>
+[GitHub](https://github.com/s0h2x/Equipence)<br/>
+
 ## **InspectEquip**
 InspectEquip attaches a panel to the inspect window that shows a list of the character's equipment sorted by source (i.e. Raid, Vendor, Crafted...).<br/>
-This gives you a quick overview of a character's equipment.
-<br/>
+This gives you a quick overview of a character's equipment.<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/InspectEquip.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/InspectEquip.png)<br/>
@@ -1128,15 +1135,6 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Atlas.png)<br/>
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
-
-## **Equipence**
-Displays gems, enchants, item levels, and quality borders directly in the character and inspection UI. See full gear status at a glance without extra steps. All visual elements can be toggled or adjusted in the options.<br/>
-<br/>
-[Download](https://github.com/s0h2x/Equipence/archive/refs/heads/master.zip)<br/>
-<br/>
-<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Equipence.png" alt="Screenshot"><br/>
-[GitHub](https://github.com/s0h2x/Equipence)<br/>
-<br/>
 
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
