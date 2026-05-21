@@ -11,15 +11,21 @@ Have fun and I wish you good leveling, gathering, pvp and raiding :)<br/>
 ### IMPORTANT: u may have to be logged in Github to download a AddOn!<br/>Don't download from the repo Addons Folder, instead download from here!
 
 <p align="left">
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons" />
-  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons" />
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons" />
+  <a href="https://github.com/NoM0Re/WoW-3.3.5a-Addons/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/NoM0Re/WoW-3.3.5a-Addons">
+  </a>
+  <a href="https://github.com/NoM0Re/WoW-3.3.5a-Addons/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/NoM0Re/WoW-3.3.5a-Addons">
+  </a>
+  <a href="https://github.com/NoM0Re/WoW-3.3.5a-Addons/commits/main/">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/NoM0Re/WoW-3.3.5a-Addons">
+  </a>
   <br>
   <a href="https://nom0re.github.io/WoW-3.3.5a-Addons/">
-    <img alt="page-deployment" src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/actions/workflows/pages/pages-build-deployment/badge.svg" />
+    <img alt="page-deployment" src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/actions/workflows/pages/pages-build-deployment/badge.svg">
   </a>
   <a href="https://streamelements.com/nom0ree/tip" target="_blank">
-    <img alt="PayPal" src="https://img.shields.io/badge/Buy_me_a_coffee-100000?style=flat-square&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=000000" />
+    <img alt="PayPal" src="https://img.shields.io/badge/Buy_me_a_coffee-100000?style=flat-square&logo=PayPal&logoColor=white&labelColor=3b7bbf&color=000000">
   </a>
 </p>
 
