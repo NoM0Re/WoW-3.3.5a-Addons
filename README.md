@@ -910,7 +910,7 @@ TrufiGCD a small addon, that shows the last used abilities of party or arena mem
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TrufiGCD.zip)<br/>
 <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/TrufiGCD.gif)<br/>
-[GitHub](https://github.com/robgha01/TrufiGCD)<br/>
+[GitHub](https://github.com/BannZay/TrufiGCD)<br/>
 
 ## **SoundAlerter**
 SoundAlerter for WoW 3.3.5a - The addon announces via sound when the enemy uses important CDs, abilities, controls, defs, trinkets. In general, all important actions of yours are used in PvP<br/>
