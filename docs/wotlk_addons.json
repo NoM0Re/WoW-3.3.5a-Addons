@@ -1761,17 +1761,17 @@
     ]
   },
   {
-    "name": "Profession Capper",
+    "name": "Improved Profession Capper",
     "description_text": "Profession Capper is a addon that will show you how to level up your trade skills.\n\nWhen you open your Profession frame, the Profession Capper frame will be opened too, telling you which recipe you'd better to craft next in order to reach next level of that profession.",
-    "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Profession_Capper.zip",
-    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Profession_Capper.jpeg",
+    "primary_download": "https://github.com/DarkChimu/Improved-Profession-Capper/archive/refs/heads/master.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Improved-Profession-Capper.jpeg",
     "image_urls": [
-      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Profession_Capper.jpeg"
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Improved-Profession-Capper.jpeg"
     ],
     "source": [
       {
         "label": "Github",
-        "url": "https://github.com/SamuelLira99/Profession-Capper"
+        "url": "https://github.com/DarkChimu/Improved-Profession-Capper"
       }
     ]
   },
