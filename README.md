@@ -1015,14 +1015,14 @@ It presents all ingame items sorted by their proprieties, and allows you to filt
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Ludwig.jpeg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/ludwig)<br/>
 
-## **Profession Capper**
-Profession Capper is a addon that will show you how to level up your trade skills.<br/>
-When you open your Profession frame, the Profession Capper frame will be opened too, telling you which recipe you'd better to craft next in order to reach next level of that profession.<br/>
+## **Improved Profession Capper**
+Improved Profession Capper is a addon that will show you how to level up your trade skills.<br/>
+When you open your Profession frame, the Improved Profession Capper frame will be opened too, telling you which recipe you'd better to craft next in order to reach next level of that profession.<br/>
 <br/>
-[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Profession_Capper.zip)<br/>
+[Download](https://github.com/DarkChimu/Improved-Profession-Capper/archive/refs/heads/master.zip)<br/>
 <br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Profession_Capper.jpeg)<br/>
-[Github](https://github.com/SamuelLira99/Profession-Capper)<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Improved-Profession-Capper.jpeg)<br/>
+[Github](https://github.com/DarkChimu/Improved-Profession-Capper)<br/>
 
 ## **Molinari**
 Molinari allows the player to easily "salvage" items directly from the inventory by holding down the Alt key and clicking on the item in their bags, instead of dealing with the tradeskill UI, spellbook, macros or actions.<br/>
