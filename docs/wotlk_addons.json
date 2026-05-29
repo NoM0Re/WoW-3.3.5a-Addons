@@ -1186,7 +1186,7 @@
   {
     "name": "xCT+",
     "description_text": "xCT+ is a combat text replacement (like MSBT).\nBackported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT",
-    "primary_download": "https://github.com/Barsoomx/xCT_Plus_wotlk/archive/refs/heads/master.zip",
+    "primary_download": "https://github.com/hypopheria2k/xCT_Plus_wotlk/archive/refs/heads/master.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/xCT.PNG",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/xCT.PNG"
@@ -1194,7 +1194,7 @@
     "source": [
       {
         "label": "GitHub",
-        "url": "https://github.com/Barsoomx/xCT_Plus_wotlk"
+        "url": "https://github.com/hypopheria2k/xCT_Plus_wotlk"
       }
     ]
   },

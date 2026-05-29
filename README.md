@@ -701,10 +701,10 @@ MSBT is designed to be an extremely lightweight, efficient, and highly configura
 ## **xCT+**
 xCT+ is a combat text replacement (like MSBT).<br/>Backported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT<br/>
 <br/>
-[Download](https://github.com/Barsoomx/xCT_Plus_wotlk/archive/refs/heads/master.zip)<br/>
+[Download](https://github.com/hypopheria2k/xCT_Plus_wotlk/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/xCT.PNG)<br/>
-[GitHub](https://github.com/Barsoomx/xCT_Plus_wotlk)<br/>
+[GitHub](https://github.com/hypopheria2k/xCT_Plus_wotlk)<br/>
 
 ## **RaidBrowser for Warmane**
 Bringing LFR to Wotlk. This addon replaces the unused (in 3.3.5a) LFR tab in the social menu with a working raid finder. Use **/rb** to open.<br/>
