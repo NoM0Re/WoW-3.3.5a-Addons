@@ -1151,6 +1151,14 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Atlas.png)<br/>
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
 
+## **PlateBuffs**
+PlateBuffs displays people's buffs above their nameplates.<br/>
+<br/>
+[Download](https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png)<br/>
+[GitHub](https://github.com/KhalGH/PlateBuffs-WoTLK)<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)

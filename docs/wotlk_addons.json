@@ -2024,5 +2024,20 @@
         "url": "https://ezwow.org/topic/134110-mop-item-tooltips-11/"
       }
     ]
+  },
+  {
+    "name": "PlateBuffs",
+    "description_text": "PlateBuffs displays people's buffs above their nameplates.",
+    "primary_download": "https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.jpg"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/KhalGH/PlateBuffs-WoTLK"
+      }
+    ]
   }
 ]
