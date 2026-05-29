@@ -1151,6 +1151,14 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Atlas.png)<br/>
 [Rising Gods](https://addons.rising-gods.de/addons/atlas)<br/>
 
+## **DressMe**
+DressMe is an add-on that allows to preview items appearance, create and save your character looks.<br/>
+<br/>
+[Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DressMe.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DressMe.gif)<br/>
+[Github](https://github.com/GetLocalPlayer/DressMe)<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)
