@@ -213,7 +213,7 @@
   {
     "name": "Carbonite (Maps / QuestHelper)",
     "description_text": "Carbonite is a google style map replacement and Questhelper for the world of World of Warcraft.",
-    "primary_download": "https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip",
+    "primary_download": "https://github.com/anzz1/Carbonite-3.3.5/archive/refs/heads/master.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Carbonite.png",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Carbonite.png"
@@ -221,7 +221,7 @@
     "source": [
       {
         "label": "Github",
-        "url": "https://github.com/heihachi/Carbonite-3.3.5a-Remastered"
+        "url": "https://github.com/anzz1/Carbonite-3.3.5"
       }
     ]
   },
@@ -2037,6 +2037,21 @@
       {
         "label": "Github",
         "url": "https://github.com/GetLocalPlayer/DressMe"
+      }
+    ]
+  },
+  {
+    "name": "DragonUI",
+    "description_text": "DragonUI is a modular, retail-inspired UI addon for World of Warcraft 3.3.5a. It includes customizable action bars, unit frames, castbars, XP and reputation bars, chat enhancements, a retail-style minimap, bag sorting, layout presets, editor mode, and profile support.",
+    "primary_download": "https://github.com/NeticSoul/DragonUI/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/NeticSoul/DragonUI"
       }
     ]
   }

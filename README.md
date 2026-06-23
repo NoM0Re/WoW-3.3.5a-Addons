@@ -177,10 +177,10 @@ EveryQuest is a Quest History tracker and quest list window.<br/>
 ## **Carbonite (Maps / QuestHelper)**
 Carbonite is a google style map replacement and Questhelper for the world of World of Warcraft.<br/>
 <br/>
-[Download](https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip)<br/>
+[Download](https://github.com/anzz1/Carbonite-3.3.5/archive/refs/heads/master.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Carbonite.png)<br/>
-[Github](https://github.com/heihachi/Carbonite-3.3.5a-Remastered)<br/>
+[Github](https://github.com/anzz1/Carbonite-3.3.5)<br/>
 
 ## **Mapster**
 Mapster is a very simple world map enhacement addon, which was designed to work in conjunction with all other map addons out there.<br/>
@@ -438,6 +438,14 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 <br/>
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/ElvUI.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/ElvUI-WotLK/ElvUI)<br/>
+
+## **DragonUI**
+DragonUI is a modular, retail-inspired UI addon for World of Warcraft 3.3.5a. It includes customizable action bars, unit frames, castbars, XP and reputation bars, chat enhancements, a retail-style minimap, bag sorting, layout presets, editor mode, and profile support.<br/>
+<br/>
+[Download](https://github.com/NeticSoul/DragonUI/archive/refs/heads/main.zip)<br/>
+<br/>
+<img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png" alt="Screenshot"><br/>
+[GitHub](https://github.com/NeticSoul/DragonUI)<br/>
 
 ## **BlizzMove**
 This addon makes the Blizzard windows movable.<br/>
