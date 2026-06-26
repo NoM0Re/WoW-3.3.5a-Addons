@@ -429,6 +429,15 @@ You can either access them over the minimap button or with the slash commands /n
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/NotPlater1.png" alt="Screenshot"><br/>
 [Github](https://github.com/RichSteini/NotPlater)<br/>
 
+## **PlateBuffs**
+PlateBuffs displays buffs and debuffs above enemy nameplates, helping you track important auras in PvP and combat.<br/>
+This version is based on Kader's backport and adds improved spell filtering, duration text options, expiration animations, nameplate tracking, and simulated interrupt debuffs.<br/>
+<br/>
+[Download](https://github.com/KhalGH/PlateBuffs-WoTLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png)<br/>
+[GitHub](https://github.com/KhalGH/PlateBuffs-WoTLK)<br/>
+
 ## **ElvUI**
 ElvUI is a complete Blizzard ui replacements. This means that they already have Blizzard frames skinned, unitframes and actionbars premade, etc.<br/>
 <br/>
@@ -1166,14 +1175,6 @@ DressMe is an add-on that allows to preview items appearance, create and save yo
 <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DressMe.gif)<br/>
 [Github](https://github.com/GetLocalPlayer/DressMe)<br/>
-
-## **PlateBuffs**
-PlateBuffs displays people's buffs above their nameplates.<br/>
-<br/>
-[Download](https://github.com/KhalGH/PlateBuffs-WoTLK/archive/refs/heads/main.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png)<br/>
-[GitHub](https://github.com/KhalGH/PlateBuffs-WoTLK)<br/>
 
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
