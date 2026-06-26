@@ -1154,7 +1154,7 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 ## **PlateBuffs**
 PlateBuffs displays people's buffs above their nameplates.<br/>
 <br/>
-[Download](https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/main.zip)<br/>
+[Download](https://github.com/KhalGH/PlateBuffs-WoTLK/archive/refs/heads/main.zip)<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png)<br/>
 [GitHub](https://github.com/KhalGH/PlateBuffs-WoTLK)<br/>
