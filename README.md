@@ -1176,6 +1176,14 @@ DressMe is an add-on that allows to preview items appearance, create and save yo
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DressMe.gif)<br/>
 [Github](https://github.com/GetLocalPlayer/DressMe)<br/>
 
+## **CleanerChat**
+A World of Warcraft 3.3.5a addon that filters chat message clutter and replaces the default chat frame with an immersive, modern chat UI.<br/>
+<br/>
+[Download](https://github.com/migwynkriid/CleanerChat-WotLK/archive/refs/heads/master.zip)<br/>
+<br/>
+![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/CleanerChat.gif)<br/>
+[Github](https://github.com/migwynkriid/CleanerChat-WotLK)<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)
