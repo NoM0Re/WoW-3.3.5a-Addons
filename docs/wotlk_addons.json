@@ -213,7 +213,7 @@
   {
     "name": "Carbonite (Maps / QuestHelper)",
     "description_text": "Carbonite is a google style map replacement and Questhelper for the world of World of Warcraft.",
-    "primary_download": "https://github.com/heihachi/Carbonite-3.3.5a-Remastered/archive/refs/heads/master.zip",
+    "primary_download": "https://github.com/anzz1/Carbonite-3.3.5/archive/refs/heads/master.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Carbonite.png",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Carbonite.png"
@@ -221,7 +221,7 @@
     "source": [
       {
         "label": "Github",
-        "url": "https://github.com/heihachi/Carbonite-3.3.5a-Remastered"
+        "url": "https://github.com/anzz1/Carbonite-3.3.5"
       }
     ]
   },
@@ -1186,7 +1186,7 @@
   {
     "name": "xCT+",
     "description_text": "xCT+ is a combat text replacement (like MSBT).\nBackported from retail Pandaria, this version compared to other backports offers control over settings in-game and is more minimalistic and anti-spammy than MSBT",
-    "primary_download": "https://github.com/Barsoomx/xCT_Plus_wotlk/archive/refs/heads/master.zip",
+    "primary_download": "https://github.com/hypopheria2k/xCT_Plus_wotlk/archive/refs/heads/master.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/xCT.PNG",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/xCT.PNG"
@@ -1194,7 +1194,7 @@
     "source": [
       {
         "label": "GitHub",
-        "url": "https://github.com/Barsoomx/xCT_Plus_wotlk"
+        "url": "https://github.com/hypopheria2k/xCT_Plus_wotlk"
       }
     ]
   },
@@ -1573,7 +1573,7 @@
     "source": [
       {
         "label": "GitHub",
-        "url": "https://github.com/robgha01/TrufiGCD"
+        "url": "https://github.com/BannZay/TrufiGCD"
       }
     ]
   },
@@ -1761,17 +1761,17 @@
     ]
   },
   {
-    "name": "Profession Capper",
+    "name": "Improved Profession Capper",
     "description_text": "Profession Capper is a addon that will show you how to level up your trade skills.\n\nWhen you open your Profession frame, the Profession Capper frame will be opened too, telling you which recipe you'd better to craft next in order to reach next level of that profession.",
-    "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Profession_Capper.zip",
-    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Profession_Capper.jpeg",
+    "primary_download": "https://github.com/DarkChimu/Improved-Profession-Capper/archive/refs/heads/master.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Improved-Profession-Capper.jpeg",
     "image_urls": [
-      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Profession_Capper.jpeg"
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Improved-Profession-Capper.jpeg"
     ],
     "source": [
       {
         "label": "Github",
-        "url": "https://github.com/SamuelLira99/Profession-Capper"
+        "url": "https://github.com/DarkChimu/Improved-Profession-Capper"
       }
     ]
   },
@@ -2035,8 +2035,37 @@
     ],
     "source": [
       {
-        "label": "GitHub",
+        "label": "Github",
         "url": "https://github.com/KhalGH/PlateBuffs-WoTLK"
+      }
+    ]   
+  },  
+    "name": "DressMe",
+    "description_text": "DressMe is an add-on that allows to preview items appearance, create and save your character looks.",
+    "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DressMe.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DressMe.gif",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DressMe.gif"
+    ],
+    "source": [
+      {
+        "label": "Github",
+        "url": "https://github.com/GetLocalPlayer/DressMe"
+      }
+    ]
+  },
+  {
+    "name": "DragonUI",
+    "description_text": "DragonUI is a modular, retail-inspired UI addon for World of Warcraft 3.3.5a. It includes customizable action bars, unit frames, castbars, XP and reputation bars, chat enhancements, a retail-style minimap, bag sorting, layout presets, editor mode, and profile support.",
+    "primary_download": "https://github.com/NeticSoul/DragonUI/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/NeticSoul/DragonUI"
       }
     ]
   }

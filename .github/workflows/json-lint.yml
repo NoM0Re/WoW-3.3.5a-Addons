@@ -1,0 +1,24 @@
+name: JSON Lint
+
+on:
+  push:
+    paths:
+      - '**.json'
+  pull_request:
+    paths:
+      - '**.json'
+
+jobs:
+  lint-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Validate JSON files
+        run: |
+          find . -name "*.json" -print0 | while IFS= read -r -d '' file; do
+            echo "Checking $file"
+            python -m json.tool "$file" > /dev/null
+          done
