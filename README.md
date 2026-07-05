@@ -1184,6 +1184,14 @@ A World of Warcraft 3.3.5a addon that filters chat message clutter and replaces 
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/CleanerChat.gif)<br/>
 [Github](https://github.com/migwynkriid/CleanerChat-WotLK)<br/>
 
+## **DialogUI**
+An immersive quest / gossip / book dialog UI for World of Warcraft 3.3.5a.<br/>
+<br/>
+[Download](https://github.com/ghbset/DialogUI-WotLK/archive/refs/heads/main.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI1.png)<br/>
+[Github](https://github.com/ghbset/DialogUI-WotLK)<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)
