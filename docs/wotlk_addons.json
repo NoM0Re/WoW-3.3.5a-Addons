@@ -2084,5 +2084,37 @@
         "url": "https://github.com/Zendevve/CartoMapper"
       }
     ]
+  },
+  {
+    "name": "CleanerChat",
+    "description_text": "A World of Warcraft 3.3.5a addon that filters chat message clutter and replaces the default chat frame with an immersive, modern chat UI.",
+    "primary_download": "https://github.com/migwynkriid/CleanerChat-WotLK/archive/refs/heads/master.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/CleanerChat.gif",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/CleanerChat.gif"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/migwynkriid/CleanerChat-WotLK"
+      }
+    ]
+  },
+  {
+    "name": "DialogUI",
+    "description_text": "An immersive quest / gossip / book dialog UI for World of Warcraft 3.3.5a.",
+    "primary_download": "https://github.com/ghbset/DialogUI-WotLK/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI1.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI1.png",
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI2.png",
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI3.png"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ghbset/DialogUI-WotLK"
+      }
+    ]
   }
 ]
