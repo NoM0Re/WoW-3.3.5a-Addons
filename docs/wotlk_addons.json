@@ -2026,6 +2026,21 @@
     ]
   },
   {
+    "name": "PlateBuffs",
+    "description_text": "PlateBuffs displays people's buffs above their nameplates.",
+    "primary_download": "https://github.com/KhalGH/PlateBuffs-WoTLK/archive/refs/heads/main.zip",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/PlateBuffs.jpg"
+    ],
+    "source": [
+      {
+        "label": "Github",
+        "url": "https://github.com/KhalGH/PlateBuffs-WoTLK"
+      }
+    ]   
+  },
+   {  
     "name": "DressMe",
     "description_text": "DressMe is an add-on that allows to preview items appearance, create and save your character looks.",
     "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DressMe.zip",
