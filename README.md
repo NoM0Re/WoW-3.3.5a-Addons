@@ -452,6 +452,7 @@ ElvUI is a complete Blizzard ui replacements. This means that they already have 
 DragonUI is a modular, retail-inspired UI addon for World of Warcraft 3.3.5a. It includes customizable action bars, unit frames, castbars, XP and reputation bars, chat enhancements, a retail-style minimap, bag sorting, layout presets, editor mode, and profile support.<br/>
 <br/>
 [Download](https://github.com/NeticSoul/DragonUI/archive/refs/heads/main.zip)<br/>
+[Plugin](https://github.com/ghbset/DragonUI_NewEra)<br/>
 <br/>
 <img src="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DragonUI.png" alt="Screenshot"><br/>
 [GitHub](https://github.com/NeticSoul/DragonUI)<br/>
