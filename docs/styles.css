@@ -32,6 +32,7 @@ a{color:var(--pri);text-decoration:none}
 .btn{border:1px solid var(--bd);background:#141821;color:var(--text);padding:8px 10px;border-radius:10px;cursor:pointer}
 .btn:hover{filter:brightness(1.1)}
 .btn.primary{background:var(--pri);border-color:transparent;color:#fff}
+.btn.official-source{background:var(--ok);color:#06120a;font-weight:700}
 
 .sources.inline{display:flex;flex-wrap:wrap;gap:8px;padding:0 12px 12px}
 .badge{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--bd);background:#131720;padding:6px 10px;border-radius:999px;transition:transform .12s ease,filter .12s ease}
