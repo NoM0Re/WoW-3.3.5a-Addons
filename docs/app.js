@@ -2,6 +2,12 @@ const state={data:[],filtered:[],query:'',sort:'az',focusedCard:null}
 const els={grid:document.getElementById('grid'),summary:document.getElementById('summary'),search:document.getElementById('search'),sort:document.getElementById('sort'),tplCard:document.getElementById('card-tpl'),modal:document.getElementById('modal'),modalTitle:document.getElementById('modalTitle'),modalDesc:document.getElementById('modalDesc'),modalGallery:document.getElementById('modalGallery'),modalSources:document.getElementById('modalSources'),modalDownload:document.getElementById('modalDownload'),modalCopy:document.getElementById('modalCopy'),logoBtn:document.getElementById('logoBtn'),backToTop:document.getElementById('backToTop')}
 
 const norm=s=>(s||'').toLowerCase()
+const normalizeUrl=u=>(u||'').replace(/\/+$/,'')
+const isOfficialSourceDownload=d=>{
+  const download=normalizeUrl(d.primary_download)
+  return !!download&&Array.isArray(d.source)&&d.source.some(s=>normalizeUrl(s.url)===download)
+}
+const downloadLabel=d=>isOfficialSourceDownload(d)?'Download from the official source':'Download'
 const toRawImage=u=>{
   if(!u)return u
   if(u.includes('github.com/')&&u.includes('/blob/')){
@@ -66,7 +72,7 @@ function renderCard(d){
   node.querySelector('.desc').textContent=(d.description_text||'').trim()
 
   const dl=node.querySelector('.dl')
-  if(d.primary_download){dl.href=d.primary_download}
+  if(d.primary_download){dl.href=d.primary_download;dl.textContent=downloadLabel(d);if(isOfficialSourceDownload(d))dl.classList.add('official-source')}
   else{dl.classList.add('disabled');dl.textContent='No Download';dl.removeAttribute('href')}
 
   const srcWrap=node.querySelector('.sources')
@@ -113,7 +119,7 @@ function openModal(d){
   }
   els.modalSources.innerHTML=''
   if(Array.isArray(d.source)&&d.source.length){d.source.forEach(s=>els.modalSources.appendChild(makeSourceBadge(s)))}
-  if(d.primary_download){els.modalDownload.href=d.primary_download;els.modalDownload.style.display=''}
+  if(d.primary_download){els.modalDownload.href=d.primary_download;els.modalDownload.textContent=downloadLabel(d);els.modalDownload.classList.toggle('official-source',isOfficialSourceDownload(d));els.modalDownload.style.display=''}
   else{els.modalDownload.style.display='none'}
   els.modalCopy.onclick=async()=>{const url=d.primary_download||location.href;await navigator.clipboard.writeText(url);els.modalCopy.textContent='Copied!';setTimeout(()=>els.modalCopy.textContent='Copy Link',1200)}
   els.modal.setAttribute('aria-hidden','false')

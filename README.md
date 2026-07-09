@@ -1171,7 +1171,7 @@ Atlas is an add-on for World of Warcraft that provides maps for each instance, a
 ## **CartoMapper**
 The Ultimate Map Enhancement Addon for Wrath of the Lich King 3.3.5a.<br/>
 <br/>
-[Download](https://github.com/Zendevve/CartoMapper)<br/>
+[Download from the official source](https://github.com/Zendevve/CartoMapper)<br/>
 <br/>
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/CartoMapper.png)<br/>
 [Github](https://github.com/Zendevve/CartoMapper)<br/>
