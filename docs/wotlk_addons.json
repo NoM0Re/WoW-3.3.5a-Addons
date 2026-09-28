@@ -395,7 +395,7 @@
   {
     "name": "Emblem of Gold",
     "description_text": "Emblem of Gold is a simple World of Warcraft addon that shows your gold and emblem counts (Heroism, Valor, Conquest, Triumph, Frost) when you open a vendor.",
-    "primary_download": "https://github.com/Stradios/Emblem-of-Gold/archive/refs/heads/main.zip",
+    "primary_download": "https://github.com/Stradios/Emblem-of-Gold/releases/latest",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EmblemOfGold.png",
     "image_urls": [
       "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EmblemOfGold.png"
