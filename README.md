@@ -273,7 +273,7 @@ Also it opens the Auctionhouse instant, instead of clicking manually on the Goss
 
 ## **Emblem of Gold V2 **
 Emblem of Gold is a simple World of Warcraft addon that shows your gold and emblem counts (Heroism, Valor, Conquest, Triumph, Frost) when you open a vendor.<br/>
-[Download](https://github.com/Stradios/Emblem-of-Gold/releases/download/v2.0/EmblemOfGold-2.0.zip)<br/><br/>
+[Download](https://github.com/Stradios/Emblem-of-Gold/releases/latest)<br/><br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EmblemOfGold.png)<br/>
 [Github](https://github.com/Stradios/Emblem-of-Gold)<br/>
 
