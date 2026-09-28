@@ -3,6 +3,12 @@
 # except for DBM, WeakAuras, ElvUI, SharedMedia, and Skada.
 # This list was created by NoM0Re.
 
+# 5Buttons AddOns
+# https://github.com/5Buttons/Leatrix-Maps-3.3.5 : main
+
+# anhility AddOns
+# https://github.com/anhility/WhatsTraining_WotLK : master
+
 # DBM (https://discord.gg/CyVWDWS)
 # https://github.com/Zidras/DBM-Warmane : main        # Latest DBM
 # https://github.com/Vargoth86/DBM-Rising-Gods : main # DBM for Rising Gods (DBM-Warmane v7.07)
@@ -10,7 +16,6 @@
 
 # WeakAuras (https://discord.gg/UXSc7nt)
 # https://github.com/NoM0Re/WeakAuras-WotLK : master  # WA v5+ (latest)
-# https://github.com/NoM0Re/WeakAuras-WotLK : 4.1.2   # WA 4.1.2
 # https://github.com/Bunny67/WeakAuras-WotLK : master # WA 4.0.0
 
 # SharedMedia
@@ -64,6 +69,9 @@
 # Auctionator
 # https://github.com/alchem1ster/WotLK-Auctionator : main
 
+# BattleGroundHealers
+# https://github.com/KhalGH/BattleGroundHealers-WotLK : main
+
 # BLT
 # https://github.com/freix1/BLT_WotLK : main
 # https://github.com/napnapnapnap/BLT_WotLK : main
@@ -104,9 +112,6 @@
 
 # Crum AddOns (https://discord.gg/UXSc7nt)
 # https://github.com/crumdidlyumshis/BNetToast : main
-
-# CleanerChat
-# https://github.com/migwynkriid/CleanerChat-WotLK : main
 
 # Details (https://discord.gg/UXSc7nt)
 # https://github.com/Bunny67/Details-WotLK : main
@@ -154,9 +159,13 @@
 
 # NoM0Re AddOns
 # https://github.com/NoM0Re/AddFriend-3.3.5a : main
+# https://github.com/NoM0Re/Cell-WotLK : main
+# https://github.com/NoM0Re/ClassicNumbers-WotLK : main
 # https://github.com/NoM0Re/DalaranAH : main
+# https://github.com/NoM0Re/OmniCC-WotLK : main
 # https://github.com/NoM0Re/PallyPower-Improved-3.3.5 : main
 # https://github.com/NoM0Re/RaidCluster : main
+# https://github.com/NoM0Re/UnifiedProfileManager-WotLK : master
 
 # Questie
 # https://github.com/Aldori15/Questie : 3.3.5
@@ -165,7 +174,10 @@
 # https://github.com/MassCraxx/RaidBrowser : dev
 
 # RatingBuster
-# https://github.com/Einherjarn/RatingBuster-3.3.5 : main
+# https://github.com/Einherjarn/RatingBuster-3.3.5 : master
+
+# RecipeColor
+# https://github.com/Drakensangs/RecipeColor-WotLK : main
 
 # RomanSpector AddOns
 # https://github.com/RomanSpector/Afflicted : main
@@ -199,20 +211,24 @@
 # SoundAlerter
 # https://github.com/Cortes-Jeremy/SoundAlerter : main
 
+# TradeSkillMaster
+# https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport : master
+
 # Trimitor AddOns (https://discord.gg/Gyb9Z252vt)
 # https://github.com/Trimitor/WDM-addons : main
 
 # Tsoukie AddOns
-# https://gitlab.com/Tsoukie/bigdebuffs-3.3.5 : main
-# https://gitlab.com/Tsoukie/classicapi : main         # Most of his AddOns need this
-# https://gitlab.com/Tsoukie/clique-3.3.5 : main
-# https://gitlab.com/Tsoukie/compactraidframe-3.3.5 : main
+# https://gitlab.com/tsoukie-3.3.5/bigdebuffs : main
+# https://gitlab.com/tsoukie-3.3.5/classicapi : main         # Required by the compatible Tsoukie AddOns
+# https://gitlab.com/tsoukie-3.3.5/clique : main
+# https://gitlab.com/tsoukie-3.3.5/compactraidframe : main
 # https://gitlab.com/Tsoukie/compactraidframe_healex : main
-# https://gitlab.com/Tsoukie/enhancedraidframes-3.3.5 : main
-# https://gitlab.com/Tsoukie/framesort-3.3.5 : main
-# https://gitlab.com/Tsoukie/gladdy-3.3.5 : main
-# https://gitlab.com/Tsoukie/omnibar-3.3.5 : main
+# https://gitlab.com/tsoukie-3.3.5/enhancedraidframes : main
+# https://gitlab.com/tsoukie-3.3.5/framesort : main
+# https://gitlab.com/tsoukie-3.3.5/gladdy : main
+# https://gitlab.com/tsoukie-3.3.5/omnibar : main
 # https://gitlab.com/Tsoukie/omnibar_duel : main
+# https://gitlab.com/tsoukie-3.3.5/omnicd : main
 # https://gitlab.com/Tsoukie/raidframesorter-3.3.5 : main
 # https://gitlab.com/Tsoukie/tsoukiepartytracker : main
 

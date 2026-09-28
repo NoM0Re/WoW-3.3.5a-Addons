@@ -1,5 +1,5 @@
 const state={data:[],filtered:[],query:'',sort:'az',focusedCard:null}
-const els={grid:document.getElementById('grid'),summary:document.getElementById('summary'),search:document.getElementById('search'),sort:document.getElementById('sort'),tplCard:document.getElementById('card-tpl'),modal:document.getElementById('modal'),modalTitle:document.getElementById('modalTitle'),modalDesc:document.getElementById('modalDesc'),modalGallery:document.getElementById('modalGallery'),modalSources:document.getElementById('modalSources'),modalDownload:document.getElementById('modalDownload'),modalCopy:document.getElementById('modalCopy'),logoBtn:document.getElementById('logoBtn'),backToTop:document.getElementById('backToTop')}
+const els={grid:document.getElementById('grid'),summary:document.getElementById('summary'),search:document.getElementById('search'),sort:document.getElementById('sort'),tplCard:document.getElementById('card-tpl'),modal:document.getElementById('modal'),modalTitle:document.getElementById('modalTitle'),modalDesc:document.getElementById('modalDesc'),modalGallery:document.getElementById('modalGallery'),modalRequires:document.getElementById('modalRequires'),modalSources:document.getElementById('modalSources'),modalDownload:document.getElementById('modalDownload'),modalCopy:document.getElementById('modalCopy'),logoBtn:document.getElementById('logoBtn'),backToTop:document.getElementById('backToTop')}
 
 const norm=s=>(s||'').toLowerCase()
 const normalizeUrl=u=>(u||'').replace(/\/+$/,'')
@@ -22,8 +22,10 @@ async function boot(){
   }
   const res=await fetch('./wotlk_addons.json',{cache:'no-store'})
   if(!res.ok)throw new Error(`HTTP ${res.status} ${res.statusText}`)
-  const json=await res.json()
-  state.data=json.map(d=>({...d,_search:(`${d.name||''} ${d.description_text||''}`).toLowerCase(),_hasImages:Array.isArray(d.image_urls)&&d.image_urls.length>0}))
+  const text=await res.text()
+  const json=JSON.parse(text.replace(/^\s*\/\/.*$/gm,''))
+  if(!Array.isArray(json))throw new Error('wotlk_addons.json must contain a JSON array')
+  state.data=json.filter(d=>d&&d._type!=='legend'&&typeof d.name==='string').map(d=>({...d,_search:(`${d.name||''} ${d.description_text||''} ${(d.requires||[]).map(r=>r.name).join(' ')}`).toLowerCase(),_hasImages:Array.isArray(d.image_urls)&&d.image_urls.length>0}))
   bindUI();applyFilters()
 }
 
@@ -78,6 +80,8 @@ function renderCard(d){
   const srcWrap=node.querySelector('.sources')
   if(Array.isArray(d.source)&&d.source.length){d.source.forEach(s=>srcWrap.appendChild(makeSourceBadge(s)))}
 
+  renderRequirements(node.querySelector('.requires'),d.requires)
+
   node.addEventListener('click',e=>{const tag=e.target.tagName.toLowerCase();if(tag==='a'||e.target.closest('a'))return;openModal(d)})
   node.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openModal(d)}})
   node.addEventListener('focusin',()=>{state.focusedCard=node})
@@ -103,6 +107,25 @@ function makeSourceBadge(s){
   return a
 }
 
+function renderRequirements(container,requirements){
+  container.innerHTML=''
+  if(!Array.isArray(requirements)||!requirements.length){container.hidden=true;return}
+  container.hidden=false
+  const label=document.createElement('span')
+  label.className='requires__label'
+  label.textContent='Requires'
+  container.appendChild(label)
+  requirements.forEach(requirement=>{
+    const a=document.createElement('a')
+    a.className='btn dependency'
+    a.href=requirement.download||requirement.url
+    a.target='_blank';a.rel='noopener'
+    a.textContent=requirement.name
+    a.title=`Download required addon: ${requirement.name}`
+    container.appendChild(a)
+  })
+}
+
 function openModal(d){
   els.modalTitle.textContent=d.name
   els.modalDesc.textContent=(d.description_text||'').trim()
@@ -119,6 +142,7 @@ function openModal(d){
   }
   els.modalSources.innerHTML=''
   if(Array.isArray(d.source)&&d.source.length){d.source.forEach(s=>els.modalSources.appendChild(makeSourceBadge(s)))}
+  renderRequirements(els.modalRequires,d.requires)
   if(d.primary_download){els.modalDownload.href=d.primary_download;els.modalDownload.textContent=downloadLabel(d);els.modalDownload.classList.toggle('official-source',isOfficialSourceDownload(d));els.modalDownload.style.display=''}
   else{els.modalDownload.style.display='none'}
   els.modalCopy.onclick=async()=>{const url=d.primary_download||location.href;await navigator.clipboard.writeText(url);els.modalCopy.textContent='Copied!';setTimeout(()=>els.modalCopy.textContent='Copy Link',1200)}
