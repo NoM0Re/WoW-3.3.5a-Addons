@@ -1328,6 +1328,14 @@ An immersive quest / gossip / book dialog UI for World of Warcraft 3.3.5a.<br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI1.png)<br/>
 [Github](https://github.com/ghbset/DialogUI-WotLK)<br/>
 
+## **Soulstone**
+Move your setup to another character, realm or server: action bars (all 120 slots, both specs), character macros, keybindings (incl. Bartender4), talents and glyphs. Includes talent templates with Wowhead import/export, a visual preview and an automatic backup before every restore.<br/>
+<br/>
+[Download](https://github.com/pabhoz/Soulstone-WoW-Addon/releases/latest/download/Soulstone.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Soulstone1.png)<br/>
+[Github](https://github.com/pabhoz/Soulstone-WoW-Addon)<br/>
+
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
   - [Warperia Microsoft Store App](https://warperia.com/app-download/)
