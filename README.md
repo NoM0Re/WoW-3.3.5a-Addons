@@ -1225,6 +1225,14 @@ This addon allows you to save keybind settings into different profiles, these pr
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/KeyBindProfiles.jpg)<br/>
 [Curseforge](https://www.curseforge.com/wow/addons/keybindprofiles)<br/>
 
+## **Soulstone**
+Move your setup to another character, realm or server: action bars (all 120 slots, both specs), character macros, keybindings (incl. Bartender4), talents and glyphs. Includes talent templates with Wowhead import/export, a visual preview and an automatic backup before every restore.<br/>
+<br/>
+[Download](https://github.com/pabhoz/Soulstone-WoW-Addon/releases/latest/download/Soulstone.zip)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Soulstone1.png)<br/>
+[Github](https://github.com/pabhoz/Soulstone-WoW-Addon)<br/>
+
 ## **Action Bar Saver 2**
 Quick little mod, allows you to setup different profiles for your action bars. Mainly this is for hybrid classes that want to be able to respec without spending 10-20 minutes setting their action bars up. All you do is type /abs save name and it'll save the location of all your spells, macros and items and /abs restore name to get them.<br/>
 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ActionBarSaver.zip)<br/>
@@ -1327,14 +1335,6 @@ An immersive quest / gossip / book dialog UI for World of Warcraft 3.3.5a.<br/>
 <br/>
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/DialogUI1.png)<br/>
 [Github](https://github.com/ghbset/DialogUI-WotLK)<br/>
-
-## **Soulstone**
-Move your setup to another character, realm or server: action bars (all 120 slots, both specs), character macros, keybindings (incl. Bartender4), talents and glyphs. Includes talent templates with Wowhead import/export, a visual preview and an automatic backup before every restore.<br/>
-<br/>
-[Download](https://github.com/pabhoz/Soulstone-WoW-Addon/releases/latest/download/Soulstone.zip)<br/>
-<br/>
-![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Soulstone1.png)<br/>
-[Github](https://github.com/pabhoz/Soulstone-WoW-Addon)<br/>
 
 ## More Addons:
 - [Warperia](https://warperia.com/wotlk-addons/)
