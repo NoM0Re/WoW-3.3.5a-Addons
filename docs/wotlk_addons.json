@@ -1155,6 +1155,21 @@
     ]
   },
   {
+    "name": "OmniInventory",
+    "description_text": "OmniInventory combines your bags, bank, and guild bank in one searchable interface with category, list, and grid views. It also supports offline character inventories, sorting, item overlays, automatic junk selling, and repairs.",
+    "primary_download": "https://github.com/Zendevve/OmniInventory",
+    "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/OmniInventory.png",
+    "image_urls": [
+      "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/OmniInventory.png"
+    ],
+    "source": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Zendevve/OmniInventory"
+      }
+    ]
+  },
+  {
     "name": "Decursive",
     "description_text": "Decursive is a cleansing mod intended to make affliction removal easy, effective and fun for all the classes having this ability.",
     "primary_download": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Decursive.zip",

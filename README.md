@@ -662,6 +662,14 @@ Bagnon is the most popular replacement of the bag interface, designed to help th
 ![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Bagnon.png)<br/>
 [Github](https://github.com/RichSteini/Bagnon-3.3.5)<br/>
 
+## **OmniInventory**
+OmniInventory combines your bags, bank, and guild bank in one searchable interface with category, list, and grid views. It also supports offline character inventories, sorting, item overlays, automatic junk selling, and repairs.<br/>
+<br/>
+[Download from the official source](https://github.com/Zendevve/OmniInventory)<br/>
+<br/>
+![Screenshot](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/OmniInventory.png)<br/>
+[GitHub](https://github.com/Zendevve/OmniInventory)<br/>
+
 ## **Decursive**
 Decursive is a cleansing mod intended to make affliction removal easy, effective and fun for all the classes having this ability.<br/>
 <br/>
