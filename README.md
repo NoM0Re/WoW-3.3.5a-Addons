@@ -1378,11 +1378,10 @@ Talented replaces the default talent window with an expanded talent interface.
 
 ---
 ### TalentOverview
-<p align="right"><a href="#contents">↑</a></p>
 
 TalentOverview replaces the default talent window with one wide window showing all three talent trees side by side, with glyph sockets, a search box, Apply / Reset, a build list and a specialization chooser. It uses the classic game frame by default, with an optional metal frame, and detects the ElvUI skin automatically.
 
-⬇️ [Download](https://github.com/Stradios/TalentOverview/releases/download/v1.8/TalentOverview.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/TalentOverview)
+⬇️ [Download](https://github.com/Stradios/TalentOverview/releases/download/v1.8/TalentOverview.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/TalentOverview) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](https://github.com/Stradios/TalentOverview/raw/main/screenshots/classic-frame.png)
 
@@ -1578,11 +1577,10 @@ Key Bind Profiles saves keybindings in profiles that you can load later. Profile
 ---
 
 ### SmartMount
-<p align="right"><a href="#contents">↑</a></p>
 
 SmartMount summons the right mount with one button or macro: your fastest flying mount in flyable areas, a water mount when swimming, and your fastest ground mount everywhere else. Click again to dismount.
 
-⬇️ [Download](https://github.com/Stradios/SmartMount/releases/download/V2.2/SmartMount.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/SmartMount)
+⬇️ [Download](https://github.com/Stradios/SmartMount/releases/download/V2.2/SmartMount.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/SmartMount) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](https://raw.githubusercontent.com/Stradios/SmartMount/refs/heads/main/.github/smartmount-demo.webp)
 
