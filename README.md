@@ -1569,6 +1569,16 @@ Talented is a replacement to the default Talent UI, with a lot of added features
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/talented.jpg)
 
 ---
+### TalentOverview
+<p align="right"><a href="#contents">↑</a></p>
+
+TalentOverview replaces the default talent window with one wide window showing all three talent trees side by side, with glyph sockets, a search box, Apply / Reset, a build list and a specialization chooser. It uses the classic game frame by default, with an optional metal frame, and detects the ElvUI skin automatically.
+
+⬇️ [Download](https://github.com/Stradios/TalentOverview/releases/download/v1.8/TalentOverview.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/TalentOverview)
+
+![](https://github.com/Stradios/TalentOverview/raw/main/screenshots/classic-frame.png)
+
+---
 
 ### GearScore
 <p align="right"><a href="#contents">↑</a></p>
@@ -1769,6 +1779,17 @@ This addon allows you to save keybind settings into different profiles, these pr
 ⬇️ [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/KeyBindingsProfiler.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/keybindprofiles)
 
 ![](https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/KeyBindProfiles.jpg)
+
+---
+
+### SmartMount
+<p align="right"><a href="#contents">↑</a></p>
+
+SmartMount summons the right mount with one button or macro: your fastest flying mount in flyable areas, a water mount when swimming, and your fastest ground mount everywhere else. Click again to dismount.
+
+⬇️ [Download](https://github.com/Stradios/SmartMount/releases/download/V2.2/SmartMount.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/SmartMount)
+
+![](https://raw.githubusercontent.com/Stradios/SmartMount/refs/heads/main/.github/smartmount-demo.webp)
 
 ---
 
