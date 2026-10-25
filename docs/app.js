@@ -1,5 +1,11 @@
 const state={data:[],filtered:[],query:'',sort:'az',focusedCard:null}
-const els={grid:document.getElementById('grid'),summary:document.getElementById('summary'),search:document.getElementById('search'),sort:document.getElementById('sort'),tplCard:document.getElementById('card-tpl'),modal:document.getElementById('modal'),modalTitle:document.getElementById('modalTitle'),modalDesc:document.getElementById('modalDesc'),modalGallery:document.getElementById('modalGallery'),modalRequires:document.getElementById('modalRequires'),modalSources:document.getElementById('modalSources'),modalDownload:document.getElementById('modalDownload'),modalCopy:document.getElementById('modalCopy'),logoBtn:document.getElementById('logoBtn'),backToTop:document.getElementById('backToTop')}
+const els={grid:document.getElementById('grid'),summary:document.getElementById('summary'),search:document.getElementById('search'),sort:document.getElementById('sort'),tplCard:document.getElementById('card-tpl'),modal:document.getElementById('modal'),modalTitle:document.getElementById('modalTitle'),modalDesc:document.getElementById('modalDesc'),modalGallery:document.getElementById('modalGallery'),modalRequires:document.getElementById('modalRequires'),modalSources:document.getElementById('modalSources'),modalDownload:document.getElementById('modalDownload'),modalCopy:document.getElementById('modalCopy'),modalPlugins:document.getElementById('modalPlugins'),logoBtn:document.getElementById('logoBtn'),backToTop:document.getElementById('backToTop')}
+els.moreSourcesBtn=document.getElementById('moreSourcesBtn')
+els.sourcesModal=document.getElementById('sourcesModal')
+els.closeSourcesBtn=document.getElementById('closeSourcesBtn')
+els.installBtn=document.getElementById('installBtn')
+els.installModal=document.getElementById('installModal')
+els.closeInstallBtn=document.getElementById('closeInstallBtn')
 
 const norm=s=>(s||'').toLowerCase()
 const normalizeUrl=u=>(u||'').replace(/\/+$/,'')
@@ -25,8 +31,33 @@ async function boot(){
   const text=await res.text()
   const json=JSON.parse(text.replace(/^\s*\/\/.*$/gm,''))
   if(!Array.isArray(json))throw new Error('wotlk_addons.json must contain a JSON array')
-  state.data=json.filter(d=>d&&d._type!=='legend'&&typeof d.name==='string').map(d=>({...d,_search:(`${d.name||''} ${d.description_text||''} ${(d.requires||[]).map(r=>r.name).join(' ')}`).toLowerCase(),_hasImages:Array.isArray(d.image_urls)&&d.image_urls.length>0}))
+  renderAdditionalTools(json.filter(d=>d?._type==='tool'))
+  state.data=json.filter(d=>d&&d._type!=='legend'&&d._type!=='tool'&&typeof d.name==='string').map(d=>({...d,_search:(`${d.name||''} ${d.description_text||''} ${(d.requires||[]).map(r=>r.name).join(' ')} ${(d.plugin_groups||[]).flatMap(group=>group.items||[]).map(plugin=>plugin.name).join(' ')}`).toLowerCase(),_hasImages:Array.isArray(d.image_urls)&&d.image_urls.length>0}))
   bindUI();applyFilters()
+}
+
+function renderAdditionalTools(tools){
+  const slots=els.sourcesModal.querySelectorAll('[data-tool]')
+  slots.forEach(slot=>{
+    const tool=tools.find(item=>item.name===slot.dataset.tool)
+    if(!tool){slot.hidden=true;return}
+    slot.querySelector('.resource-link').href=tool.primary_download
+    slot.querySelector('.resource-copy>span').textContent=tool.description_text
+    const details=slot.querySelector('.resource-details')
+    details.replaceChildren()
+    if(tool.image_urls?.length){
+      const image=document.createElement('img')
+      image.className='resource-preview'
+      image.src=toRawImage(tool.image_urls[0]);image.loading='lazy'
+      image.alt=`Screenshot of ${tool.name}`
+      image.onerror=()=>image.remove()
+      details.appendChild(image)
+    }
+    const sources=document.createElement('div')
+    sources.className='resource-actions'
+    ;(tool.source||[]).forEach(source=>sources.appendChild(makeSourceBadge(source)))
+    details.appendChild(sources)
+  })
 }
 
 function bindUI(){
@@ -34,10 +65,27 @@ function bindUI(){
   els.search.addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>{state.query=norm(e.target.value);applyFilters()},180)})
   els.sort.addEventListener('change',e=>{state.sort=e.target.value;applyFilters()})
   els.modal.addEventListener('click',e=>{if(e.target.hasAttribute('data-close'))closeModal()})
-  window.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()})
+  window.addEventListener('keydown',e=>{if(e.key==='Escape'&&!document.querySelector('dialog[open]'))closeModal()})
+  bindInfoDialog(els.moreSourcesBtn,els.sourcesModal,els.closeSourcesBtn)
+  bindInfoDialog(els.installBtn,els.installModal,els.closeInstallBtn)
   const toTop=()=>window.scrollTo({top:0,behavior:'smooth'})
   els.logoBtn.addEventListener('click',toTop)
   els.backToTop.addEventListener('click',toTop)
+}
+
+function bindInfoDialog(trigger,dialog,closeButton){
+  trigger.addEventListener('click',()=>{
+    if(els.modal.getAttribute('aria-hidden')==='false')closeModal()
+    trigger.focus()
+    dialog.showModal()
+    dialog.scrollTop=0
+  })
+  closeButton.addEventListener('click',()=>dialog.close())
+  dialog.addEventListener('close',()=>trigger.focus())
+  dialog.addEventListener('click',e=>{
+    const bounds=dialog.getBoundingClientRect()
+    if(e.target===dialog&&(e.clientX<bounds.left||e.clientX>bounds.right||e.clientY<bounds.top||e.clientY>bounds.bottom))dialog.close()
+  })
 }
 
 function applyFilters(){
@@ -126,6 +174,101 @@ function renderRequirements(container,requirements){
   })
 }
 
+function renderPlugins(container,addon){
+  container.replaceChildren()
+  const groups=(addon.plugin_groups||[]).filter(group=>group.items?.length)
+  container.hidden=!groups.length
+  if(!groups.length)return
+
+  const header=document.createElement('div')
+  header.className='plugins__header'
+  const title=document.createElement('h3')
+  title.textContent=`Plugins for ${addon.name}`
+  const count=document.createElement('span')
+  count.className='plugins__count'
+  count.textContent=groups.reduce((total,group)=>total+group.items.length,0)
+  title.append(' ',count)
+  header.appendChild(title)
+  if(addon.plugin_guide){
+    const guide=document.createElement('a')
+    guide.className='btn'
+    guide.href=addon.plugin_guide;guide.target='_blank';guide.rel='noopener'
+    guide.textContent='Plugin README'
+    header.appendChild(guide)
+  }
+  const note=document.createElement('p')
+  note.className='plugins__intro'
+  note.textContent=`All plugins require ${[addon.name,...(addon.requires||[]).map(requirement=>requirement.name)].join(' and ')} to be installed and enabled.`
+  container.append(header,note)
+
+  groups.forEach(group=>{
+    const heading=document.createElement('h4')
+    heading.textContent=group.name
+    const list=document.createElement('ul')
+    list.className='plugin-list'
+    group.items.forEach(plugin=>{
+      const item=document.createElement('li')
+      item.className='plugin-item'
+      const info=document.createElement('div')
+      info.className='plugin-item__info'
+      const name=document.createElement('h5')
+      name.textContent=plugin.name
+      info.appendChild(name)
+      if(plugin.description_text){
+        const description=document.createElement('p')
+        description.textContent=plugin.description_text
+        info.appendChild(description)
+      }
+      if(plugin.note){
+        const detail=document.createElement('p')
+        detail.textContent=plugin.note
+        info.appendChild(detail)
+      }
+      if(plugin.credits?.length){
+        const credits=document.createElement('p')
+        credits.className='plugin-item__credits'
+        credits.append('Credits: ')
+        plugin.credits.forEach((credit,index)=>{
+          if(index)credits.append(' · ')
+          const link=document.createElement('a')
+          link.href=credit.url;link.target='_blank';link.rel='noopener'
+          link.textContent=credit.name
+          credits.appendChild(link)
+        })
+        info.appendChild(credits)
+      }
+      if(plugin.image_urls?.length){
+        const screenshots=document.createElement('details')
+        screenshots.className='plugin-item__screenshots'
+        const summary=document.createElement('summary')
+        summary.textContent='Screenshot'
+        screenshots.appendChild(summary)
+        plugin.image_urls.forEach((url,index)=>{
+          const image=document.createElement('img')
+          image.src=toRawImage(url);image.loading='lazy'
+          image.alt=`Screenshot ${index+1} for ${plugin.name}`
+          screenshots.appendChild(image)
+        })
+        info.appendChild(screenshots)
+      }
+      const actions=document.createElement('div')
+      actions.className='plugin-item__actions'
+      const download=document.createElement('a')
+      download.className='btn primary'
+      download.href=plugin.download;download.target='_blank';download.rel='noopener'
+      download.textContent='Download'
+      download.setAttribute('aria-label',`Download ${plugin.name}`)
+      const sourceLabel=plugin.source_label||'GitHub'
+      const source=makeSourceBadge({label:sourceLabel,url:plugin.url})
+      source.setAttribute('aria-label',`${plugin.name} on ${sourceLabel}`)
+      actions.append(download,source)
+      item.append(info,actions)
+      list.appendChild(item)
+    })
+    container.append(heading,list)
+  })
+}
+
 function openModal(d){
   els.modalTitle.textContent=d.name
   els.modalDesc.textContent=(d.description_text||'').trim()
@@ -143,10 +286,12 @@ function openModal(d){
   els.modalSources.innerHTML=''
   if(Array.isArray(d.source)&&d.source.length){d.source.forEach(s=>els.modalSources.appendChild(makeSourceBadge(s)))}
   renderRequirements(els.modalRequires,d.requires)
+  renderPlugins(els.modalPlugins,d)
   if(d.primary_download){els.modalDownload.href=d.primary_download;els.modalDownload.textContent=downloadLabel(d);els.modalDownload.classList.toggle('official-source',isOfficialSourceDownload(d));els.modalDownload.style.display=''}
   else{els.modalDownload.style.display='none'}
   els.modalCopy.onclick=async()=>{const url=d.primary_download||location.href;await navigator.clipboard.writeText(url);els.modalCopy.textContent='Copied!';setTimeout(()=>els.modalCopy.textContent='Copy Link',1200)}
   els.modal.setAttribute('aria-hidden','false')
+  els.modal.querySelector('.modal__content').scrollTop=0
   setTimeout(()=>els.modal.querySelector('.modal__close').focus(),0)
 }
 
