@@ -29,6 +29,21 @@
         <option value="img">With Image First</option>
       </select>
     </div>
+    <nav class="site-links" aria-label="Installation, partner and addon sources">
+      <button id="installBtn" class="utility-btn" type="button" aria-haspopup="dialog" aria-controls="installModal">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v4h16v-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>
+        How to install
+      </button>
+      <a class="utility-btn partner-link" href="https://discord.gg/merfin" target="_blank" rel="noopener" title="Get WeakAuras and UI profiles on the MerfinUI Discord">
+        <img src="assets/merfinui.png" width="24" height="24" alt="" />
+        <span class="partner-label"><span>Partner</span><strong>MerfinUI</strong></span>
+        <span class="utility-arrow" aria-hidden="true">↗</span>
+      </a>
+      <button id="moreSourcesBtn" class="utility-btn" type="button" aria-haspopup="dialog" aria-controls="sourcesModal">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 4H4v16h16v-4M14 4h6v6M10 14 20 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>
+        Additional
+      </button>
+    </nav>
   </header>
 
   <main>
@@ -49,8 +64,75 @@
         <a id="modalDownload" class="btn primary" target="_blank" rel="noopener">Download</a>
         <button id="modalCopy" class="btn">Copy Link</button>
       </div>
+      <section id="modalPlugins" class="plugins" aria-label="Plugin downloads" hidden></section>
     </div>
   </div>
+
+  <dialog id="installModal" class="info-dialog install-modal" aria-labelledby="installTitle" aria-describedby="installIntro">
+    <button id="closeInstallBtn" class="modal__close" type="button" aria-label="Close installation guide" autofocus>×</button>
+    <h2 id="installTitle">How to install AddOns</h2>
+    <p id="installIntro">Follow these steps to install an AddOn.</p>
+    <ol class="install-steps">
+      <li>Download an AddOn.</li>
+      <li>Unzip it if needed.</li>
+      <li>Open your WoW folder's <code>Interface/AddOns</code> directory.</li>
+      <li>Copy the AddOn folder(s) in — the folder name should match the <code>.toc</code> file inside. If the zip contains a <code>-master</code>/<code>-main</code> folder, open it and copy the inner folders.</li>
+      <li>Restart the game and enable the AddOn on the character-select AddOns screen.</li>
+    </ol>
+    <a class="guide-readme" href="https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/README.md#how-to-install" target="_blank" rel="noopener">Read in the README <span aria-hidden="true">↗</span></a>
+  </dialog>
+
+  <dialog id="sourcesModal" class="info-dialog" aria-labelledby="sourcesTitle" aria-describedby="sourcesIntro">
+    <button id="closeSourcesBtn" class="modal__close" type="button" aria-label="Close sources" autofocus>×</button>
+    <h2 id="sourcesTitle">Additional sources &amp; update tools</h2>
+    <p id="sourcesIntro">Find more AddOns and tools for WotLK 3.3.5a.</p>
+    <ol class="resource-list">
+      <li>
+        <a class="resource-link" href="https://warperia.com/wotlk-addons/" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true">W</span>
+          <span class="resource-copy"><strong>Warperia</strong><span>Browse the WotLK AddOn library.</span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+      </li>
+      <li data-tool="Warperia App">
+        <a class="resource-link" href="https://warperia.com/app-download/" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M12 7v10m-4-4 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <span class="resource-copy"><strong>Warperia App</strong><span></span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+        <div class="resource-details"></div>
+      </li>
+      <li data-tool="AddOn Update Tool">
+        <a class="resource-link" href="https://github.com/alchem1ster/AddOns-Update-Tool/releases" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true">↻</span>
+          <span class="resource-copy"><strong>AddOn Update Tool</strong><span></span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+        <div class="resource-details"></div>
+      </li>
+      <li>
+        <a class="resource-link" href="https://www.curseforge.com/wow/search?page=1&amp;pageSize=20&amp;sortBy=relevancy&amp;class=addons&amp;version=3.3.5" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true">CF</span>
+          <span class="resource-copy"><strong>CurseForge</strong><span>Browse AddOns filtered for patch 3.3.5.</span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+      </li>
+      <li>
+        <a class="resource-link" href="https://legacy-wow.com/wotlk-addons/" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true">LW</span>
+          <span class="resource-copy"><strong>Legacy-WoW</strong><span>Find more AddOns for WotLK.</span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+      </li>
+      <li>
+        <a class="resource-link" href="https://addons.rising-gods.de/addons" target="_blank" rel="noopener">
+          <span class="resource-icon" aria-hidden="true">RG</span>
+          <span class="resource-copy"><strong>Rising Gods</strong><span>Browse the Rising Gods AddOn library.</span></span>
+          <span class="resource-arrow" aria-hidden="true">↗</span>
+        </a>
+      </li>
+    </ol>
+  </dialog>
 
   <template id="card-tpl">
     <article class="card" tabindex="0">
