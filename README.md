@@ -24,8 +24,8 @@ This repository is kept up to date and refreshed every few months when needed. I
 - [Copying addon settings between characters](#copying-addon-settings-between-characters)
 - [Recommended starter picks](#recommended-starter-picks)
 - [Partners](#partners)
-- [🖥️ Interface & Action Bars](#ui-overhauls-action-bars--customization)
-- [❤️ Unit Frames](#unit-frames-raid-frames--healing)
+- [🖥️ Ui Overhauls, Action bars & Customization](#ui-overhauls-action-bars--customization)
+- [❤️ Unit Frames, Raid Frames & Healing](#unit-frames-raid-frames--healing)
 - [⚔️ Boss Mods & Raid Tools](#boss-mods--raid-tools)
 - [📊 Damage Meters, Auras & Combat Info](#damage-meters-auras--combat-info)
 - [🎯 Nameplates](#nameplates)
@@ -68,7 +68,7 @@ Custom WeakAuras, UI setups and addon profiles.<br/>
 
 <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
-# Interface & Action Bars
+# Ui Overhauls, Action bars & Customization
 
 ### ElvUI
 
@@ -161,7 +161,7 @@ Color Picker Advanced replaces the default color picker with class-color presets
 ![](src/Pictures/ColorPickerAdvanced.png)
 
 
-# Unit Frames
+# Unit Frames, Raid Frames & Healing
 
 ### Cell
 
