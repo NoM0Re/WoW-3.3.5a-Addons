@@ -4,7 +4,7 @@
 
 > **Requires: [ElvUI-WotLK](https://github.com/ElvUI-WotLK/ElvUI) installed and enabled.**
 
-## Plugins
+# Plugins
 
 ### ElvUI_Enhanced
 
@@ -106,7 +106,7 @@
 
 🔗 [Download](https://github.com/ElvUI-WotLK/ElvUI_ProfileConverter/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/ElvUI-WotLK/ElvUI_ProfileConverter)
 
-## Third-Party Plugins
+# Third-Party Plugins
 
 ### ElvUI_Extras
 

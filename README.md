@@ -22,10 +22,9 @@ This repository is kept up to date and refreshed every few months when needed. I
 
 - [How to install](#how-to-install)
 - [Copying addon settings between characters](#copying-addon-settings-between-characters)
-- [Recommended starter picks](#recommended-starter-picks)
 - [Partners](#partners)
-- [🖥️ Interface & Action Bars](#ui-overhauls-action-bars--customization)
-- [❤️ Unit Frames](#unit-frames-raid-frames--healing)
+- [🖥️ Interface & Action Bars](#interface--action-bars)
+- [❤️ Unit Frames](#unit-frames)
 - [⚔️ Boss Mods & Raid Tools](#boss-mods--raid-tools)
 - [📊 Damage Meters, Auras & Combat Info](#damage-meters-auras--combat-info)
 - [🎯 Nameplates](#nameplates)
@@ -60,13 +59,11 @@ For full UI/profile transfers, also see [Soulstone](#soulstone), [Action Bar Sav
 ### <a href="https://discord.gg/cghBWHedtf"><img src="src/Pictures/MerfinUI.png" alt="MerfinUI logo" width="20"></a> MerfinUI
 
 Custom WeakAuras, UI setups and addon profiles.<br/>
-<a href="https://discord.gg/cghBWHedtf"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="" width="17" height="17"> **Discord**</a>
+<a href="https://discord.gg/cghBWHedtf"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="" width="17" height="17"> **Discord**</a> &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 <img src="src/Pictures/MerfinUI1.png" width="700"><br/>
 <img src="src/Pictures/MerfinUI2.png" width="700"><br/>
 <img src="src/Pictures/WeakAura.png" width="700">
-
-<a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 # Interface & Action Bars
 
@@ -94,7 +91,7 @@ DragonUI is a modular, retail-inspired UI addon. It includes customizable action
 
 This addon makes the Blizzard windows movable.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BlizzMove.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/blizzmove) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BlizzMove.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/blizzmove) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/BlizzMove.gif)
 
@@ -124,7 +121,7 @@ MoveAnything enables you to move, scale, hide and adjust transparency of just ab
 
 Bartender4 replaces the default action bars with movable, customizable bars for your actions and related controls.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Bartender4.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/bartender4/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Bartender4.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/bartender4/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Bartender4.jpg)
 
@@ -175,7 +172,7 @@ Cell is a highly customizable party and raid frame addon with automatic layouts,
 
 ### Compact Raid Frame
 
-Compact Raid Frame brings the compact group frames from WoW Classic to 3.3.5a, with configurable layouts, sizes, class colors, profiles, and raid-management tools. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+Compact Raid Frame brings the compact group frames from WoW Classic to 3.3.5a, with configurable layouts, sizes, class colors, profiles, and raid-management tools.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -219,7 +216,7 @@ HealBot provides customizable healing bars with tools for healing, dispelling, b
 
 Shadowed Unit Frames (SUF) provides customizable unit frames with range and aura indicators. Move and configure the frames to suit your layout.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ShadowedUnitFrames.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/shadowed-unit-frames/files/all?page=1&pageSize=20&version=3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ShadowedUnitFrames.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/shadowed-unit-frames/files/all?page=1&pageSize=20&version=3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/SUF1.png)
 ![](src/Pictures/SUF2.png)
@@ -230,7 +227,7 @@ Shadowed Unit Frames (SUF) provides customizable unit frames with range and aura
 
 Raeli's Unit Frames (RUF) is a configurable unit-frame AddOn built on oUF.
 
-🔗 [Download](https://github.com/bkader/RUF-WoTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/bkader/RUF-WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/bkader/RUF-WoTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/bkader/RUF-WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Raeli's%20Unit%20Frames.png)
 
@@ -238,7 +235,7 @@ Raeli's Unit Frames (RUF) is a configurable unit-frame AddOn built on oUF.
 
 ### Clique
 
-Clique enables click-casting and mouseover casting on unit frames without requiring separate macros. Bind mouse buttons or key combinations directly to spells and use them on Compact Raid Frame and other supported unit frames. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+Clique enables click-casting and mouseover casting on unit frames without requiring separate macros. Bind mouse buttons or key combinations directly to spells and use them on Compact Raid Frame and other supported unit frames.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -250,7 +247,7 @@ Clique enables click-casting and mouseover casting on unit frames without requir
 
 ### BigDebuffs
 
-BigDebuffs makes important crowd-control and defensive effects easier to see by placing duration icons on unit frames and enlarging priority debuffs on Compact Raid Frame. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+BigDebuffs makes important crowd-control and defensive effects easier to see by placing duration icons on unit frames and enlarging priority debuffs on Compact Raid Frame.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -262,7 +259,7 @@ BigDebuffs makes important crowd-control and defensive effects easier to see by 
 
 ### OmniCD
 
-OmniCD tracks party and raid members' spell and item cooldowns in real time. Its customizable icons and extra bars can attach to popular unit frames, including Compact Raid Frame. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+OmniCD tracks party and raid members' spell and item cooldowns in real time. Its customizable icons and extra bars can attach to popular unit frames, including Compact Raid Frame.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -276,18 +273,18 @@ OmniCD tracks party and raid members' spell and item cooldowns in real time. Its
 
 Decursive helps classes with dispel abilities identify and remove harmful effects from group members.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Decursive.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/decursive/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Decursive.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/decursive/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Decursive.jpg)
 
 
-## Boss Mods & Raid Tools
+# Boss Mods & Raid Tools
 
 ### DBM Deadly Boss Mods Warmane
 
 Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and reacting to the many boss mechanics one might encounter during a dungeon or raid. [How to install for the first time](https://github.com/Zidras/DBM-Warmane#how-to-install-for-the-first-time)
 
-🔗 [Download](https://github.com/Zidras/DBM-Warmane/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [How to install for the first time](https://github.com/Zidras/DBM-Warmane#how-to-install-for-the-first-time) · [Github](https://github.com/Zidras/DBM-Warmane) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Zidras/DBM-Warmane/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [How to install for the first time](https://github.com/Zidras/DBM-Warmane#how-to-install-for-the-first-time) · [GitHub](https://github.com/Zidras/DBM-Warmane) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/DBM.png)
 
@@ -297,7 +294,7 @@ Deadly Boss Mods (DBM) is a popular addon that assists players in tracking and r
 
 AmILockedOut tracks which of your characters are saved to each instance, helping you keep track of raid and dungeon lockouts.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AmILockedOut.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/ailo/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AmILockedOut.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/ailo/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Ailo.jpg)
 
@@ -317,7 +314,7 @@ SavedInstances tracks raid and instance lockouts across all your characters. Hov
 
 KRU is a standalone collection of eight raid-utility modules originally included in [KPack](https://github.com/bkader/KPack). [More Information](https://github.com/bkader/KRU-WoTLK)
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/KRU.zip) &nbsp;|&nbsp; 💻 [KPack](https://github.com/bkader/KPack) · [More Information](https://github.com/bkader/KRU-WoTLK) · [Github](https://github.com/bkader/KRU-WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/KRU.zip) &nbsp;|&nbsp; 💻 [KPack](https://github.com/bkader/KPack) · [More Information](https://github.com/bkader/KRU-WoTLK) · [GitHub](https://github.com/bkader/KRU-WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/KRU.png)
 
@@ -337,7 +334,7 @@ Method Raid Tools provides tools for raiders, raid leaders and officers. Its mod
 
 BLT Raid Cooldowns tracks offensive and defensive raid cooldowns, announces their use and availability, and reports cooldown usage after boss fights. This version also supports trinket cooldowns.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BLT.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/freix1/BLT_WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BLT.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/freix1/BLT_WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/blt.jpg)
 
@@ -357,7 +354,7 @@ Raeli's Spell Announcer (RSA) announces selected spell casts in chat, including 
 
 RaidBuffStatus checks raid readiness and reports missing buffs, consumables, low mana and AFK players through a configurable dashboard or group chat.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidBuffStatus.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/raidbuffstatus/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidBuffStatus.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/raidbuffstatus/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/RaidBuffStatus.PNG)
 
@@ -367,7 +364,7 @@ RaidBuffStatus checks raid readiness and reports missing buffs, consumables, low
 
 RaidComp gives raid leaders an overview of their group composition and the buffs and debuffs it can provide, helping identify missing coverage.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidComp.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidComp.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/RaidComp.png)
 
@@ -377,7 +374,7 @@ RaidComp gives raid leaders an overview of their group composition and the buffs
 
 KRT provides a collection of raid tools designed to help raid leaders manage their group. [More Information](https://github.com/bkader/KRT)
 
-🔗 [Download](https://github.com/bkader/KRT/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [More Information](https://github.com/bkader/KRT) · [Github](https://github.com/bkader/KRT) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/bkader/KRT/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [More Information](https://github.com/bkader/KRT) · [GitHub](https://github.com/bkader/KRT) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/KRT.jpg)
 
@@ -387,7 +384,7 @@ KRT provides a collection of raid tools designed to help raid leaders manage the
 
 Raid Roll assigns an ID to each raid member, performs a roll and announces the winner. It can also track player rolls for dropped loot.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidRoll.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://legacy.curseforge.com/wow/addons/raid-roll/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RaidRoll.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://legacy.curseforge.com/wow/addons/raid-roll/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/RaidRoll.png)
 
@@ -407,7 +404,7 @@ PhoenixStyle tracks raid mistakes and other boss-fight information to help raid 
 
 GTFO plays audible warnings when you stand in harmful effects, helping you react to avoidable damage in dungeons and raids.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/GTFO.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/gtfo) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/GTFO.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/gtfo) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/GTFO.jpg)
 
@@ -457,7 +454,7 @@ Provides a clearer visual display of the Corporeality buff during phase 3 of the
 
 DocsCorporeality helps you track Corporeality during phase 3 of the Halion encounter in Ruby Sanctum.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DocsCorporeality_r3.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/docscorporeality) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DocsCorporeality_r3.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/docscorporeality) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/DocsCorporeality.jpg)
 
@@ -467,18 +464,18 @@ DocsCorporeality helps you track Corporeality during phase 3 of the Halion encou
 
 AutomaticWeaponRemoval can unequip melee weapons when you are mind-controlled during supported encounters. It also offers features such as removing Righteous Fury when you are not tanking. Configure it through the interface or `/awr`.
 
-🔗 [Download](https://github.com/SecretX33/AutomaticWeaponRemoval/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/SecretX33/AutomaticWeaponRemoval/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/SecretX33/AutomaticWeaponRemoval/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/SecretX33/AutomaticWeaponRemoval/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/AutomaticWeaponRemoval.png)
 
 
-## Damage Meters, Auras & Combat Info
+# Damage Meters, Auras & Combat Info
 
 ### Critline
 
 Critline records your highest hits, critical strikes, heals and pet attacks. It includes record tooltips, filters, a standalone window and alerts for new records.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Critline.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/critline) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Critline.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/critline) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Critline.png)
 
@@ -490,7 +487,7 @@ Skada is the recommended choice for WotLK 3.3.5a. Both AddOns track damage, heal
 
 > ⚠️ Use only one damage meter at a time.
 
-🔗 [Download Skada](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip) · [Download Details!](https://github.com/Bunny67/Details-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Skada Github](https://github.com/bkader/Skada-WoTLK) · [Details! Github](https://github.com/Bunny67/Details-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download Skada](https://github.com/bkader/Skada-WoTLK/archive/refs/heads/main.zip) · [Download Details!](https://github.com/Bunny67/Details-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Skada GitHub](https://github.com/bkader/Skada-WoTLK) · [Details! GitHub](https://github.com/Bunny67/Details-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/skadaxdetails.png)
 
@@ -520,7 +517,7 @@ WeakAuras lets you create customizable displays for buffs, debuffs, cooldowns an
 
 TellMeWhen is a WoW addon that provides visual, auditory, and textual notifications about cooldowns, buffs, and pretty much every other element of combat.
 
-🔗 [Download](https://github.com/bkader/TellMeWhen_3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://github.com/bkader/TellMeWhen_3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/bkader/TellMeWhen_3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://github.com/bkader/TellMeWhen_3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/TellMeWhen.jpg)
 
@@ -530,7 +527,7 @@ TellMeWhen is a WoW addon that provides visual, auditory, and textual notificati
 
 NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as timer bars that always appear in a consistent place on your screen.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/NeedToKnow.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/NeedToKnow.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/needtoknow.jpg)
 
@@ -540,7 +537,7 @@ NeedToKnow lets you monitor specific buffs, debuffs, cooldowns, and totems as ti
 
 EventHorizon displays your class and specialization's rotational abilities on a shared timeline, making it easier to see how their timings overlap.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/EventHorizon.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/eventhorizon) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/EventHorizon.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/eventhorizon) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/eventhorizon.gif)
 
@@ -560,7 +557,7 @@ ForteXorcist tracks damage-over-time effects on multiple targets and provides ad
 
 Adds numeric cooldown timers to spells, abilities, and items, turning the default analog cooldown swirl into clear digital countdown text. Works with the default UI and most addons. Use /omnicc or /occ to open the options.
 
-🔗 [Download](https://github.com/NoM0Re/OmniCC-WotLK/releases/latest/download/OmniCC.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/OmniCC-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/OmniCC-WotLK/releases/latest/download/OmniCC.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/OmniCC-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/OmniCC.jpg)
 
@@ -590,7 +587,7 @@ Quartz provides modular casting bars for tracking spell casts and channeling.
 
 SexyCooldown is a single consolidated timer bar for all your spell, pet's spell, item, and proc cooldowns, as well as buffs, debuffs, and totem timers. It's very flexible, and can be customized to fit into your UI as best you see fit.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SexyCooldown.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/sexycooldown/files?version=3.3.3) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SexyCooldown.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/sexycooldown/files?version=3.3.3) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/SexyCooldown.png)
 
@@ -665,13 +662,13 @@ TrufiGCD displays recently used abilities for you, party members and arena playe
 ![](src/Pictures/TrufiGCD.gif)
 
 
-## Nameplates
+# Nameplates
 
 ### Tidy Plates
 
 Tidy Plates customizes nameplates and displays information such as threat and health percentages.
 
-🔗 [Download](https://github.com/bkader/TidyPlates_WoTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/bkader/TidyPlates_WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/bkader/TidyPlates_WoTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/bkader/TidyPlates_WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/TidyPlates.jpg)
 
@@ -681,7 +678,7 @@ Tidy Plates customizes nameplates and displays information such as threat and he
 
 NotPlater is a customizable nameplate AddOn inspired by Plater. It provides detailed threat information and configurable display options. Open its settings with the minimap button, `/np` or `/notplater`.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/NotPlater-3.3.5.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/RichSteini/NotPlater) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/NotPlater-3.3.5.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/RichSteini/NotPlater) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/NotPlater.png)
 ![](src/Pictures/NotPlater1.png)
@@ -704,18 +701,18 @@ iTargetingFrames displays nameplate units in a clickable grid. It requires a cli
 
 > **Does not work on servers that do not support AwesomeWotLK features (e.g. Warmane).**
 
-🔗 [Download](https://github.com/CH33T4/iTargetingFrames/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/CH33T4/iTargetingFrames) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/CH33T4/iTargetingFrames/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/CH33T4/iTargetingFrames) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/iTargetingFrames.jpg)
 
 
-## Quests, Leveling & Immersion
+# Quests, Leveling & Immersion
 
 ### TurnIn
 
 TurnIn automates quest acceptance, quest turn-ins and selected NPC dialogue options. Open its options with `/ti window`.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TurnIn-2.1.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/turn-in/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TurnIn-2.1.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/turn-in/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/TurnIn.PNG)
 
@@ -725,7 +722,7 @@ TurnIn automates quest acceptance, quest turn-ins and selected NPC dialogue opti
 
 Questie displays quest objectives, NPCs and items on the map and adds helpful quest information to tooltips, making it easier to find and complete quests.
 
-🔗 [Download](https://github.com/Aldori15/Questie/archive/refs/heads/335.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Aldori15/Questie) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Aldori15/Questie/archive/refs/heads/335.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Aldori15/Questie) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Questie.png)
 
@@ -735,7 +732,7 @@ Questie displays quest objectives, NPCs and items on the map and adds helpful qu
 
 Zygor Guides Viewer Remaster is a modernized version of the classic Zygor Guides Viewer, built specifically for World of Warcraft: Wrath of the Lich King (3.3.5a / build 12340) private servers. It preserves the original 3.3.5a guide engine, step system, and waypoint workflow while introducing a cleaner, retail-inspired UI, an improved Guide Manager, updated arrow and objective styling, accessibility options (including colorblind presets), and ongoing compatibility support for WotLK 3.3.5a environments. The addon includes step-by-step leveling guidance, waypoint navigation, structured quest flow, and an integrated Talent Advisor - all packaged in a remastered, streamlined viewer designed for long play sessions.
 
-🔗 [Download](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/ZygorGuides.png)
 
@@ -745,7 +742,7 @@ Zygor Guides Viewer Remaster is a modernized version of the classic Zygor Guides
 
 QuestHelper uses a database of quests, NPCs and items to show where your objectives are and plan efficient routes between them.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/QuestHelper.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/QuestHelper.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/QuestHelper.jpg)
 
@@ -765,7 +762,7 @@ EveryQuest tracks your quest history and provides a searchable quest-list window
 
 Carbonite replaces the world map with a Google Maps-style interface and includes quest-tracking tools.
 
-🔗 [Download](https://github.com/anzz1/Carbonite-3.3.5/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/anzz1/Carbonite-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/anzz1/Carbonite-3.3.5/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/anzz1/Carbonite-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Carbonite.png)
 
@@ -775,7 +772,7 @@ Carbonite replaces the world map with a Google Maps-style interface and includes
 
 Vd-skip is a lightweight addon that streamlines NPC interactions by automatically skipping unnecessary dialogue with vendors and flight masters.
 
-🔗 [Download](https://github.com/Stradios/Vd-skip/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Stradios/Vd-skip) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Stradios/Vd-skip/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/Vd-skip) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/no-vd-skip.gif)
 
@@ -785,7 +782,7 @@ Vd-skip is a lightweight addon that streamlines NPC interactions by automaticall
 
 Overachiever provides tools and tweaks to make the lives of players seeking achievements a little bit easier.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Overachiever.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/overachiever) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Overachiever.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/overachiever) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Overachiever3.jpg)
 ![](src/Pictures/Overachiever.jpg)
@@ -807,7 +804,7 @@ What's Training? adds a new spellbook tab that lists every trainable spell for y
 
 Immersion replaces the default quest and NPC dialogue windows with a more immersive interface.
 
-🔗 [Download](https://github.com/s0h2x/Immersion-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/s0h2x/Immersion-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/s0h2x/Immersion-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/s0h2x/Immersion-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Immersion.png)
 
@@ -817,7 +814,7 @@ Immersion replaces the default quest and NPC dialogue windows with a more immers
 
 Storyline replaces the quest window with an immersive dialogue interface featuring animated 3D character models and visual effects.
 
-🔗 [Download latest release](https://github.com/shadovvs/WotLK-Storyline/releases/latest) &nbsp;|&nbsp; 💻 [Github](https://github.com/shadovvs/WotLK-Storyline/tree/v1.0.1) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download latest release](https://github.com/shadovvs/WotLK-Storyline/releases/latest) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/shadovvs/WotLK-Storyline/tree/v1.0.1) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Storyline.png)
 
@@ -827,18 +824,18 @@ Storyline replaces the quest window with an immersive dialogue interface featuri
 
 An immersive quest / gossip / book dialog UI for World of Warcraft 3.3.5a.
 
-🔗 [Download](https://github.com/ghbset/DialogUI-WotLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/ghbset/DialogUI-WotLK) · [Warperia](https://warperia.com/wotlk-addons/) · [Warperia Microsoft Store App](https://warperia.com/app-download/) · [CurseForge (3.3.5)](https://www.curseforge.com/wow/search?page=1&pageSize=20&sortBy=relevancy&class=addons&version=3.3.5) · [Legacy-WoW](https://legacy-wow.com/wotlk-addons/) · [RG](https://addons.rising-gods.de/addons) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/ghbset/DialogUI-WotLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/ghbset/DialogUI-WotLK) · [Warperia](https://warperia.com/wotlk-addons/) · [Warperia Microsoft Store App](https://warperia.com/app-download/) · [CurseForge (3.3.5)](https://www.curseforge.com/wow/search?page=1&pageSize=20&sortBy=relevancy&class=addons&version=3.3.5) · [Legacy-WoW](https://legacy-wow.com/wotlk-addons/) · [RG](https://addons.rising-gods.de/addons) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/DialogUI1.png)
 
 
-## Maps, Minimaps & Atlases
+# Maps, Minimaps & Atlases
 
 ### AtlasLoot Enhanced
 
 AtlasLoot Enhanced lets you browse boss loot tables from within the game.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AtlasLoot.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AtlasLoot.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Atlasloot.jpeg)
 
@@ -848,7 +845,7 @@ AtlasLoot Enhanced lets you browse boss loot tables from within the game.
 
 Mapster improves the world map and is designed to work alongside other map AddOns.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Mapster.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/mapster) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Mapster.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/mapster) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Mapster.png)
 
@@ -888,7 +885,7 @@ pMinimap is a very lightweight and streamlined Minimap addon.
 
 A clean square or round minimap that replaces the default minimap.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/CleanMinimap.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/cleanminimap) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/CleanMinimap.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/cleanminimap) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/CMM.jpg)
 ![](src/Pictures/CMM2.jpg)
@@ -909,7 +906,7 @@ SexyMap customizes the minimap with a selection of predefined visual styles.
 
 pretty_minimap is a lightweight minimap AddOn with a Dragonflight-style appearance.
 
-🔗 [Download](https://github.com/s0h2x/pretty_minimap/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/s0h2x/pretty_minimap/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/s0h2x/pretty_minimap/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/s0h2x/pretty_minimap/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/pretty_minimap.png)
 
@@ -929,7 +926,7 @@ Atlas provides detailed dungeon and raid maps with markers for bosses, entrances
 
 CartoMapper combines map reveal, zooming, coordinates, group icons, points of interest, waypoints, instance maps and battlefield-minimap enhancements in one AddOn for WotLK 3.3.5a.
 
-🔗 [Download from the official source](https://github.com/Zendevve/CartoMapper) &nbsp;|&nbsp; 💻 [Github](https://github.com/Zendevve/CartoMapper) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download from the official source](https://github.com/Zendevve/CartoMapper) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Zendevve/CartoMapper) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/CartoMapper.png)
 
@@ -944,13 +941,13 @@ Leatrix Maps enhances the world map with a movable borderless window, opacity co
 ![](src/Pictures/LeatrixMaps.png)
 
 
-## Bags, Bank & Inventory
+# Bags, Bank & Inventory
 
 ### AdiBags
 
 AdiBags combines your bags into a single view and automatically groups items into categories using smart filters.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AdiBags.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AdiBags.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/AdiBags.png)
 
@@ -960,7 +957,7 @@ AdiBags combines your bags into a single view and automatically groups items int
 
 Bagnon combines your bags into a single interface with search and sorting features to help you find and organize items.
 
-🔗 [Download](https://github.com/RichSteini/Bagnon-3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/RichSteini/Bagnon-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/RichSteini/Bagnon-3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/RichSteini/Bagnon-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Bagnon.png)
 
@@ -980,7 +977,7 @@ OmniInventory combines your bags, bank, and guild bank in one searchable interfa
 
 Ludwig is an in-game item database with search and filtering options, making it easier to find items and compare their properties.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Ludwig.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/ludwig) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Ludwig.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/ludwig) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Ludwig.jpeg)
 
@@ -995,7 +992,7 @@ Altoholic keeps information about your other characters in one place, including 
 ![](src/Pictures/Altoholic.png)
 
 
-## Auction House, Economy & Professions
+# Auction House, Economy & Professions
 
 ### Gatherer+
 
@@ -1011,7 +1008,7 @@ Gatherer+ remembers where you have gathered herbs, mined ore or opened container
 
 Auctionator simplifies browsing, buying and selling at the Auction House, with clearer listings and easier auction management. This is the Cataclysm-port version for WotLK.
 
-🔗 [Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/alchem1ster/WotLK-Auctionator) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/alchem1ster/WotLK-Auctionator) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Auctionator.png)
 
@@ -1021,7 +1018,7 @@ Auctionator simplifies browsing, buying and selling at the Auction House, with c
 
 TradeSkillMaster is an all-in-one suite for the in-game economy, backported to WotLK 3.3.5a. It includes auction-house scanning and bulk posting, crafting and profit management, item groups and operations, mailing, banking, vendoring, and accounting.
 
-🔗 [Download](https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](https://media.forgecdn.net/attachments/311/730/untitled.png)
 
@@ -1031,7 +1028,7 @@ TradeSkillMaster is an all-in-one suite for the in-game economy, backported to W
 
 DalaranAH adds a customizable button for the Auction House NPC in Dalaran. Use it to target, focus or mark the NPC and open the Auction House without manually selecting the dialogue option.
 
-🔗 [Download](https://github.com/NoM0Re/DalaranAH/releases/latest/download/DalaranAH.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/DalaranAH/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/DalaranAH/releases/latest/download/DalaranAH.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/DalaranAH/) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](https://i.ibb.co/WzPWxH1/Dalaran-AH2.png)
 ![](https://i.ibb.co/JKZmkjP/Dalaran-AH.png)
@@ -1042,7 +1039,7 @@ DalaranAH adds a customizable button for the Auction House NPC in Dalaran. Use i
 
 Emblem of Gold is a simple World of Warcraft addon that shows your gold and emblem counts (Heroism, Valor, Conquest, Triumph, Frost) when you open a vendor.
 
-🔗 [Download](https://github.com/Stradios/Emblem-of-Gold/releases/latest) &nbsp;|&nbsp; 💻 [Github](https://github.com/Stradios/Emblem-of-Gold) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Stradios/Emblem-of-Gold/releases/latest) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Stradios/Emblem-of-Gold) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/EmblemOfGold.png)
 
@@ -1062,7 +1059,7 @@ Postal+ adds extra tools for managing your mailbox. This version includes additi
 
 Ackis Recipe List is an AddOn which will scan your trade skills and provide information on how to obtain recipes.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AckisRecipeList.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/arl) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/AckisRecipeList.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/arl) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/AckisRecipeList.jpg)
 
@@ -1082,7 +1079,7 @@ RecipeColor colors recipes your character already knows green in bags, banks, ma
 
 Improved Profession Capper suggests which recipes to craft next when leveling your professions. Its recommendations appear alongside the profession window.
 
-🔗 [Download](https://github.com/DarkChimu/Improved-Profession-Capper/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/DarkChimu/Improved-Profession-Capper) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/DarkChimu/Improved-Profession-Capper/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/DarkChimu/Improved-Profession-Capper) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Improved-Profession-Capper.jpeg)
 
@@ -1092,18 +1089,18 @@ Improved Profession Capper suggests which recipes to craft next when leveling yo
 
 Molinari lets you perform supported item-processing actions directly from your bags by holding Alt and clicking an item, without opening the profession window or using a macro.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Molinari.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/molinari) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Molinari.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/molinari) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Molinari.png)
 
 
-## Chat, Social & Group Finder
+# Chat, Social & Group Finder
 
 ### Chatter
 
 Chatter customizes the chat interface with options such as class-colored names, timestamps, fonts, chat-copying tools and URL copying.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Chatter.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Chatter.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Chatter.jpg)
 
@@ -1113,7 +1110,7 @@ Chatter customizes the chat interface with options such as class-colored names, 
 
 BNetToast shows Battle.net-style online and offline notifications for friends and guild members.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BNetToast.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/crumdidlyumshis/BNetToast) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BNetToast.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/crumdidlyumshis/BNetToast) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/BNetToast.png)
 
@@ -1135,7 +1132,7 @@ ChatFilter hides messages containing words from a configurable blacklist in say,
 
 Efficiently blocks all opposite-faction chat spam in neutral cities (Dalaran, Shattrath, etc) and other neutral areas. Still shows their messages if you are outside of neutral zones, to preserve situational awareness of nearby enemies.
 
-🔗 [Download](https://github.com/Arcitec/STFU_Chat_Filter/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Arcitec/STFU_Chat_Filter) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/Arcitec/STFU_Chat_Filter/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Arcitec/STFU_Chat_Filter) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/STFU.png)
 
@@ -1145,7 +1142,7 @@ Efficiently blocks all opposite-faction chat spam in neutral cities (Dalaran, Sh
 
 Friend & Ignore Share shares your friend and ignore lists across characters on the same account.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/FriendShare.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/friend-ignore-share) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/FriendShare.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/friend-ignore-share) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/FriendShare.png)
 
@@ -1165,7 +1162,7 @@ IgnoreMore expands the ignore list beyond the default limit and shares it betwee
 
 WIM displays whispers in separate instant-messenger-style windows.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/WIM.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/WIM.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/WIM.jpg)
 
@@ -1195,7 +1192,7 @@ GroupBulletinBoard organizes dungeon and group requests from chat into a filtera
 
 AutoFlood periodically posts a configured message to a chat channel, for example for guild recruitment, crafting services or events.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/autoflood.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/autoflood) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/autoflood.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/autoflood) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/autoflood.PNG)
 
@@ -1205,7 +1202,7 @@ AutoFlood periodically posts a configured message to a chat channel, for example
 
 Redeemer sends humorous chat messages when you cast a resurrection spell.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Redeemer.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Lightball-TFK/Redeemer-3.3.5a) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Redeemer.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Lightball-TFK/Redeemer-3.3.5a) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Reedemer.png)
 
@@ -1215,7 +1212,7 @@ Redeemer sends humorous chat messages when you cast a resurrection spell.
 
 AddFriend adds Add Friend and Add Guild options to player context menus.
 
-🔗 [Download](https://github.com/NoM0Re/AddFriend-3.3.5a/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/AddFriend-3.3.5a) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/AddFriend-3.3.5a/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/AddFriend-3.3.5a) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/AddFriend.jpeg)
 
@@ -1230,7 +1227,7 @@ AddEmote lets you create custom `/command` emotes for your characters. Open its 
 ![](src/Pictures/addemote.jpeg)
 
 
-## PvP, Arena & Battlegrounds
+# PvP, Arena & Battlegrounds
 
 ### BattleGroundHealers
 
@@ -1246,7 +1243,7 @@ BattleGroundHealers detects healers in battlegrounds through combat-log activity
 
 GladiusEx adds customizable enemy unit frames for arenas, making targeting and focusing easier. Individual features can be enabled or disabled.
 
-🔗 [Download](https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/ManneN1/GladiusExBackport-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/ManneN1/GladiusEx-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/ManneN1/GladiusExBackport-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/GladiusEX.PNG)
 
@@ -1254,7 +1251,7 @@ GladiusEx adds customizable enemy unit frames for arenas, making targeting and f
 
 ### Gladdy
 
-Gladdy provides customizable arena enemy frames with health, cooldown, diminishing-return, aura, cast-bar, and totem information for competitive PvP. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+Gladdy provides customizable arena enemy frames with health, cooldown, diminishing-return, aura, cast-bar, and totem information for competitive PvP.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -1266,7 +1263,7 @@ Gladdy provides customizable arena enemy frames with health, cooldown, diminishi
 
 ### OmniBar
 
-OmniBar tracks enemy spell cooldowns on one or more configurable bars, giving PvP players a clear view of when important interrupts, crowd control, and defensive abilities are available again. **Requires:** [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)
+OmniBar tracks enemy spell cooldowns on one or more configurable bars, giving PvP players a clear view of when important interrupts, crowd control, and defensive abilities are available again.
 
 > **Requires: [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip)**
 
@@ -1290,7 +1287,7 @@ InterruptBar tracks enemy interrupt cooldowns on a compact bar.
 
 LoseControl makes it easy to see the duration of crowd control spells by displaying them in a dedicated icon onscreen.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/LoseControl.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/LoseControl.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/LoseControl.jpg)
 
@@ -1325,13 +1322,13 @@ Spy detects enemy players through combat-log activity and adds them to a nearby-
 ![](src/Pictures/spy.png)
 
 
-## Class-Specific
+# Class-Specific
 
 ### Mage Nuggets
 
 Mage Nuggets provides tools for mages, including proc alerts, Polymorph tracking and a portal menu.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MageNuggets.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/mage-nuggets/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MageNuggets.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/mage-nuggets/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Mage%20Nuggets.jpg)
 
@@ -1341,7 +1338,7 @@ Mage Nuggets provides tools for mages, including proc alerts, Polymorph tracking
 
 PallyPower Improved helps paladins manage blessings, auras, seals and Righteous Fury through an interactive interface with indicators for missing buffs. [Please read the Installation Steps!](https://github.com/NoM0Re/PallyPower-Improved-3.3.5?tab=readme-ov-file#installation)
 
-🔗 [Download](https://github.com/NoM0Re/PallyPower-Improved-3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Please read the Installation Steps!](https://github.com/NoM0Re/PallyPower-Improved-3.3.5?tab=readme-ov-file#installation) · [Github](https://github.com/NoM0Re/PallyPower-Improved-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/PallyPower-Improved-3.3.5/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Please read the Installation Steps!](https://github.com/NoM0Re/PallyPower-Improved-3.3.5?tab=readme-ov-file#installation) · [GitHub](https://github.com/NoM0Re/PallyPower-Improved-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/pallypower.jpg)
 
@@ -1351,7 +1348,7 @@ PallyPower Improved helps paladins manage blessings, auras, seals and Righteous 
 
 EclipseBar displays a druid Eclipse bar whose marker follows the remaining Eclipse duration instead of a power value.
 
-🔗 [Download](https://github.com/bkader/EclipseBar-WotLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/bkader/EclipseBar-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/bkader/EclipseBar-WotLK/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/bkader/EclipseBar-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Eclipse.gif)
 
@@ -1361,18 +1358,18 @@ EclipseBar displays a druid Eclipse bar whose marker follows the remaining Eclip
 
 SmartTrack automatically selects hunter tracking based on your target's creature type when you enter combat or change targets. It is intended for hunters with the Improved Tracking talent.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SmartTrack.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/smarttrack/files) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SmartTrack.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/smarttrack/files) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/SmartTrack.png)
 
 
-## Gear, Talents, Tooltips & Appearance
+# Gear, Talents, Tooltips & Appearance
 
 ### Talented
 
 Talented replaces the default talent window with an expanded talent interface.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Talented.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/bkader/Talented_WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Talented.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/bkader/Talented_WoTLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/talented.jpg)
 
@@ -1399,7 +1396,7 @@ GearScore calculates a score from a player's equipped items to give a quick over
 
 Adds IDs to in-game tooltips.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SpellID.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/idtip) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/SpellID.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/idtip) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/SpellID.jpg)
 
@@ -1469,7 +1466,7 @@ ClassLoot adds Kaliban's class and specialization ratings to raid-loot tooltips,
 
 RatingBuster adds rating conversions, stat breakdowns, item-level information, and equipment comparisons directly to item tooltips.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RatingBuster.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/Einherjarn/RatingBuster-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/RatingBuster.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Einherjarn/RatingBuster-3.3.5) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/RaitingBuster.jpg)
 
@@ -1479,7 +1476,7 @@ RatingBuster adds rating conversions, stat breakdowns, item-level information, a
 
 TipTac customizes tooltips, including their position, font, size and scale.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TipTac.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/tip-tac) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/TipTac.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/tip-tac) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/tic.jpg)
 ![](src/Pictures/tic2.jpg)
@@ -1500,18 +1497,18 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 
 DressMe lets you preview item appearances and create and save character looks.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DressMe.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/GetLocalPlayer/DressMe) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/DressMe.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/GetLocalPlayer/DressMe) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/DressMe.gif)
 
 
-## Quality of Life, Keybinds & Profiles
+# Quality of Life, Keybinds & Profiles
 
 ### Addon Control Panel
 
 Addon Control Panel (ACP) adds an AddOns button to the game menu so you can enable or disable AddOns and reload the UI without logging out.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ACP.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ACP.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/ACP.jpg)
 
@@ -1531,7 +1528,7 @@ AutoRepair automatically repairs your equipment when you visit a merchant who ca
 
 BindPad lets you assign keybindings directly to spells, items and macros without placing them on action bars. Drag an action into a BindPad slot and click the slot to set its binding.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BindPad.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/bind-pad) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BindPad.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/bind-pad) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Bindpad.jpg)
 
@@ -1541,7 +1538,7 @@ BindPad lets you assign keybindings directly to spells, items and macros without
 
 BugSack collects Lua errors and displays their full debug stacks, helping players and developers investigate AddOn problems.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BugSack.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/bugsack) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/BugSack.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/bugsack) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/BugSack.jpg)
 
@@ -1551,7 +1548,7 @@ BugSack collects Lua errors and displays their full debug stacks, helping player
 
 Collectinator identifies missing companion pets and mounts and shows where to obtain them. Open your companion window and click the scan button.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Collectinator.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/collectinator) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/Collectinator.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/collectinator) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Collectinator.jpg)
 
@@ -1561,7 +1558,7 @@ Collectinator identifies missing companion pets and mounts and shows where to ob
 
 Key Bind Profiles saves keybindings in profiles that you can load later. Profiles can be assigned to specializations and loaded automatically when you switch specs. Use `/kbp help` for commands.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/KeyBindingsProfiler.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/keybindprofiles) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/KeyBindingsProfiler.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/keybindprofiles) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/KeyBindProfiles.jpg)
 
@@ -1571,7 +1568,7 @@ Key Bind Profiles saves keybindings in profiles that you can load later. Profile
 
 Move your setup to another character, realm or server: action bars (all 120 slots, both specs), character macros, keybindings (incl. Bartender4), talents and glyphs. Includes talent templates with Wowhead import/export, a visual preview and an automatic backup before every restore.
 
-🔗 [Download](https://github.com/pabhoz/Soulstone-WoW-Addon/releases/latest/download/Soulstone.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/pabhoz/Soulstone-WoW-Addon) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/pabhoz/Soulstone-WoW-Addon/releases/latest/download/Soulstone.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/pabhoz/Soulstone-WoW-Addon) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/Soulstone1.png)
 
@@ -1581,7 +1578,7 @@ Move your setup to another character, realm or server: action bars (all 120 slot
 
 Action Bar Saver 2 saves action-bar layouts for spells, macros and items in named profiles. Use `/abs save name` to save a layout and `/abs restore name` to restore it.
 
-🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ActionBarSaver.zip) &nbsp;|&nbsp; 💻 [Curseforge](https://www.curseforge.com/wow/addons/action-bar-saver/files/all?page=1&pageSize=20&version=3.2.0) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/ActionBarSaver.zip) &nbsp;|&nbsp; 💻 [CurseForge](https://www.curseforge.com/wow/addons/action-bar-saver/files/all?page=1&pageSize=20&version=3.2.0) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/ActionButtonSaver2.gif)
 
@@ -1601,7 +1598,7 @@ MacroBank is an addon that allows you to easily create, organize, and save macro
 
 Manage all your AceDB-based addon profiles from one single interface. Open it with /profiles or /upm to view, switch, copy, and clean up profiles across addons and characters, all in one compact list.
 
-🔗 [Download](https://github.com/NoM0Re/UnifiedProfileManager-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/UnifiedProfileManager-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/NoM0Re/UnifiedProfileManager-WotLK/archive/refs/heads/master.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/UnifiedProfileManager-WotLK) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/upm.png)
 
@@ -1616,7 +1613,7 @@ Leatrix Plus provides a collection of optional quality-of-life improvements for 
 ![](src/Pictures/LeatrixPlus.png)
 
 
-## Libraries, Media & Update Tools
+# Libraries, Media & Update Tools
 
 ### ClassicAPI
 
@@ -1635,10 +1632,10 @@ SharedMedia packs add fonts, status-bar textures, borders and sounds to LibShare
 **SharedMedia Retail:** Additional bar textures and fonts from the retail media pack.<br/>
 **SharedMediaAdditionalFonts:** Additional fonts.
 
-🔗 [Download Shared Media bKader](https://github.com/bkader/SharedMedia/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/bkader/SharedMedia)<br/>
+🔗 [Download Shared Media bKader](https://github.com/bkader/SharedMedia/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/bkader/SharedMedia)<br/>
 🔗 [Download MerfinPlus](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/MerfinPlus.zip)<br/>
-🔗 [Download Shared Media Retail](https://github.com/NoM0Re/SharedMedia/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/SharedMedia)<br/>
-🔗 [Download SharedMediaAdditionalFonts](https://github.com/NoM0Re/SharedMediaAdditionalFonts/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [Github](https://github.com/NoM0Re/SharedMediaAdditionalFonts)<br/>
+🔗 [Download Shared Media Retail](https://github.com/NoM0Re/SharedMedia/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/SharedMedia)<br/>
+🔗 [Download SharedMediaAdditionalFonts](https://github.com/NoM0Re/SharedMediaAdditionalFonts/archive/refs/heads/main.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/NoM0Re/SharedMediaAdditionalFonts)<br/>
 <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/SharedMedia.png)
@@ -1653,17 +1650,20 @@ Warperia is an AddOn manager for World of Warcraft private servers, including Wo
 
 ![Warperia App screenshot](src/Pictures/WarperiaApp.jpg)
 
+---
+
 ### AddOn Update Tool
 
 Updates World of Warcraft AddOns hosted on GitHub or GitLab. The provided `config.yaml` lists AddOns from this repository and can be extended with your own entries.
 
 **How to install:**
+
 1. Back up your Interface folder.
 2. Download and extract the AddOns Update Tool into your WoW folder.
 3. Place the provided `config.yaml` in the same WoW folder.
 4. Run the updater to update the configured AddOns.
 
-🔗 [Download](https://github.com/alchem1ster/AddOns-Update-Tool/releases) · [Download my config](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/config.yaml) &nbsp;|&nbsp; 💻 [Github](https://github.com/alchem1ster/AddOns-Update-Tool) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+🔗 [Download](https://github.com/alchem1ster/AddOns-Update-Tool/releases) · [Download my config](https://github.com/NoM0Re/WoW-3.3.5a-Addons/raw/main/src/Addons/config.yaml) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/alchem1ster/AddOns-Update-Tool) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
 
 ![](src/Pictures/AddOnsUpdaterTool.gif)
 

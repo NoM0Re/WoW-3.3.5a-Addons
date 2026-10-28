@@ -9,7 +9,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/acp/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -24,7 +24,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/Talented_WoTLK"
       }
     ]
@@ -39,7 +39,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/critline"
       }
     ]
@@ -58,7 +58,7 @@
         "url": "https://github.com/Arcitec/GearScoreLite_Reborn"
       },
       {
-        "label": "GearScore Lite Github",
+        "label": "GearScore Lite GitHub",
         "url": "https://github.com/Barsoomx/GearScoreLite"
       },
       {
@@ -77,7 +77,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/atlasloot-enhanced/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -96,7 +96,7 @@
         "url": "https://github.com/Zidras/DBM-Warmane#how-to-install-for-the-first-time"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Zidras/DBM-Warmane"
       }
     ]
@@ -111,11 +111,11 @@
     ],
     "source": [
       {
-        "label": "Skada Github",
+        "label": "Skada GitHub",
         "url": "https://github.com/bkader/Skada-WoTLK"
       },
       {
-        "label": "Details! Github",
+        "label": "Details! GitHub",
         "url": "https://github.com/Bunny67/Details-WotLK"
       }
     ]
@@ -145,7 +145,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/turn-in/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -160,7 +160,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Aldori15/Questie"
       }
     ]
@@ -175,7 +175,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/ErebusAres/ZygorGuidesRemaster-3.3.5a_WOTLK"
       }
     ]
@@ -190,7 +190,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/quest-helper/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -220,7 +220,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/anzz1/Carbonite-3.3.5"
       }
     ]
@@ -235,7 +235,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/mapster"
       }
     ]
@@ -311,7 +311,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/cleanminimap"
       }
     ]
@@ -341,13 +341,13 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/s0h2x/pretty_minimap/"
       }
     ]
   },
   {
-    "name": "Auctionator",
+    "name": "Auctionator (Cata Port Version)",
     "description_text": "Auctionator simplifies browsing, buying and selling at the Auction House, with clearer listings and easier auction management. This is the Cataclysm-port version for WotLK.",
     "primary_download": "https://github.com/alchem1ster/WotLK-Auctionator/archive/refs/heads/main.zip",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/Auctionator.png",
@@ -356,7 +356,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/alchem1ster/WotLK-Auctionator"
       }
     ]
@@ -371,7 +371,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Keoo88/TradeSkillMaster-3.3.5-backport"
       }
     ]
@@ -387,13 +387,13 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/DalaranAH/"
       }
     ]
   },
   {
-    "name": "Emblem of Gold",
+    "name": "Emblem of Gold V2",
     "description_text": "Emblem of Gold is a simple World of Warcraft addon that shows your gold and emblem counts (Heroism, Valor, Conquest, Triumph, Frost) when you open a vendor.",
     "primary_download": "https://github.com/Stradios/Emblem-of-Gold/releases/latest",
     "primary_image": "https://github.com/NoM0Re/WoW-3.3.5a-Addons/blob/main/src/Pictures/EmblemOfGold.png",
@@ -402,7 +402,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Stradios/Emblem-of-Gold"
       }
     ]
@@ -417,7 +417,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/chatter/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -432,7 +432,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/crumdidlyumshis/BNetToast"
       }
     ]
@@ -462,7 +462,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Arcitec/STFU_Chat_Filter"
       }
     ]
@@ -477,7 +477,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/friend-ignore-share"
       }
     ]
@@ -507,7 +507,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/wim-3/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -522,7 +522,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/addfriend"
       }
     ]
@@ -537,7 +537,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/idtip"
       }
     ]
@@ -552,7 +552,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/ailo/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -590,7 +590,7 @@
         "url": "https://github.com/bkader/KRU-WoTLK"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/KRU-WoTLK"
       }
     ]
@@ -620,7 +620,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/ExoJdi/Method-Raid-Tools-3.3.5a"
       }
     ]
@@ -635,7 +635,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/need-to-know/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -650,7 +650,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://github.com/bkader/TellMeWhen_3.3.5"
       }
     ]
@@ -665,7 +665,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/freix1/BLT_WotLK"
       }
     ]
@@ -680,7 +680,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/OmniCC-WotLK"
       }
     ]
@@ -710,7 +710,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/TidyPlates_WoTLK"
       }
     ]
@@ -726,7 +726,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/RichSteini/NotPlater"
       }
     ]
@@ -979,7 +979,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/blizzmove"
       }
     ]
@@ -994,7 +994,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/eventhorizon"
       }
     ]
@@ -1054,7 +1054,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/bartender4/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -1069,7 +1069,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/RUF-WoTLK"
       }
     ]
@@ -1085,7 +1085,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/shadowed-unit-frames/files/all?page=1&pageSize=20&version=3.3.5"
       }
     ]
@@ -1333,7 +1333,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5"
       }
     ]
@@ -1348,7 +1348,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/RichSteini/Bagnon-3.3.5"
       }
     ]
@@ -1378,7 +1378,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/decursive/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -1408,7 +1408,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/sexycooldown/files?version=3.3.3"
       }
     ]
@@ -1483,7 +1483,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/mage-nuggets/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -1498,7 +1498,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/PallyPower-Improved-3.3.5"
       }
     ]
@@ -1513,7 +1513,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/EclipseBar-WotLK"
       }
     ]
@@ -1648,7 +1648,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/autoflood"
       }
     ]
@@ -1663,7 +1663,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/raidbuffstatus/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -1678,7 +1678,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/CH33T4/iTargetingFrames"
       }
     ]
@@ -1693,7 +1693,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/arc/files/all?filter-game-version=2020709689%3A93"
       }
     ]
@@ -1712,7 +1712,7 @@
         "url": "https://github.com/bkader/KRT"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/KRT"
       }
     ]
@@ -1727,7 +1727,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://legacy.curseforge.com/wow/addons/raid-roll/files/all?filter-game-version=2020709689%3A98"
       }
     ]
@@ -1757,7 +1757,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/gtfo"
       }
     ]
@@ -1847,7 +1847,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Einherjarn/RatingBuster-3.3.5"
       }
     ]
@@ -1877,7 +1877,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/docscorporeality"
       }
     ]
@@ -1892,7 +1892,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/SecretX33/AutomaticWeaponRemoval/"
       }
     ]
@@ -1922,7 +1922,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/ManneN1/GladiusExBackport-WotLK"
       }
     ]
@@ -1996,7 +1996,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/losecontrol/files/all?filter-game-version=2020709689%3A82"
       }
     ]
@@ -2071,7 +2071,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/bind-pad"
       }
     ]
@@ -2087,7 +2087,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/tip-tac"
       }
     ]
@@ -2102,7 +2102,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/bugsack"
       }
     ]
@@ -2117,7 +2117,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/smarttrack/files"
       }
     ]
@@ -2147,7 +2147,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Stradios/Vd-skip"
       }
     ]
@@ -2164,7 +2164,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/overachiever"
       }
     ]
@@ -2179,7 +2179,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/arl"
       }
     ]
@@ -2224,7 +2224,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/collectinator"
       }
     ]
@@ -2239,7 +2239,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/ludwig"
       }
     ]
@@ -2254,7 +2254,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/DarkChimu/Improved-Profession-Capper"
       }
     ]
@@ -2269,7 +2269,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/molinari"
       }
     ]
@@ -2284,7 +2284,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/Lightball-TFK/Redeemer-3.3.5a"
       }
     ]
@@ -2314,7 +2314,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/s0h2x/Immersion-WotLK"
       }
     ]
@@ -2329,7 +2329,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/UnifiedProfileManager-WotLK"
       }
     ]
@@ -2344,7 +2344,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/shadovvs/WotLK-Storyline/tree/v1.0.1"
       }
     ]
@@ -2374,7 +2374,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/keybindprofiles"
       }
     ]
@@ -2389,7 +2389,7 @@
     ],
     "source": [
       {
-        "label": "Curseforge",
+        "label": "CurseForge",
         "url": "https://www.curseforge.com/wow/addons/action-bar-saver/files/all?page=1&pageSize=20&version=3.2.0"
       }
     ]
@@ -2419,15 +2419,15 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/bkader/SharedMedia"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/SharedMedia"
       },
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/NoM0Re/SharedMediaAdditionalFonts"
       }
     ]
@@ -2519,7 +2519,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/KhalGH/PlateBuffs-WoTLK"
       }
     ]
@@ -2534,7 +2534,7 @@
     ],
     "source": [
       {
-        "label": "Github",
+        "label": "GitHub",
         "url": "https://github.com/GetLocalPlayer/DressMe"
       }
     ]

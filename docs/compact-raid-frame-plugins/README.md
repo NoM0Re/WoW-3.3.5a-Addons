@@ -4,7 +4,7 @@
 
 > **Requires: [Compact Raid Frame](https://gitlab.com/tsoukie-3.3.5/compactraidframe/-/archive/main/compactraidframe-main.zip) and [ClassicAPI](https://gitlab.com/tsoukie-3.3.5/classicapi/-/archive/main/classicapi-main.zip) installed and enabled.**
 
-## Plugins
+# Plugins
 
 ### Enhanced Raid Frames
 
