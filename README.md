@@ -1669,6 +1669,22 @@ Updates World of Warcraft AddOns hosted on GitHub or GitLab. The provided `confi
 
 ---
 
+### AddOn Update Tool 3.3.5a
+
+A desktop app (GUI) for keeping 3.3.5a AddOns up to date from GitHub, GitLab and Codeberg. Browse a built-in catalog of 270+ AddOns verified for 3.3.5a, see what changed before you update, roll back with one click, and fix missing dependencies. It also imports the `config.yaml` above: you get a checklist of every AddOn in it and tick the ones you want.
+
+**How to use:**
+
+1. Download the portable `.exe` and run it (no installation needed).
+2. Select your `Wow.exe`.
+3. Add AddOns from the *Browse* tab, paste a GitHub/GitLab link, or use *Import config* with the link to the `config.yaml` above.
+
+🔗 [Download](https://github.com/Tntdruid/AddOn-Update-Tool-335a/releases/latest) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Tntdruid/AddOn-Update-Tool-335a) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+
+![AddOn Update Tool 3.3.5a screenshot](https://raw.githubusercontent.com/Tntdruid/AddOn-Update-Tool-335a/v0.3.0/assets/screenshots/managed.png)
+
+---
+
 ## More addon sources
 
 - [Warperia](https://warperia.com/wotlk-addons/) - including [Warperia app](https://warperia.com/app-download/)
