@@ -1138,6 +1138,16 @@ Efficiently blocks all opposite-faction chat spam in neutral cities (Dalaran, Sh
 
 ---
 
+### NoDalaranEnemyYells
+
+Hides yells from the opposing faction in the chat window while you are in Dalaran. Leaves /say untouched and needs no configuration. Yells in racial languages are hidden too, including your own faction's. Tested on the English client.
+
+🔗 [Download](https://github.com/dmandeveloper/NoDalaranEnemyYells/releases/latest/download/NoDalaranEnemyYells.zip) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/dmandeveloper/NoDalaranEnemyYells) &nbsp;|&nbsp; <a href="#contents"><img src="src/Pictures/BackToContents.svg" alt="Back to contents" width="13" height="13"></a>
+
+![](src/Pictures/NoDalaranEnemyYells.png)
+
+---
+
 ### Friend & Ignore Share
 
 Friend & Ignore Share shares your friend and ignore lists across characters on the same account.
